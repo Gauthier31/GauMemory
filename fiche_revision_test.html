@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GauMemory - Test de Révision</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Barre de navigation -->
+    <div class="navbar">
+        <div class="nav-left fs-24"><a href="index.html">GauMemory</a></div>
+        <div class="nav-center">
+            <a href="index.html">Liste</a>
+            <a href="liste_texte.html">Texte</a>
+            <a href="liste_audio.html">Audio</a>
+        </div>
+        <div class="nav-right">
+            <a href="#">Profil</a>
+        </div>
+    </div>
+
+    <div id="modal-pile" class="modal-pile">
+    </div>
+
+    <!-- Titre de la liste -->
+    <h1 id="titre-liste">Test - Anglais Vocabulaire</h1>
+
+    <div class="container">
+
+        <!-- Barre de progression avec les compteurs -->
+        <div class="row jc-space-between">
+            <span id="nbCorrect" style="color: var(--vertClair);">NaN</span>
+            <span>+</span>
+            <span id="nbCorrectDelay" style="color: var(--orangeClair);">NaN</span>
+            <span>+</span>
+            <span id="nbIncorrect" style="color: var(--rougeClair);">NaN</span>
+            <span>+</span>
+            <span id="nbAttente" style="color: var(--fondNoir);">NaN</span>
+            <span>+</span>
+            <span id="nbInconnu">NaN</span>
+        </div>
+
+        <div id="progress-container" class="progress-container mb-75">
+            <div id="progress-correct" class="progress-bar progress-correct"></div>
+            <div id="progress-correct-delay" class="progress-bar progress-correct-delay"></div>
+            <div id="progress-wrong" class="progress-bar progress-wrong"></div>
+            <div id="progress-waiting" class="progress-bar progress-waiting"></div>
+        </div>
+
+        <!-- Zone de test Terme -> Définition -->
+        <div id="blocSaisie" class="row jc-center g-20">
+            <textarea id="term-display" class="auto-resize-textarea fs-24" rows="1" disabled></textarea>
+
+            <span class="swap-icon fs-24">⇆</span>
+
+            <div class="row jc-center">
+                <div style="width: 100%; margin-right: 10px">
+                    <p id="consigne" class="consigne">
+                        &nbsp;</p>
+                    <textarea rows="1" id="definition-input" class="auto-resize-textarea saisieBordure fs-24"
+                        placeholder="Définition" onkeydown="enterInput(event)"></textarea>
+                </div>
+                <img src="logo/pen.png" class="button" onclick="editerTermDef()">
+            </div>
+        </div>
+
+        <div id="correct-definition-div" class="row jc-center fs-24 mt-20" style="padding-left: 20px;">
+            <p id="correct-definition-text">*_*</p>
+        </div>
+
+        <div id="validate-manual" class="row jc-center mt-20 g-20">
+            <button class="vert-btn fs-16" onclick="validateInput()">✔ / 1 / ↵</button>
+            <button class="gris-btn fs-16" onclick="midInput()">? / 2</button>
+            <button class="rouge-btn fs-16" onclick="rejectInput()">✘ / 3</button>
+        </div>
+
+
+        <!-- Boutons principaux -->
+        <div class="row jc-center mt-75 g-50">
+            <button id="save-file" class="bleu-btn fs-16" onclick="saveToFile()">Sauvegarder</button>
+            <div class="btnNumber">
+                <input id="reset-count" type="text" value="0">
+                <button id="reset-button" class="orange-btn fs-16" onclick="resetBtn()">Réinitialiser</button>
+            </div>
+            <button class="bleu-btn fs-16" onclick="changeSaisieDisplay()">Changer d'affichage</button>
+
+        </div>
+
+        <!-- Options du test -->
+        <div class="row row-cols-2 jc-space-around mt-50">
+            <div class="mb-20">
+                <p for="group-size" class="mr-10">Nombre d'élément <br /> par groupe :</p>
+                <input type="number" id="group-size" value="7" min="1" onchange="updateGroupSize()">
+            </div>
+
+            <div class="mb-20">
+                Se tester sur :
+                <p id="mean-1">
+                </p>
+                <p id="mean-2">
+                </p>
+                <p id="mean-3">
+                    Tous<input checked type="radio" name="test-mode" value="both" onclick="updateLangue('both')">
+                </p>
+            </div>
+
+            <div class="mb-20">
+                Seuil de validation :<br />
+                <input id="threshold-count" type="number" value="100" min="0" max="100">
+            </div>
+
+
+            <div class="mb-20">
+                <label for="affichageMobile">Affichage téléphone</label>
+                <input type="checkbox" checked id="affichageMobile" name="affichageMobile"
+                    onchange="displayMobile(this)" />
+            </div>
+
+            <div class="mb-20">
+                <label for="strongLearn">Apprentissage renforcer</label>
+                <input type="checkbox" id="strongLearn" name="strongLearn" onchange="changeStrongLearn(this)" />
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="js/bd/listeRevision.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/fiche_revision_test.js"></script>
+</body>
+
+</html>

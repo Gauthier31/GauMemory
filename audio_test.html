@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GauMemory - Test de l'Audio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="nav-left fs-24"><a href="index.html">GauMemory</a></div>
+        <div class="nav-center">
+            <a href="index.html">Liste</a>
+            <a href="liste_texte.html">Texte</a>
+            <a href="liste_audio.html">Audio</a>
+        </div>
+        <div class="nav-right">
+            <a href="#">Profil</a>
+        </div>
+    </div>
+
+    <h1 id="titre-audio">Test Audio</h1>
+
+    <div class="container mt-50">
+
+        <audio id="audioPlayer" class="mb-20" controls>
+            <source src="Audio/HARRY POTTER - Chapter 1 (Philosophers Stone) Audiobook in English for Beginners.mp3"
+                type="audio/mpeg">
+            Votre navigateur ne supporte pas le lecteur audio.
+        </audio>
+
+        <div id="training-audio" class="boxEntrainement"></div>
+
+        <input type="text" placeholder="Mot" class="saisieBordure inputMot fs-24 mt-20" id="definition-input"
+            onkeydown="enterInput(event)" />
+
+        <!-- Conteneur pour les boutons -->
+        <div class="row jc-center mt-100 g-50 bottom">
+            <button id="save-button" class="bleu-btn fs-16" onclick="saveFoundWords()">Sauvegarder</button>
+            <button id="reset-button" class="orange-btn fs-16" onclick="resetBtn()">Réinitialiser</button>
+        </div>
+    </div>
+
+    <script src="js/bd/listeTexte.js"></script>
+    <script src="js/bd/listeAudio.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/texte_audio_test.js"></script>
+</body>
+
+</html>

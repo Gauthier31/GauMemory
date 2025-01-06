@@ -1,0 +1,858 @@
+therefore (conjonction / adverbe)
+donc (conjonction) / par conséquent (advertbe) / alors / c'est pourquoi
+
+
+provide
+fournir / offrir / assurer / permettre / produire / apporter / prodiguer / apporter
+
+
+however (adverb)
+cependant / toutefois / en revanche / même / néanmoins / pourtant / peu importe comment
+
+
+support (nom / sth)
+support (nom) / appui (nom) / assistance (nom) / financement (nom) / supporter (qqch) / appuyer (qqch) / accompagner (qqch) / encourager (qqch) / parrainer (qqch)
+
+
+relevant (adj)
+pertinent (adj) / correspondant (adj) / adéquat (adj) / important (adj)
+
+
+issue (nom / sth)
+questions (nom) / problème (nom) / publication (nom) / numéro (nom) / enjeu (nom) / donner (v) / émettre (nom) / publier (v) / délivrer (qqch) / remettre (v) / fournir (v) / promulger (v)
+
+
+or (conjonction / adv)
+ou / environ (or so)
+
+
+thus (adv)
+donc (adv) / ainsi (adv)
+
+
+feedback (nom)
+commentaire / retour / feedback / réactions
+
+
+review (examiner)
+examiner (qqch) / revoir (qqch) / réviser (v) / vérifier  (qqch)/ étudier (qqch) / critiquer (qqch)
+
+
+within (préposition / adv)
+dans (prép) / au sein de (prép) / a l'intérieur (adv) / dedans (adv)
+
+
+while (conjonction)
+tandis que (conjonction) / alors que (conjonction) / tout en (conjonction) / bien que (conjonction) / pendant que (conjonction) / moment (nom) / période (nom)
+
+
+scope (nom)
+champ (nom) / portée (nom) / étendue (nom) / cadre (nom) / périmètre (nom) / dimension (nom)s
+
+
+scope (verbe)
+parcourir les yeux
+
+
+overview (nom)
+aperçu / vue d'ensemble / présentation / portrait
+
+
+stage (nom)
+stade / étape / phase / scène
+
+
+stage (verbe)
+monter (verbe) / organiser (verbe)
+
+
+enhance (somebody / something)
+améliorer (quelque chose) / encourager (quelque chose) / augmenter (verbe) / optimiser (quelque chose) / mettre (quelque chose) / parfaire (quelque chose)
+
+
+through (préposition)
+à travers (préposition) / par (préposition) / jusqu'à (préposition)
+
+
+focus (nom)
+accent / focus / objectif / axe
+
+
+focus (verbe)
+se concentrer (verbe) / mettre au point (verbe)
+
+
+as well as (adverb)
+aussi (adverbe) / également (adverbe)
+
+
+as well as (conjonction)
+ansi que (conjonction) / aussi bien que (conjonction) / de même que (conjonction)
+
+
+schedule
+calendrier / programme / horaire / échéancier / emploi du temps / agenda
+
+
+schédule (something)
+prévoir (v) / programmer (v)
+
+
+release
+communiqué / libération / version / publication / sortie / parution
+
+
+background
+fond / contexte / arrière plan / formation / antécédents / origine
+
+
+although
+bien que / mais / même si / cependant / quoique
+
+
+hence
+
+
+
+best regards
+
+
+
+
+overall
+
+
+
+feature
+
+
+
+indeed
+
+
+
+above
+
+
+
+furthermore
+
+
+
+whether
+
+
+
+further
+
+
+
+purpose
+
+
+
+design
+
+
+
+below
+
+
+
+claim
+
+
+
+otherwise
+
+
+
+insight
+
+
+
+though
+
+
+
+compliance
+
+
+
+statement
+
+
+
+pattern
+
+
+
+display
+
+
+
+process
+
+
+
+set up
+
+
+
+assessment
+
+
+
+besides
+
+
+
+range
+
+
+
+framework
+
+
+
+commitment
+
+
+
+input
+
+
+
+application
+
+
+
+leverage
+
+
+
+shift
+
+
+
+including
+
+
+
+lead
+
+
+
+outcome
+
+
+
+moreover
+
+
+
+implementation
+
+
+
+monitoring
+
+
+
+accordingly
+
+
+
+layout
+
+
+
+regarding
+
+
+
+update
+
+
+
+accurate
+
+
+
+either
+
+
+
+requirements
+
+
+
+outline
+
+
+
+whereas
+
+
+
+ensure
+
+
+
+along with
+
+
+
+skills
+
+
+
+draft
+
+
+
+reporting
+
+
+
+due to
+
+
+
+guidelines
+
+
+
+maintenance
+
+
+
+performance
+
+
+
+outstanding
+
+
+
+facilities
+
+
+
+as a result
+
+
+
+actually
+
+
+
+report
+
+
+
+highlight
+
+
+
+template
+
+
+
+instead
+
+
+
+business
+
+
+
+supply
+
+
+
+implement
+
+
+
+survey
+
+
+
+output
+
+
+
+suitable
+
+
+
+successful
+
+
+
+handle
+
+
+
+stakeholder
+
+
+
+asset
+
+
+
+reliable
+
+
+
+enable
+
+
+
+device
+
+
+
+leadership
+
+101
+
+
+
+meanwhile	102
+
+
+
+awareness	103
+
+
+
+by the way	104
+
+
+
+carry out	105
+
+
+
+challenge
+
+106
+
+
+
+incentive	107
+
+
+
+expertise	108
+
+
+
+on behalf of	109
+
+
+
+address	110
+
+
+
+in addition
+
+111
+
+
+
+consistent	112
+
+
+
+ceo	113
+
+
+
+throughout	114
+
+
+
+assets	115
+
+
+
+currently
+
+116
+
+
+
+also	117
+
+
+
+set	118
+
+
+
+effective	119
+
+
+
+in order to	120
+
+
+
+former
+
+121
+
+
+
+beyond	122
+
+
+
+yield	123
+
+
+
+trigger	124
+
+
+
+guidance	125
+
+
+
+completion
+
+126
+
+
+
+procurement	127
+
+
+
+such as	128
+
+
+
+notice	129
+
+
+
+request	130
+
+
+
+foster
+
+131
+
+
+
+enjoy	132
+
+
+
+monitor	133
+
+
+
+still	134
+
+
+
+experience	135
+
+
+
+anyway
+
+136
+
+
+
+fit	137
+
+
+
+assess	138
+
+
+
+spread	139
+
+
+
+accountability	140
+
+
+
+ongoing
+
+141
+
+
+
+assignment	142
+
+
+
+kind regards	143
+
+
+
+upgrade	144
+
+
+
+timeline	145
+
+
+
+issues
+
+146
+
+
+
+yet	147
+
+
+
+since	148
+
+
+
+comprehensive	149
+
+
+
+among	150
+
+
+
+core
+
+151
+
+
+
+management	152
+
+
+
+available	153
+
+
+
+based on	154
+
+
+
+agenda	155
+
+
+
+nevertheless
+
+156
+
+
+
+despite	157
+
+
+
+as	158
+
+
+
+at least	159
+
+
+
+policy	160
+
+
+
+involve
+
+161
+
+
+
+achieve	162
+
+
+
+offset	163
+
+
+
+eventually	164
+
+
+
+upon	165
+
+
+
+pertinent
+
+166
+
+
+
+benchmark	167
+
+
+
+in fact	168
+
+
+
+grant	169
+
+
+
+so far	170
+
+
+
+planning
+
+171
+
+
+
+valuable	172
+
+
+
+contractor	173
+
+
+
+deadline	174
+
+
+
+retail	175
+
+
+
+liability
+
+176
+
+
+
+regardless	177
+
+
+
+both	178
+
+
+
+provision	179
+
+
+
+concern	180
+
+
+
+which
+
+181
+
+
+
+training	182
+
+
+
+over time	183
+
+
+
+then	184
+
+
+
+at the same time	185
+
+
+
+disclaimer
+
+186
+
+
+
+item	187
+
+
+
+reach	188
+
+
+
+record	189
+
+
+
+first name	190
+
+
+
+forward
+
+191
+
+
+
+note	192
+
+
+
+match	193
+
+
+
+equity	194
+
+
+
+managing director	195
+
+
+
+service
+
+196
+
+
+
+smooth	197
+
+
+
+challenging	198
+
+
+
+milestone	199
+
+
+
+until	200
+
+
+
+scale

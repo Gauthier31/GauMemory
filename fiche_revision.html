@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GauMemory - Fiche de Révision</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="nav-left fs-24"><a href="index.html">GauMemory</a></div>
+        <div class="nav-center">
+            <a href="index.html">Liste</a>
+            <a href="liste_texte.html">Texte</a>
+            <a href="liste_audio.html">Audio</a>
+        </div>
+        <div class="nav-right">
+            <a href="#">Profil</a>
+        </div>
+    </div>
+
+    <input type="text" class="title-input fs-36 saisieBordure" id="revision-title"
+        placeholder="Titre de la fiche de révision">
+
+    <div class="container">
+        <div class="row g-20 mt-20">
+            <textarea id="means-1" class="auto-resize-textarea saisieBordure fs-16" rows="1"
+                placeholder="Langue 1"></textarea>
+            <span>⇆</span>
+            <textarea id="means-2" class="auto-resize-textarea saisieBordure fs-16" rows="1"
+                placeholder="Langue 2"></textarea>
+        </div>
+
+        <hr class="mt-20 mb-20 " style="width: 100%;" />
+
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Rechercher un terme..."
+                class="auto-resize-textarea saisieBordure fs-16" oninput="filterTerms()">
+        </div>
+
+        <hr class="mt-20 mb-20 " style="width: 100%;" />
+
+        <div id="term-definition-row"></div>
+
+        <!-- Textarea caché initialement -->
+        <textarea id="textarea-input" class="textareaBig fs-16 mt-20" style="display: none;" rows="10"
+            placeholder="Ligne 1 Ligne 2 Ligne 3"></textarea>
+
+        <!-- Conteneur pour les boutons -->
+        <div class=" row jc-space-between mt-20 bottom">
+            <div class="btnNumber">
+                <input id="line-count" type="number" value="1" min="1">
+                <button class="vert-btn fs-16" onclick="addTermDefinitionPair()">Ajouter une ligne</button>
+            </div>
+            <button class="vert-btn fs-16" onclick="toggleTextarea()">Ajouter une zone de texte</button>
+            <button class="bleu-btn fs-16" onclick="saveToFileRevision()">Sauvegarder</button>
+            <button class="orange-btn fs-16" onclick="initializeTestButton()">Apprendre</button>
+        </div>
+    </div>
+
+    <script src="js/bd/listeRevision.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/fiche_revision.js"></script>
+</body>
+
+</html>

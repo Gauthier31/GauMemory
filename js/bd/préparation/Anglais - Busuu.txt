@@ -1,0 +1,2619 @@
+
+
+a bakery
+une boulangerie
+
+
+
+a baseball game
+un match de base-ball
+
+
+
+a blended family
+une famille recomposée
+
+
+
+a board game night
+une soirée jeux de société
+
+
+
+a building
+un bâtiment
+
+
+
+a busy city
+une ville animée
+
+
+
+a campsite
+un camping
+
+
+
+a candidate
+un candidat
+
+
+
+a carrot
+une carotte
+
+
+
+a cave
+une grotte
+
+
+
+a challenge
+un défi
+
+
+
+a church
+une église
+
+
+
+a city break
+une escapade citadine
+
+
+
+a cliff
+une falaise
+
+
+
+a coast
+une côte
+
+
+
+a company
+une entreprise
+
+
+
+a contract
+un abonnement
+
+
+
+a controller
+une manette
+
+
+
+a coral reef
+un récif corallien
+
+
+
+a costume
+un déguisement
+
+
+
+a couple
+un couple
+
+
+
+a deal
+une offre
+
+
+
+a desert
+un désert
+
+
+
+a dessert
+dessert
+
+
+
+a discount
+une réduction
+
+
+
+a fair
+une fête foraine
+
+
+
+a food truck
+un food truck
+
+
+
+a gallery
+une galerie
+
+
+
+a game console
+une console de jeu
+
+
+
+a genre
+un genre
+
+
+
+a get-together
+une petite fête
+
+
+
+a good fit
+un bon candidat
+
+
+
+a guest list
+une liste d’invités
+
+
+
+a headliner
+une tête d'affiche
+
+
+
+a headset
+un casque
+
+
+
+a horror
+un film d’horreur
+
+
+
+a hostel
+une auberge de jeunesse
+
+
+
+a house party
+une soirée
+
+
+
+a housewarming
+une pendaison de crémaillère
+
+
+
+a job advert
+une offre/annonce d’emploi
+
+
+
+a journey
+un trajet
+
+
+
+a jumper
+un pull
+
+
+
+a key point
+un point clé
+
+
+
+a lake
+un lac
+
+
+
+a lesson
+un cours
+
+
+
+a luxury stay
+un séjour de luxe
+
+
+
+a memory
+un souvenir
+
+
+
+a museum
+un musée
+
+
+
+a neighbourhood
+un quartier
+
+
+
+a neighbourhood
+un quartier
+
+
+
+a newsagent's
+un marchand de journaux
+
+
+
+a package holiday
+un voyage organisé
+
+
+
+a package tour
+un voyage organisé
+
+
+
+a park
+un parc
+
+
+
+a pay-as-you-go plan
+formule prépayée
+
+
+
+a pedestrian
+un piéton/une piétonne
+
+
+
+a personal trainer
+un entraîneur personnel
+
+
+
+a pet
+un animal de compagnie
+
+
+
+a pharmacy
+une pharmacie
+
+
+
+a plan
+une formule
+
+
+
+a play
+une pièce
+
+
+
+a post office
+un bureau de poste
+
+
+
+a receipt
+un ticket de caisse
+
+
+
+a refund
+remboursement
+
+
+
+a replacement bus service
+un bus de remplacement
+
+
+
+a sale
+les soldes
+
+
+
+a sandy beach
+une plage de sable
+
+
+
+a seating plan
+plan de table
+
+
+
+a service charge
+le service
+
+
+
+a shopping centre
+un centre commercial
+
+
+
+a side salad
+une salade en accompagnement
+
+
+
+a single-parent household
+une famille monoparentale
+
+
+
+a skirt
+une jupe
+
+
+
+a skyscraper
+un gratte-ciel
+
+
+
+a souvenir
+un souvenir
+
+
+
+a special occasion
+occasion spéciale
+
+
+
+a square
+une place
+
+
+
+a stadium
+un stade
+
+
+
+a staycation
+les vacances à la maison/dans le pays
+
+
+
+a stepfather
+un beau-père
+
+
+
+a strong signal
+un bon signal
+
+
+
+a sunrise
+le lever du soleil
+
+
+
+a sunset
+le coucher du soleil
+
+
+
+a supermarket
+un supermarché
+
+
+
+a tip
+le pourboire
+
+
+
+a tram
+un tramway
+
+
+
+a transfer
+un transfert
+
+
+
+a trip
+un voyage/séjour
+
+
+
+a vegan burger
+un burger vegan
+
+
+
+a venue
+un lieu/une salle
+
+
+
+a venue
+Un lieu pour faire la fête
+
+
+
+a VIP / a very important person
+un VIP/une personne très importante
+
+
+
+a visa
+un visa
+
+
+
+a volcano
+un volcan
+
+
+
+a washing machine
+un lave-linge
+
+
+
+a waterfall
+une cascade
+
+
+
+a waterfall
+une cascade
+
+
+
+a wave
+une vague
+
+
+
+a wristband
+un bracelet
+
+
+
+accommodation
+hébergement
+
+
+
+after
+après
+
+
+
+age
+âge
+
+
+
+all the time
+tout le temps
+
+
+
+amazing
+incroyable
+
+
+
+an action item
+un point d’action
+
+
+
+an active holiday
+des vacances actives
+
+
+
+an avocado
+un avocat
+
+
+
+an excursion
+une excursion
+
+
+
+an extended family
+une famille élargie
+
+
+
+an invitation
+Invitation
+
+
+
+an itinerary
+un itinéraire
+
+
+
+an outfit
+une tenue
+
+
+
+ancient ruins
+anciennes ruines
+
+
+
+Any questions?
+Des questions ?
+
+
+
+Arabic is thought to be a difficult language.
+L’arabe est considéré comme une langue difficile.
+
+
+
+Are you sick?
+Es-tu malade ?
+
+
+
+around the corner
+au coin de la rue/à proximité
+
+
+
+arrogant
+arrogant/arrogante
+
+
+
+as many as
+autant ... que
+
+
+
+aunt
+tante
+
+
+
+awful
+affreux
+
+
+
+bandwidth
+bande passante
+
+
+
+before
+avant
+
+
+
+beside
+à côté
+
+
+
+bitter
+amer/amère
+
+
+
+black
+noir
+
+
+
+bland
+insipide
+
+
+
+blood pressure
+tension
+
+
+
+blue
+bleu
+
+
+
+butter
+le beurre
+
+
+
+Buy one, get one free
+Un acheté, un offert
+
+
+
+camping
+camping
+
+
+
+Can you help me?
+Pouvez-vous m’aider ?
+
+
+
+Can you make it?
+Peux-tu venir ?
+
+
+
+caring
+attentionné/attentionnée
+
+
+
+cashpoint
+distributeur de billets
+
+
+
+casual
+décontracté
+
+
+
+catering
+restauration
+
+
+
+cheap
+bon marché
+
+
+
+cheerful
+gai/gaie
+
+
+
+cheese
+le fromage
+
+
+
+chores
+tâches ménagères
+
+
+
+Christmas trees smell a bit like oranges.
+Les sapins de Noël sentent un peu comme les oranges.
+
+
+
+clever
+intelligent/intelligente
+
+
+
+cold
+froid
+
+
+
+confident
+confiant/confiante
+
+
+
+contemporary architecture
+architecture contemporaine
+
+
+
+cosmopolitan
+cosmopolite
+
+
+
+cousin
+cousin / cousine
+
+
+
+creative
+créatif·ve
+
+
+
+crowded
+bondé/bondée
+
+
+
+crowded
+bondé/bondée
+
+
+
+dairy
+produits laitiers
+
+
+
+dangerous
+dangereux/dangereuse
+
+
+
+data
+données
+
+
+
+degrees Celsius
+degrés (Celsius)
+
+
+
+degrees Fahrenheit
+degrés Fahrenheit
+
+
+
+delicious
+délicieux / délicieuse
+
+
+
+dietary requirements
+régime alimentaire
+
+
+
+disorganised
+désorganisé·e
+
+
+
+Do you want to taste my gingerbread cookies?
+Veux-tu goûter mes biscuits au pain d’épices ?
+
+
+
+down the street
+en bas de la rue/à quelques pas
+
+
+
+drink
+boisson/verre
+
+
+
+drinks
+boissons
+
+
+
+easy-going
+sympathique
+
+
+
+electricity
+électricité
+
+
+
+email address
+une adresse e-mail
+
+
+
+embassy
+ambassade
+
+
+
+English is taught at schools all over the world.
+L’anglais est enseigné dans les écoles du monde entier.
+
+
+
+enough
+assez
+
+
+
+every now and then
+de temps en temps
+
+
+
+every once in a while
+de temps à autre
+
+
+
+every other day
+un jour sur deux
+
+
+
+Excuse me.
+Excusez-moi.
+
+
+
+expensive
+cher/chère
+
+
+
+experience
+expérience
+
+
+
+fashionable
+à la mode
+
+
+
+fewer
+moins
+
+
+
+finally
+enfin, finalement
+
+
+
+Fingers crossed!
+On croise les doigts !
+
+
+
+food
+alimentation
+
+
+
+fresh
+frais
+
+
+
+friendly
+gentil / gentille
+
+
+
+frozen food
+surgelés
+
+
+
+fruit
+fruits
+
+
+
+fun
+enjoué/e / gai/e
+
+
+
+funny
+marrant/marrante
+
+
+
+Get some rest.
+Repose-toi !
+
+
+
+ginger
+gingembre
+
+
+
+glamping
+glamping
+
+
+
+gradually
+progressivement
+
+
+
+grandchildren
+petits-enfants
+
+
+
+granddaughter
+petite-fille
+
+
+
+grandfather
+grand-père
+
+
+
+grandmother
+grand-mère
+
+
+
+grandparents
+grands-parents
+
+
+
+grandson
+petit-fils
+
+
+
+graphics
+les graphismes
+
+
+
+greasy
+gras
+
+
+
+green
+vert
+
+
+
+green spaces
+espaces verts
+
+
+
+heartbeat
+battement de cœur, pouls
+
+
+
+Hello!
+Bonjour !
+
+
+
+Help yourself.
+Sers-toi.
+
+
+
+helpful
+serviable
+
+
+
+helpful
+serviable
+
+
+
+Hi!
+Salut !
+
+
+
+historic
+historique
+
+
+
+historic sites
+sites historiques
+
+
+
+homework
+les devoirs
+
+
+
+horrible
+horrible
+
+
+
+hot
+chaud
+
+
+
+hotel
+hôtel
+
+
+
+How do you spell that?
+Comment écrivez-vous cela ?
+
+
+
+How old are you?
+Quel âge as-tu ?
+
+
+
+humble
+modeste
+
+
+
+I could smell cinnamon cookies for hours.
+Je pourrais sentir les biscuits à la cannelle pendant des heures.
+
+
+
+I have a headache.
+J’ai mal à la tête.
+
+
+
+I have a sore throat.
+J’ai mal à la gorge.
+
+
+
+I need to find the embassy.
+Je dois trouver l’ambassade.
+
+
+
+I will rent an apartment in Seville during my year abroad.
+Je vais louer un appartement à Séville pendant mon année à l’étranger.
+
+
+
+I'm full!
+Je n’ai plus faim !
+
+
+
+I'm measuring each piece of baklava to make sure they fit in the box.
+Je mesure chaque part de baklava pour être sûre qu’elles rentrent dans la boîte.
+
+
+
+I'm trying to find...
+J’essaie de trouver...
+
+
+
+I'm weighing sugar for the baklava recipe.
+Je pèse le sucre pour la recette de la baklava.
+
+
+
+immediately
+immédiatement
+
+
+
+inviting
+accueillant
+
+
+
+jaw-dropping
+époustouflant(e)
+
+
+
+jeans
+un jean
+
+
+
+juice
+le jus de fruits
+
+
+
+lazy
+paresseux/paresseuse
+
+
+
+less
+moins
+
+
+
+lively
+animé
+
+
+
+local
+près de chez soi/du coin
+
+
+
+loose
+large
+
+
+
+me time
+du temps pour moi
+
+
+
+multiplayer
+multijoueurs
+
+
+
+My grandfather used to live in a rural area.
+Mon grand-père vivait à la campagne.
+
+
+
+name
+nom
+
+
+
+nationality
+nationalité
+
+
+
+nephew
+neveu
+
+
+
+nice
+beau
+
+
+
+Nice to meet you.
+Enchanté·e.
+
+
+
+niece
+nièce
+
+
+
+noisier than
+plus bruyant que
+
+
+
+noisy
+bruyant
+
+
+
+obviously
+évidemment
+
+
+
+of course
+bien sûr
+
+
+
+on the way to
+sur le chemin de/en allant chez
+
+
+
+once a week
+une fois par semaine
+
+
+
+opposite
+en face
+
+
+
+organised
+organisé·e
+
+
+
+pasta
+les pâtes
+
+
+
+peaceful
+paisible
+
+
+
+pharmacy
+pharmacie
+
+
+
+pharmacy
+une pharmacie
+
+
+
+phone number
+un numéro de téléphone
+
+
+
+picturesque
+pittoresque
+
+
+
+polite
+poli / polie
+
+
+
+polluted
+pollué
+
+
+
+quiet
+calme
+
+
+
+rainy
+pluvieux
+
+
+
+reasonable
+raisonnable
+
+
+
+red
+rouge
+
+
+
+residential areas
+zones résidentielles
+
+
+
+routine
+routine
+
+
+
+rude
+grossier/grossière
+
+
+
+safe
+sûr/sûre
+
+
+
+salty
+salé / salée
+
+
+
+Shall we move on?
+Peut-on passer à la suite ?
+
+
+
+shorts
+un short
+
+
+
+shy
+timide
+
+
+
+silly
+idiot/idiote
+
+
+
+skills and qualifications
+compétences et qualifications
+
+
+
+smart
+élégant
+
+
+
+sociable
+sociable
+
+
+
+socks
+chaussettes
+
+
+
+sour
+acide
+
+
+
+spicy
+épicé / épicée
+
+
+
+spinach
+épinards
+
+
+
+sunglasses
+des lunettes de soleil
+
+
+
+sunny
+ensoleillé
+
+
+
+sunscreen
+crème solaire
+
+
+
+supermarket
+supermarché
+
+
+
+surname
+nom de famille
+
+
+
+surprisingly
+étonnamment
+
+
+
+sweet
+sucré
+
+
+
+Talk to you later.
+A plus tard.
+
+
+
+Thanks for the invite!
+Merci pour l’invitation !
+
+
+
+Thanks. Bye!
+Merci. Au revoir !
+
+
+
+That's a shame!
+Quel dommage !
+
+
+
+the bill
+l’addition
+
+
+
+the dentist's
+chez le dentiste/la dentiste
+
+
+
+the doctor's
+chez le médecin
+
+
+
+the final call
+le dernier appel
+
+
+
+the fitting room
+la cabine d’essayage
+
+
+
+the gate
+la porte
+
+
+
+the platform
+le quai
+
+
+
+the till
+la caisse
+
+
+
+The train station is on the other side of the bridge.
+La gare est de l’autre côté du pont.
+
+
+
+This mushroom soup tastes delicious.
+Cette soupe aux champignons est délicieuse.
+
+
+
+thoughtful
+prévenant/prévenante
+
+
+
+through
+traverser (le parc)
+
+
+
+thunderstorm
+orage
+
+
+
+tidy
+ordonné·e
+
+
+
+tight
+serré / serrée
+
+
+
+to add
+ajouter
+
+
+
+to apply
+postuler
+
+
+
+to arrive
+arriver
+
+
+
+to ask somebody out
+inviter quelqu’un à sortir avec soi
+
+
+
+to avoid
+éviter
+
+
+
+to bake
+cuire au four
+
+
+
+to be a widow / to be a widower
+être veuve/veuf
+
+
+
+to be adopted
+être adopté·e
+
+
+
+to be born
+naître
+
+
+
+to be cancelled
+être annulé·e
+
+
+
+to be compatible with
+être compatible avec
+
+
+
+to be crazy about
+être fou/folle de
+
+
+
+to be delayed
+avoir du retard
+
+
+
+to be divorced
+divorcer ; être divorcé·e
+
+
+
+to be engaged
+être fiancé·e
+
+
+
+to be fond of
+aimer
+
+
+
+to be late
+être en retard
+
+
+
+to be married
+être marié·e
+
+
+
+to be messy
+être désordonné·e
+
+
+
+to be off sick
+être en congé maladie
+
+
+
+to be overwhelmed
+être débordé(e)
+
+
+
+to be served
+être servi·e
+
+
+
+to be single
+être célibataire
+
+
+
+to be sore
+avoir des courbatures
+
+
+
+to become
+devenir
+
+
+
+to bite your nails
+se ronger les ongles
+
+
+
+to blend
+mélanger
+
+
+
+to boil
+bouillir
+
+
+
+to book a flight
+réserver un vol
+
+
+
+to book a table
+réserver une table
+
+
+
+to book time off
+poser des congés
+
+
+
+to bow
+s’incliner
+
+
+
+to break up
+rompre
+
+
+
+to breathe
+respirer
+
+
+
+to bring
+apporter
+
+
+
+to bring a plus one
+venir accompagné
+
+
+
+to browse
+regarder
+
+
+
+to brush your teeth
+se laver les dents
+
+
+
+to buy
+acheter
+
+
+
+to buy the groceries
+faire les courses
+
+
+
+to call
+appeler
+
+
+
+to catch a bus
+prendre un bus
+
+
+
+to cheat
+tricher
+
+
+
+to check in
+s’enregistrer
+
+
+
+to check out
+partir/quitter
+
+
+
+to check your phone
+vérifier son téléphone
+
+
+
+to chew loudly
+mâcher bruyamment
+
+
+
+to chop
+émincer
+
+
+
+to clean up
+nettoyer
+
+
+
+to collect
+récupérer
+
+
+
+to crush
+presser
+
+
+
+to date
+sortir avec quelqu'un
+
+
+
+to decide
+décider
+
+
+
+to depart
+partir
+
+
+
+to discover
+découvrir
+
+
+
+to do cardio
+faire de la cardio
+
+
+
+to do the housework
+faire le ménage
+
+
+
+to do the laundry
+faire la lessive
+
+
+
+to drive a car
+conduire une voiture
+
+
+
+to earn
+gagner
+
+
+
+to eat well
+bien manger
+
+
+
+to email
+envoyer un e-mail
+
+
+
+to exchange
+échanger
+
+
+
+to explore
+explorer
+
+
+
+to fall in love with
+tomber amoureux de quelqu’un
+
+
+
+to feel sick
+se sentir mal
+
+
+
+to fill out forms
+remplir des formulaires
+
+
+
+to find
+trouver
+
+
+
+to finish
+terminer
+
+
+
+to fly
+voler ; prendre l’avion
+
+
+
+to forget
+oublier
+
+
+
+to fry
+faire frire
+
+
+
+to get
+avoir
+
+
+
+to get a membership
+avoir un abonnement
+
+
+
+to get a phone contract
+prendre un abonnement téléphonique
+
+
+
+to get away with
+s’en tirer
+
+
+
+to get better
+aller mieux ; s’améliorer
+
+
+
+to get engaged to
+se fiancer à
+
+
+
+to get in shape
+retrouver la forme
+
+
+
+to get married
+se marier
+
+
+
+to get on with
+bien s’entendre
+
+
+
+to get over
+se remettre de
+
+
+
+to get rid of
+se débarrasser de
+
+
+
+to get to the bottom of
+mettre les choses au clair ; élucider
+
+
+
+to get together
+se retrouver
+
+
+
+to go abroad
+partir à l’étranger
+
+
+
+to go camping
+faire du camping
+
+
+
+to go hiking
+faire de la randonnée
+
+
+
+to go on a cruise
+faire une croisière
+
+
+
+to go on a date
+avoir rendez-vous/se donner rendez-vous
+
+
+
+to go to a party
+aller à une fête
+
+
+
+to go to school
+aller à l’école
+
+
+
+to go to the beach
+aller à la plage
+
+
+
+to go to university
+aller à l’université
+
+
+
+to graduate
+obtenir son diplôme
+
+
+
+to grill
+faire griller
+
+
+
+to grow up
+grandir
+
+
+
+to have a barbecue
+faire un barbecue
+
+
+
+to have a checkup
+avoir un examen de contrôle
+
+
+
+to have a cold
+être enrhumé/enrhumée
+
+
+
+to have a crush on
+avoir un faible pour quelqu’un
+
+
+
+to have a meeting
+avoir une réunion
+
+
+
+to have a snack
+prendre une collation/grignoter quelque chose
+
+
+
+to have a temperature
+avoir de la fièvre
+
+
+
+to have people over
+recevoir des personnes chez soi
+
+
+
+to help
+aider
+
+
+
+to hire
+louer
+
+
+
+to hire a DJ
+engager un DJ
+
+
+
+to host a dinner party
+organiser un dîner
+
+
+
+to join a gym
+s’inscrire à une salle de sport
+
+
+
+to keep a secret
+garder un secret
+
+
+
+to keep away from
+se tenir à distance de/éviter
+
+
+
+to keep in touch
+rester en contact
+
+
+
+to lag
+ramer
+
+
+
+to lift weights
+soulever des poids
+
+
+
+to live
+vivre ; habiter
+
+
+
+to look for a job
+chercher un travail
+
+
+
+to look up
+chercher
+
+
+
+to make a good impression
+faire bonne impression
+
+
+
+to make a reservation
+réserver, faire une réservation
+
+
+
+to make an appointment
+prendre rendez-vous
+
+
+
+to make time for
+prendre du temps pour
+
+
+
+to marinate
+faire mariner
+
+
+
+to meet
+se rencontrer
+
+
+
+to memorise
+mémoriser
+
+
+
+to mix
+mélanger
+
+
+
+to mop
+passer la serpillière
+
+
+
+to move
+déménager
+
+
+
+to peel
+éplucher
+
+
+
+to pick up a bug
+attraper un virus
+
+
+
+to pour
+verser
+
+
+
+to prepare
+préparer
+
+
+
+to prescribe
+prescrire
+
+
+
+to propose a toast
+porter un toast
+
+
+
+to put pressure on oneself
+se mettre la pression
+
+
+
+to quit
+démissionner
+
+
+
+to recognise
+reconnaître
+
+
+
+to recommend
+recommander
+
+
+
+to remember
+se souvenir
+
+
+
+to remind of
+rappeler
+
+
+
+to rent an apartment
+louer un appartement
+
+
+
+to retire
+prendre sa retraite
+
+
+
+to return
+rapporter
+
+
+
+to revise
+réviser
+
+
+
+to ride a bike
+faire du vélo
+
+
+
+to roast
+faire rôtir
+
+
+
+to RSVP
+répondre
+
+
+
+to see a doctor
+voir un·e médecin
+
+
+
+to send an application
+envoyer une candidature
+
+
+
+to set a date
+fixer une date
+
+
+
+to set a date
+fixer une date
+
+
+
+to set an alarm
+mettre le réveil
+
+
+
+to show respect
+montrer du respect
+
+
+
+to sign
+signer
+
+
+
+to sign up for a class
+s’inscrire à un cours
+
+
+
+to simmer
+faire mijoter
+
+
+
+to skateboard
+faire du skate
+
+
+
+to slice
+couper/trancher
+
+
+
+to snore
+ronfler
+
+
+
+to spend
+dépenser
+
+
+
+to squeeze
+presser le jus
+
+
+
+to start
+commencer
+
+
+
+to steer clear of
+rester à l’écart/éviter
+
+
+
+to stir
+mélanger
+
+
+
+to study
+étudier
+
+
+
+to suffer
+souffrir
+
+
+
+to suit
+aller
+
+
+
+to sunbathe
+prendre un bain de soleil
+
+
+
+to sweep
+balayer
+
+
+
+to take medication
+prendre des médicaments
+
+
+
+to take part in group therapy
+suivre une thérapie de groupe
+
+
+
+to take the train
+prendre le train
+
+
+
+to take turns
+à tour de rôle
+
+
+
+to take yoga classes
+prendre des cours de yoga
+
+
+
+to tell the story of
+retrace/raconte l’histoire
+
+
+
+to think
+penser
+
+
+
+to throw a party
+organiser une fête
+
+
+
+to throw a party
+organiser une fête
+
+
+
+to throw away
+jeter
+
+
+
+to tidy up
+ranger
+
+
+
+to train for an event
+s’entraîner pour une épreuve
+
+
+
+to travel
+voyager
+
+
+
+to try
+essayer
+
+
+
+to understand
+comprendre
+
+
+
+to unwind
+se détendre
+
+
+
+to vacuum
+passer l'aspirateur
+
+
+
+to wash
+laver
+
+
+
+to wash up
+faire la vaisselle
+
+
+
+to wear
+porter
+
+
+
+to wear clothes
+porter des vêtements
+
+
+
+to work from home
+télétravailler
+
+
+
+Touch wood!
+Je touche du bois !
+
+
+
+traditional
+la tradition
+
+
+
+trainers
+baskets
+
+
+
+twins
+des jumeaux/des jumelles
+
+
+
+uncle
+oncle
+
+
+
+under the name
+au nom de (une réservation au nom de quelqu’un)
+
+
+
+unforgettable
+inoubliable
+
+
+
+unfortunately
+malheureusement
+
+
+
+unlimited calls
+appels illimités
+
+
+
+untidy
+désordonné·e
+
+
+
+vegetables
+légumes
+
+
+
+warm
+chaud
+
+
+
+We are sorry for any inconvenience.
+Nous sommes désolés pour la gêne occasionnée.
+
+
+
+We're ready to order.
+Nous sommes prêts à commander !
+
+
+
+well-preserved buildings
+bâtiments bien préservés
+
+
+
+wellies
+bottes de pluie
+
+
+
+What are your thoughts?
+Qu’en penses-tu ?
+
+
+
+What can I get you?
+Qu’est-ce que je vous sers ?
+
+
+
+What do you mean?
+Que veux-tu dire ?
+
+
+
+When my grandmother was young, she would knit winter clothing for the whole family.
+Quand ma grand-mère était jeune, elle tricotait des vêtements pour toute la famille.
+
+
+
+while
+pendant que
+
+
+
+white
+blanc
+
+
+
+windy
+venteux
+
+
+
+Wish me luck!
+Souhaitez-moi bonne chance !
+
+
+
+yellow
+jaune
+
+
+
+Yes! I'm in.
+Oui je viens.
+
+
+
+You must provide two types of identification.
+Vous devez fournir deux pièces d’identité.

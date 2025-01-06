@@ -1,0 +1,702 @@
+abode
+respecter, se conformer à
+
+
+arisen
+survenir
+
+
+awoken
+se réveiller
+
+
+been
+être
+
+
+borne, born
+porter, supporter, naître
+
+
+beaten
+battre
+
+
+become
+devenir
+
+
+begotten
+engendrer
+
+
+begun
+commencer
+
+
+bent
+plier, se courber
+
+
+bet
+parier
+
+
+bid, bidden
+offrir
+
+
+bitten
+mordre
+
+
+bled
+saigner
+
+
+blown
+souffler, gonfler
+
+
+broken
+casser
+
+
+bred
+élever (des animaux)
+
+
+brought
+apporter
+
+
+broadcast
+diffuser, émettre
+
+
+built
+construire
+
+
+burnt, burned
+brûler
+
+
+burst
+éclater
+
+
+bought
+acheter
+
+
+could
+pouvoir
+
+
+cast
+jeter, distribuer (rôles)
+
+
+caught
+attraper
+
+
+chid, chidden
+gronder
+
+
+chosen
+choisir
+
+
+clung
+s'accrocher
+
+
+clad, clothed
+habiller, recouvrir
+
+
+come
+venir
+
+
+cost
+coûter
+
+
+crept
+ramper
+
+
+cut
+couper
+
+
+dealt
+distribuer
+
+
+dug
+creuser
+
+
+dived, dove
+plonger
+
+
+done
+faire
+
+
+drawn
+dessiner, tirer
+
+
+dreamt, dreamed
+rêver
+
+
+drunk
+boire
+
+
+driven
+conduire
+
+
+dwelt, dwelled
+habiter
+
+
+eaten
+manger
+
+
+fallen
+tomber
+
+
+fed
+nourrir
+
+
+felt
+se sentir, ressentir
+
+
+fought
+se battre
+
+
+found
+trouver
+
+
+fled
+s'enfuir
+
+
+flung
+lancer
+
+
+flown
+voler
+
+
+forbidden
+interdire
+
+
+forecast
+prévoir
+
+
+foreseen
+prévoir, presentir
+
+
+forgotten, forgot
+oublier
+
+
+forgiven
+pardonner
+
+
+forsaken
+abandonner
+
+
+frozen
+geler
+
+
+gotten, got
+obtenir
+
+
+given
+donner
+
+
+gone
+aller
+
+
+ground
+moudre, opprimer
+
+
+grown
+grandir, pousser
+
+
+hung
+tenir, pendre
+
+
+had
+avoir
+
+
+heard
+entendre
+
+
+hidden
+cacher
+
+
+hit
+taper, appuyer
+
+
+held
+tenir
+
+
+hurt
+blesser
+
+
+kept
+garder
+
+
+knelt, kneeled
+s'agenouiller
+
+
+known
+connaître, savoir
+
+
+laid
+poser
+
+
+led
+mener, guider
+
+
+leant, leaned
+s'incliner, se pencher
+
+
+leapt, leaped
+sauter, bondir
+
+
+learnt
+apprendre
+
+
+left
+laisser, quitter, partir
+
+
+lent
+prêter
+
+
+let
+permettre, louer
+
+
+lain
+s'allonger
+
+
+lit, lighted
+allumer
+
+
+lost
+perdre
+
+
+made
+fabriquer
+
+
+meant
+signifier
+
+
+met
+rencontrer
+
+
+mowed, mown
+tondre
+
+
+offset
+compenser
+
+
+overcome
+surmonter
+
+
+partaken
+prendre part à
+
+
+paid
+payer
+
+
+pled, pleaded
+supplier, plaider
+
+
+preset
+programmer
+
+
+proven, proved
+prouver
+
+
+put
+mettre
+
+
+quit
+quitter
+
+
+read
+lire
+
+
+relaid
+relayer
+
+
+rent
+déchirer
+
+
+rid
+débarrasser
+
+
+ridden
+monter (vélo, cheval)
+
+
+rung
+sonner, téléphoner
+
+
+risen
+lever
+
+
+run
+courir
+
+
+sawn, sawed
+scier
+
+
+said
+dire
+
+
+seen
+voir
+
+
+sought
+chercher
+
+
+sold
+vendre
+
+
+sent
+envoyer
+
+
+set
+fixer
+
+
+shaken
+secouer
+
+
+shed
+répandre, laisser tomber
+
+
+shone
+briller
+
+
+shod
+chausser
+
+
+shot
+tirer, fusiller
+
+
+shown
+montrer
+
+
+shut
+fermer
+
+
+sung
+chanter
+
+
+sunk, sunken
+couler
+
+
+sat
+s'asseoir
+
+
+slain
+tuer
+
+
+slept
+dormir
+
+
+slid
+glisser
+
+
+slunk, slinked
+s'en aller furtivement
+
+
+slit
+fendre
+
+
+smelt
+sentir
+
+
+sown, sowed
+semer
+
+
+spoken
+parler
+
+
+sped
+aller vite
+
+
+spelt
+épeler, orthographier
+
+
+spent
+dépenser, passer du temps
+
+
+spilt, spilled
+renverser
+
+
+spun
+tourner, faire tourner
+
+
+spat, spit
+cracher
+
+
+split
+fendre
+
+
+spoilt
+gâcher, gâter
+
+
+spread
+répandre
+
+
+sprung
+surgir, jaillir, bondir
+
+
+stood
+être debout
+
+
+stolen
+voler, dérober
+
+
+stuck
+coller
+
+
+stung
+piquer
+
+
+stunk
+puer
+
+
+strewn, strewed
+éparpiller
+
+
+stricken, struck
+frapper
+
+
+striven
+s'efforcer
+
+
+sworn
+jurer
+
+
+sweat, sweated
+suer
+
+
+swept
+balayer
+
+
+swollen
+gonfler, enfler
+
+
+swum
+nager
+
+
+swung
+se balancer
+
+
+taken
+prendre
+
+
+taught
+enseigner
+
+
+torn
+déchirer
+
+
+told
+dire, raconter
+
+
+thought
+penser
+
+
+thriven, thrived
+prospérer
+
+
+thrown
+jeter
+
+
+thrust
+enfoncer
+
+
+trodden
+piétiner quelque chose
+
+
+typeset
+composer
+
+
+undergone
+subir
+
+
+understood
+comprendre
+
+
+woken
+réveiller
+
+
+worn
+porter (avoir sur soi)
+
+
+wept
+pleurer
+
+
+wet, wetted
+mouiller
+
+
+won
+gagner
+
+
+wound
+enrouler, remonter
+
+
+withdrawn
+se retirer
+
+
+wrung
+tordre
+
+
+written
+écrire

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GauMemory - Texte</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="nav-left fs-24"><a href="index.html">GauMemory</a></div>
+        <div class="nav-center">
+            <a href="index.html">Liste</a>
+            <a href="liste_texte.html">Texte</a>
+            <a href="liste_audio.html">Audio</a>
+        </div>
+        <div class="nav-right">
+            <a href="#">Profil</a>
+        </div>
+    </div>
+
+    <input type="text" class="title-input fs-36 saisieBordure" id="texte-title" placeholder="Titre du texte">
+
+
+    <div class="container">
+        <!-- Ajout d'un textarea pour saisir plusieurs lignes -->
+        <textarea id="texte-textarea" class="textareaBig fs-16" placeholder="Écrivez ici..."></textarea>
+
+        <!-- Conteneur pour les boutons -->
+        <div class="row jc-center mt-20 g-50 bottom">
+            <button class="bleu-btn fs-16" onclick="saveToFileRevision()">Sauvegarder</button>
+            <button class="orange-btn fs-16" onclick="initializeTestButton()">Se tester</button>
+        </div>
+    </div>
+
+    <script src="js/bd/listeTexte.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/texte.js"></script>
+</body>
+
+</html>

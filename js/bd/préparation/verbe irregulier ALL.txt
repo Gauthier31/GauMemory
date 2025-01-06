@@ -1,0 +1,2110 @@
+abide
+respecter, se conformer à [présent]
+
+
+abode
+respecter, se conformer à [prétérit]
+
+
+abode
+respecter, se conformer à [participe passé]
+
+
+arise
+survenir [présent]
+
+
+arose
+survenir [prétérit]
+
+
+arisen
+survenir [participe passé]
+
+
+awake
+se réveiller [présent]
+
+
+awoke
+se réveiller [prétérit]
+
+
+awoken
+se réveiller [participe passé]
+
+
+be
+être [présent]
+
+
+was, were
+être [prétérit]
+
+
+been
+être [participe passé]
+
+
+bear
+porter, supporter, naître [présent]
+
+
+bore
+porter, supporter, naître [prétérit]
+
+
+borne, born
+porter, supporter, naître [participe passé]
+
+
+beat
+battre [présent]
+
+
+beat
+battre [prétérit]
+
+
+beaten
+battre [participe passé]
+
+
+become
+devenir [présent]
+
+
+became
+devenir [prétérit]
+
+
+become
+devenir [participe passé]
+
+
+beget
+engendrer [présent]
+
+
+begat, begot
+engendrer [prétérit]
+
+
+begotten
+engendrer [participe passé]
+
+
+begin
+commencer [présent]
+
+
+began
+commencer [prétérit]
+
+
+begun
+commencer [participe passé]
+
+
+bend
+plier, se courber [présent]
+
+
+bent
+plier, se courber [prétérit]
+
+
+bent
+plier, se courber [participe passé]
+
+
+bet
+parier [présent]
+
+
+bet
+parier [prétérit]
+
+
+bet
+parier [participe passé]
+
+
+bid
+offrir [présent]
+
+
+bid, bade
+offrir [prétérit]
+
+
+bid, bidden
+offrir [participe passé]
+
+
+bite
+mordre [présent]
+
+
+bit
+mordre [prétérit]
+
+
+bitten
+mordre [participe passé]
+
+
+bleed
+saigner [présent]
+
+
+bled
+saigner [prétérit]
+
+
+bled
+saigner [participe passé]
+
+
+blow
+souffler, gonfler [présent]
+
+
+blew
+souffler, gonfler [prétérit]
+
+
+blown
+souffler, gonfler [participe passé]
+
+
+break
+casser [présent]
+
+
+broke
+casser [prétérit]
+
+
+broken
+casser [participe passé]
+
+
+breed
+élever (des animaux) [présent]
+
+
+bred
+élever (des animaux) [prétérit]
+
+
+bred
+élever (des animaux) [participe passé]
+
+
+bring
+apporter [présent]
+
+
+brought
+apporter [prétérit]
+
+
+brought
+apporter [participe passé]
+
+
+broadcast
+diffuser, émettre [présent]
+
+
+broadcast
+diffuser, émettre [prétérit]
+
+
+broadcast
+diffuser, émettre [participe passé]
+
+
+build
+construire [présent]
+
+
+built
+construire [prétérit]
+
+
+built
+construire [participe passé]
+
+
+burn
+brûler [présent]
+
+
+burnt, burned [prétérit]
+brûler
+
+
+burnt, burned
+brûler [participe passé]
+
+
+burst
+éclater [présent]
+
+
+burst
+éclater [prétérit]
+
+
+burst
+éclater [participe passé]
+
+
+buy
+acheter [présent]
+
+
+bought
+acheter [prétérit]
+
+
+bought
+acheter [participe passé]
+
+
+can
+pouvoir [présent]
+
+
+could
+pouvoir [prétérit]
+
+
+could
+pouvoir [participe passé]
+
+
+cast
+jeter, distribuer (rôles) [présent]
+
+
+cast
+jeter, distribuer (rôles) [prétérit]
+
+
+cast
+jeter, distribuer (rôles) [participe passé]
+
+
+catch
+attraper [présent]
+
+
+caught
+attraper [prétérit]
+
+
+caught
+attraper [participe passé]
+
+
+chide
+gronder [présent]
+
+
+chid, chode
+gronder [prétérit]
+
+
+chid, chidden
+gronder [participe passé]
+
+
+choose
+choisir [présent]
+
+
+chose
+choisir [prétérit]
+
+
+chosen
+choisir [participe passé]
+
+
+cling
+s'accrocher [présent]
+
+
+clung
+s'accrocher [prétérit]
+
+
+clung
+s'accrocher [participe passé]
+
+
+clothe
+habiller, recouvrir [présent]
+
+
+clad, clothed
+habiller, recouvrir [prétérit]
+
+
+clad, clothed
+habiller, recouvrir [participe passé]
+
+
+come
+venir [présent]
+
+
+came
+venir [prétérit]
+
+
+come
+venir [participe passé]
+
+
+cost
+coûter [présent]
+
+
+cost
+coûter [prétérit]
+
+
+cost
+coûter [participe passé]
+
+
+creep
+ramper [présent]
+
+
+crept
+ramper [prétérit]
+
+
+crept
+ramper [participe passé]
+
+
+cut
+couper [présent]
+
+
+cut
+couper [prétérit]
+
+
+cut
+couper [participe passé]
+
+
+deal
+distribuer [présent]
+
+
+dealt
+distribuer [prétérit]
+
+
+dealt
+distribuer [participe passé]
+
+
+dig
+creuser [présent]
+
+
+dug
+creuser [prétérit]
+
+
+dug
+creuser [participe passé]
+
+
+dive
+plonger [présent]
+
+
+dived
+plonger [prétérit]
+
+
+dived, dove
+plonger [participe passé]
+
+
+do
+faire [présent]
+
+
+did
+faire [prétérit]
+
+
+done
+faire [participe passé]
+
+
+draw
+dessiner, tirer [présent]
+
+
+drew
+dessiner, tirer [prétérit]
+
+
+drawn
+dessiner, tirer [participe passé]
+
+
+dream
+rêver [présent]
+
+
+dreamt, dreamed [prétérit]
+rêver
+
+
+dreamt, dreamed
+rêver [participe passé]
+
+
+drink
+boire [présent]
+
+
+drank
+boire [prétérit]
+
+
+drunk
+boire [participe passé]
+
+
+drive
+conduire [présent]
+
+
+drove
+conduire [prétérit]
+
+
+driven
+conduire [participe passé]
+
+
+dwell
+habiter [présent]
+
+
+dwelt
+habiter [prétérit]
+
+
+dwelt, dwelled
+habiter [participe passé]
+
+
+eat
+manger [présent]
+
+
+ate
+manger [prétérit]
+
+
+eaten
+manger [participe passé]
+
+
+fall
+tomber [présent]
+
+
+fell
+tomber [prétérit]
+
+
+fallen
+tomber [participe passé]
+
+
+feed
+nourrir [présent]
+
+
+fed
+nourrir [prétérit]
+
+
+fed
+nourrir [participe passé]
+
+
+feel
+se sentir, ressentir [présent]
+
+
+felt
+se sentir, ressentir [prétérit]
+
+
+felt
+se sentir, ressentir [participe passé]
+
+
+fight
+se battre [présent]
+
+
+fought
+se battre [prétérit]
+
+
+fought
+se battre [participe passé]
+
+
+find
+trouver [présent]
+
+
+found
+trouver [prétérit]
+
+
+found
+trouver [participe passé]
+
+
+flee
+s'enfuir [présent]
+
+
+fled
+s'enfuir [prétérit]
+
+
+fled
+s'enfuir [participe passé]
+
+
+fling
+lancer [présent]
+
+
+flung
+lancer [prétérit]
+
+
+flung
+lancer [participe passé]
+
+
+fly
+voler [présent]
+
+
+flew
+voler [prétérit]
+
+
+flown
+voler [participe passé]
+
+
+forbid
+interdire [présent]
+
+
+forbade
+interdire [prétérit]
+
+
+forbidden
+interdire [participe passé]
+
+
+forecast
+prévoir [présent]
+
+
+forecast
+prévoir [prétérit]
+
+
+forecast
+prévoir [participe passé]
+
+
+foresee
+prévoir, presentir [présent]
+
+
+foresaw
+prévoir, presentir [prétérit]
+
+
+foreseen
+prévoir, presentir [participe passé]
+
+
+forget
+oublier [présent]
+
+
+forgot
+oublier [prétérit]
+
+
+forgotten, forgot
+oublier [participe passé]
+
+
+forgive
+pardonner [présent]
+
+
+forgave
+pardonner [prétérit]
+
+
+forgiven
+pardonner [participe passé]
+
+
+forsake
+abandonner [présent]
+
+
+forsook
+abandonner [prétérit]
+
+
+forsaken
+abandonner [participe passé]
+
+
+freeze
+geler [présent]
+
+
+froze
+geler [prétérit]
+
+
+frozen
+geler [participe passé]
+
+
+get
+obtenir [présent]
+
+
+got
+obtenir [prétérit]
+
+
+gotten, got
+obtenir [participe passé]
+
+
+give
+donner [présent]
+
+
+gave
+donner [prétérit]
+
+
+given
+donner [participe passé]
+
+
+go
+aller [présent]
+
+
+went
+aller [prétérit]
+
+
+gone
+aller [participe passé]
+
+
+grind
+moudre, opprimer [présent]
+
+
+ground
+moudre, opprimer [prétérit]
+
+
+ground
+moudre, opprimer [participe passé]
+
+
+grow
+grandir, pousser [présent]
+
+
+grew
+grandir, pousser [prétérit]
+
+
+grown
+grandir, pousser [participe passé]
+
+
+hang
+tenir, pendre [présent]
+
+
+hung
+tenir, pendre [prétérit]
+
+
+hung
+tenir, pendre [participe passé]
+
+
+have
+avoir [présent]
+
+
+had
+avoir [prétérit]
+
+
+had
+avoir [participe passé]
+
+
+hear
+entendre [présent]
+
+
+heard
+entendre [prétérit]
+
+
+heard
+entendre [participe passé]
+
+
+hide
+cacher [présent]
+
+
+hid
+cacher [prétérit]
+
+
+hidden
+cacher [participe passé]
+
+
+hit
+taper, appuyer [présent]
+
+
+hit
+taper, appuyer [prétérit]
+
+
+hit
+taper, appuyer [participe passé]
+
+
+hold
+tenir [présent]
+
+
+held
+tenir [prétérit]
+
+
+held
+tenir [participe passé]
+
+
+hurt
+blesser [présent]
+
+
+hurt
+blesser [prétérit]
+
+
+hurt
+blesser [participe passé]
+
+
+keep
+garder [présent]
+
+
+kept
+garder [prétérit]
+
+
+kept
+garder [participe passé]
+
+
+kneel
+s'agenouiller [présent]
+
+
+knelt, knelled
+s'agenouiller [prétérit]
+
+
+knelt, kneeled
+s'agenouiller [participe passé]
+
+
+know
+connaître, savoir [présent]
+
+
+knew
+connaître, savoir [prétérit]
+
+
+known
+connaître, savoir [participe passé]
+
+
+lay
+poser [présent]
+
+
+laid
+poser [prétérit]
+
+
+laid
+poser [participe passé]
+
+
+lead
+mener, guider [présent]
+
+
+led
+mener, guider [prétérit]
+
+
+led
+mener, guider [participe passé]
+
+
+lean
+s'incliner, se pencher [présent]
+
+
+leant, leaned
+s'incliner, se pencher [prétérit]
+
+
+leant, leaned
+s'incliner, se pencher [participe passé]
+
+
+leap
+sauter, bondir [présent]
+
+
+leapt, leaped
+sauter, bondir [prétérit]
+
+
+leapt, leaped
+sauter, bondir [participe passé]
+
+
+learn
+apprendre [présent]
+
+
+learnt
+apprendre [prétérit]
+
+
+learnt
+apprendre [participe passé]
+
+
+leave
+laisser, quitter, partir [présent]
+
+
+left
+laisser, quitter, partir [prétérit]
+
+
+left
+laisser, quitter, partir [participe passé]
+
+
+lend
+prêter [présent]
+
+
+lent
+prêter [prétérit]
+
+
+lent
+prêter [participe passé]
+
+
+let
+permettre, louer [présent]
+
+
+let
+permettre, louer [prétérit]
+
+
+let
+permettre, louer [participe passé]
+
+
+lie
+s'allonger [présent]
+
+
+lay
+s'allonger [prétérit]
+
+
+lain
+s'allonger [participe passé]
+
+
+light
+allumer [présent]
+
+
+lit, lighted
+allumer [prétérit]
+
+
+lit, lighted
+allumer [participe passé]
+
+
+lose
+perdre [présent]
+
+
+lost
+perdre [prétérit]
+
+
+lost
+perdre [participe passé]
+
+
+make
+fabriquer [présent]
+
+
+made
+fabriquer [prétérit]
+
+
+made
+fabriquer [participe passé]
+
+
+mean
+signifier [présent]
+
+
+meant
+signifier [prétérit]
+
+
+meant
+signifier [participe passé]
+
+
+meet
+rencontrer [présent]
+
+
+met
+rencontrer [prétérit]
+
+
+met
+rencontrer [participe passé]
+
+
+mow
+tondre [présent]
+
+
+mowed
+tondre [prétérit]
+
+
+mowed, mown
+tondre [participe passé]
+
+
+offset
+compenser [présent]
+
+
+offset
+compenser [prétérit]
+
+
+offset
+compenser [participe passé]
+
+
+overcome
+surmonter [présent]
+
+
+overcame
+surmonter [prétérit]
+
+
+overcome
+surmonter [participe passé]
+
+
+partake
+prendre part à [présent]
+
+
+partook
+prendre part à [prétérit]
+
+
+partaken
+prendre part à [participe passé]
+
+
+pay
+payer [présent]
+
+
+paid
+payer [prétérit]
+
+
+paid
+payer [participe passé]
+
+
+plead
+supplier, plaider [présent]
+
+
+pled, pleaded
+supplier, plaider [prétérit]
+
+
+pled, pleaded
+supplier, plaider [participe passé]
+
+
+preset
+programmer [présent]
+
+
+preset
+programmer [prétérit]
+
+
+preset
+programmer [participe passé]
+
+
+prove
+prouver [présent]
+
+
+proved
+prouver [prétérit]
+
+
+proven, proved
+prouver [participe passé]
+
+
+put
+mettre [présent]
+
+
+put
+mettre [prétérit]
+
+
+put
+mettre [participe passé]
+
+
+quit
+quitter [présent]
+
+
+quit
+quitter [prétérit]
+
+
+quit
+quitter [participe passé]
+
+
+read
+lire [présent]
+
+
+read
+lire [prétérit]
+
+
+read
+lire [participe passé]
+
+
+relay
+relayer [présent]
+
+
+relaid
+relayer [prétérit]
+
+
+relaid
+relayer [participe passé]
+
+
+rend
+déchirer [présent]
+
+
+rent
+déchirer [prétérit]
+
+
+rent
+déchirer [participe passé]
+
+
+rid
+débarrasser [présent]
+
+
+rid
+débarrasser [prétérit]
+
+
+rid
+débarrasser [participe passé]
+
+
+ride
+monter (vélo, cheval) [présent]
+
+
+rode
+monter (vélo, cheval) [prétérit]
+
+
+ridden
+monter (vélo, cheval) [participe passé]
+
+
+ring
+sonner, téléphoner [présent]
+
+
+rang
+sonner, téléphoner [prétérit]
+
+
+rung
+sonner, téléphoner [participe passé]
+
+
+rise
+lever [présent]
+
+
+rose
+lever [prétérit]
+
+
+risen
+lever [participe passé]
+
+
+run
+courir [présent]
+
+
+ran
+courir [prétérit]
+
+
+run
+courir [participe passé]
+
+
+saw
+scier [présent]
+
+
+saw, sawed
+scier [prétérit]
+
+
+sawn, sawed
+scier [participe passé]
+
+
+say
+dire [présent]
+
+
+said
+dire [prétérit]
+
+
+said
+dire [participe passé]
+
+
+see
+voir [présent]
+
+
+saw
+voir [prétérit]
+
+
+seen
+voir [participe passé]
+
+
+seek
+chercher [présent]
+
+
+sought
+chercher [prétérit]
+
+
+sought
+chercher [participe passé]
+
+
+sell
+vendre [présent]
+
+
+sold
+vendre [prétérit]
+
+
+sold
+vendre [participe passé]
+
+
+send
+envoyer [présent]
+
+
+sent
+envoyer [prétérit]
+
+
+sent
+envoyer [participe passé]
+
+
+set
+fixer [présent]
+
+
+set
+fixer [prétérit]
+
+
+set
+fixer [participe passé]
+
+
+shake
+secouer [présent]
+
+
+shook
+secouer [prétérit]
+
+
+shaken
+secouer [participe passé]
+
+
+shed
+répandre, laisser tomber [présent]
+
+
+shed
+répandre, laisser tomber [prétérit]
+
+
+shed
+répandre, laisser tomber [participe passé]
+
+
+shine
+briller [présent]
+
+
+shone
+briller [prétérit]
+
+
+shone
+briller [participe passé]
+
+
+shoe
+chausser [présent]
+
+
+shod
+chausser [prétérit]
+
+
+shod
+chausser [participe passé]
+
+
+shoot
+tirer, fusiller [présent]
+
+
+shot
+tirer, fusiller [prétérit]
+
+
+shot
+tirer, fusiller [participe passé]
+
+
+show
+montrer [présent]
+
+
+showed
+montrer [prétérit]
+
+
+shown
+montrer [participe passé]
+
+
+shut
+fermer [présent]
+
+
+shut
+fermer [prétérit]
+
+
+shut
+fermer [participe passé]
+
+
+sing
+chanter [présent]
+
+
+sang
+chanter [prétérit]
+
+
+sung
+chanter [participe passé]
+
+
+sink
+couler [présent]
+
+
+sank, sunk
+couler [prétérit]
+
+
+sunk, sunken
+couler [participe passé]
+
+
+sit
+s'asseoir [présent]
+
+
+sat
+s'asseoir [prétérit]
+
+
+sat
+s'asseoir [participe passé]
+
+
+slay
+tuer [présent]
+
+
+slew
+tuer [prétérit]
+
+
+slain
+tuer [participe passé]
+
+
+sleep
+dormir [présent]
+
+
+slept
+dormir [prétérit]
+
+
+slept
+dormir [participe passé]
+
+
+slide
+glisser [présent]
+
+
+slid
+glisser [prétérit]
+
+
+slid
+glisser [participe passé]
+
+
+slink
+s'en aller furtivement [présent]
+
+
+slunk, slinked
+s'en aller furtivement [prétérit]
+
+
+slunk, slinked
+s'en aller furtivement [participe passé]
+
+
+slit
+fendre [présent]
+
+
+slit
+fendre [prétérit]
+
+
+slit
+fendre [participe passé]
+
+
+smell
+sentir [présent]
+
+
+smelt
+sentir [prétérit]
+
+
+smelt
+sentir [participe passé]
+
+
+sow
+semer [présent]
+
+
+sowed
+semer [prétérit]
+
+
+sown, sowed
+semer [participe passé]
+
+
+speak
+parler [présent]
+
+
+spoke
+parler [prétérit]
+
+
+spoken
+parler [participe passé]
+
+
+speed
+aller vite [présent]
+
+
+sped
+aller vite [prétérit]
+
+
+sped
+aller vite [participe passé]
+
+
+spell
+épeler, orthographier [présent]
+
+
+spelt
+épeler, orthographier [prétérit]
+
+
+spelt
+épeler, orthographier [participe passé]
+
+
+spend
+dépenser, passer du temps [présent]
+
+
+spent
+dépenser, passer du temps [prétérit]
+
+
+spent
+dépenser, passer du temps [participe passé]
+
+
+spill
+renverser [présent]
+
+
+spilt, spilled
+renverser [prétérit]
+
+
+spilt, spilled
+renverser [participe passé]
+
+
+spin
+tourner, faire tourner [présent]
+
+
+spun
+tourner, faire tourner [prétérit]
+
+
+spun
+tourner, faire tourner [participe passé]
+
+
+spit
+cracher [présent]
+
+
+spat, spit
+cracher [prétérit]
+
+
+spat, spit
+cracher [participe passé]
+
+
+split
+fendre [présent]
+
+
+split
+fendre [prétérit]
+
+
+split
+fendre [participe passé]
+
+
+spoil
+gâcher, gâter [présent]
+
+
+spoilt
+gâcher, gâter [prétérit]
+
+
+spoilt
+gâcher, gâter [participe passé]
+
+
+spread
+répandre [présent]
+
+
+spread
+répandre [prétérit]
+
+
+spread
+répandre [participe passé]
+
+
+spring
+surgir, jaillir, bondir [présent]
+
+
+sprang
+surgir, jaillir, bondir [prétérit]
+
+
+sprung
+surgir, jaillir, bondir [participe passé]
+
+
+stand
+être debout [présent]
+
+
+stood
+être debout [prétérit]
+
+
+stood
+être debout [participe passé]
+
+
+steal
+voler, dérober [présent]
+
+
+stole
+voler, dérober [prétérit]
+
+
+stolen
+voler, dérober [participe passé]
+
+
+stick
+coller [présent]
+
+
+stuck
+coller [prétérit]
+
+
+stuck
+coller [participe passé]
+
+
+sting
+piquer [présent]
+
+
+stung
+piquer [prétérit]
+
+
+stung
+piquer [participe passé]
+
+
+stink
+puer [présent]
+
+
+stank
+puer [prétérit]
+
+
+stunk
+puer [participe passé]
+
+
+strew
+éparpiller [présent]
+
+
+strewed
+éparpiller [prétérit]
+
+
+strewn, strewed
+éparpiller [participe passé]
+
+
+strike
+frapper [présent]
+
+
+struck
+frapper [prétérit]
+
+
+stricken, struck
+frapper [participe passé]
+
+
+strive
+s'efforcer [présent]
+
+
+strove
+s'efforcer [prétérit]
+
+
+striven
+s'efforcer [participe passé]
+
+
+swear
+jurer [présent]
+
+
+swore
+jurer [prétérit]
+
+
+sworn
+jurer [participe passé]
+
+
+sweat
+suer [présent]
+
+
+sweat, sweated
+suer [prétérit]
+
+
+sweat, sweated
+suer [participe passé]
+
+
+sweep
+balayer [présent]
+
+
+swept
+balayer [prétérit]
+
+
+swept
+balayer [participe passé]
+
+
+swell
+gonfler, enfler [présent]
+
+
+swelled, sweated
+gonfler, enfler [prétérit]
+
+
+swollen
+gonfler, enfler [participe passé]
+
+
+swim
+nager [présent]
+
+
+swam
+nager [prétérit]
+
+
+swum
+nager [participe passé]
+
+
+swing
+se balancer [présent]
+
+
+swung
+se balancer [prétérit]
+
+
+swung
+se balancer [participe passé]
+
+
+take
+prendre [présent]
+
+
+took
+prendre [prétérit]
+
+
+taken
+prendre [participe passé]
+
+
+teach
+enseigner [présent]
+
+
+taught
+enseigner [prétérit]
+
+
+taught
+enseigner [participe passé]
+
+
+tear
+déchirer [présent]
+
+
+tore
+déchirer [prétérit]
+
+
+torn
+déchirer [participe passé]
+
+
+tell
+dire, raconter [présent]
+
+
+told
+dire, raconter [prétérit]
+
+
+told
+dire, raconter [participe passé]
+
+
+think
+penser [présent]
+
+
+thought
+penser [prétérit]
+
+
+thought
+penser [participe passé]
+
+
+thrive
+prospérer [présent]
+
+
+throve, thrived
+prospérer [prétérit]
+
+
+thriven, thrived
+prospérer [participe passé]
+
+
+throw
+jeter [présent]
+
+
+threw
+jeter [prétérit]
+
+
+thrown
+jeter [participe passé]
+
+
+thrust
+enfoncer [présent]
+
+
+thrust
+enfoncer [prétérit]
+
+
+thrust
+enfoncer [participe passé]
+
+
+tread
+piétiner quelque chose [présent]
+
+
+trod
+piétiner quelque chose [prétérit]
+
+
+trodden
+piétiner quelque chose [participe passé]
+
+
+typeset
+composer [présent]
+
+
+typeset
+composer [prétérit]
+
+
+typeset
+composer [participe passé]
+
+
+undergo
+subir [présent]
+
+
+underwent
+subir [prétérit]
+
+
+undergone
+subir [participe passé]
+
+
+understand
+comprendre [présent]
+
+
+understood
+comprendre [prétérit]
+
+
+understood
+comprendre [participe passé]
+
+
+wake
+réveiller [présent]
+
+
+woke
+réveiller [prétérit]
+
+
+woken
+réveiller [participe passé]
+
+
+wear
+porter (avoir sur soi) [présent]
+
+
+wore
+porter (avoir sur soi) [prétérit]
+
+
+worn
+porter (avoir sur soi) [participe passé]
+
+
+weep
+pleurer [présent]
+
+
+wept
+pleurer [prétérit]
+
+
+wept
+pleurer [participe passé]
+
+
+wet
+mouiller [présent]
+
+
+wet, wetted
+mouiller [prétérit]
+
+
+wet, wetted
+mouiller [participe passé]
+
+
+win
+gagner [présent]
+
+
+won
+gagner [prétérit]
+
+
+won
+gagner [participe passé]
+
+
+wind
+enrouler, remonter [présent]
+
+
+wound
+enrouler, remonter [prétérit]
+
+
+wound
+enrouler, remonter [participe passé]
+
+
+withdraw
+se retirer [présent]
+
+
+withdrew
+se retirer [prétérit]
+
+
+withdrawn
+se retirer [participe passé]
+
+
+wring
+tordre [présent]
+
+
+wrung
+tordre [prétérit]
+
+
+wrung
+tordre [participe passé]
+
+
+write
+écrire [présent]
+
+
+wrote
+écrire [prétérit]
+
+
+written
+écrire [participe passé]

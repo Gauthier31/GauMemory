@@ -1,0 +1,702 @@
+abide - abode - abode
+respecter / se conformer à [présent]
+
+
+arise - arose - arisen
+survenir [présent]
+
+
+awake - awoke - awoken
+se réveiller [présent]
+
+
+be - was / were - been
+être [présent]
+
+
+bear - bore - borne, born
+porter / supporter / naître [présent]
+
+
+beat - beat - beaten
+battre [présent]
+
+
+become - became - become
+devenir [présent]
+
+
+beget - begat, begot - begotten
+engendrer [présent]
+
+
+begin - began - begun
+commencer [présent]
+
+
+bend - bent - bent
+plier / se courber [présent]
+
+
+bet - bet - bet
+parier [présent]
+
+
+bid - bid, bade - bid, bidden
+offrir [présent]
+
+
+bite - bit - bitten
+mordre [présent]
+
+
+bleed - bled - bled
+saigner [présent]
+
+
+blow - blew - blown
+souffler / gonfler [présent]
+
+
+break - broke - broken
+casser [présent]
+
+
+breed - bred - bred
+élever (des animaux) [présent]
+
+
+bring - brought - brought
+apporter [présent]
+
+
+broadcast - broadcast - broadcast
+diffuser / émettre [présent]
+
+
+build - built - built
+construire [présent]
+
+
+burn - burnt, burned - burnt, burned
+brûler [présent]
+
+
+burst - burst - burst
+éclater [présent]
+
+
+buy - bought - bought
+acheter [présent]
+
+
+can - could - could
+pouvoir [présent]
+
+
+cast - cast - cast
+jeter / distribuer (rôles) [présent]
+
+
+catch - caught - caught
+attraper [présent]
+
+
+chide - chid, chode - chid, chidden
+gronder [présent]
+
+
+choose - chose - chosen
+choisir [présent]
+
+
+cling - clung - clung
+s'accrocher [présent]
+
+
+clothe - clad, clothed - clad, clothed
+habiller / recouvrir [présent]
+
+
+come - came - come
+venir [présent]
+
+
+cost - cost - cost
+coûter [présent]
+
+
+creep - crept - crept
+ramper [présent]
+
+
+cut - cut - cut
+couper [présent]
+
+
+deal - dealt - dealt
+distribuer [présent]
+
+
+dig - dug - dug
+creuser [présent]
+
+
+dive - dived - dived, dove
+plonger [présent]
+
+
+do - did - done
+faire [présent]
+
+
+draw - drew - drawn
+dessiner / tirer [présent]
+
+
+dream - dreamt, dreamed - dreamt, dreamed
+rêver [présent]
+
+
+drink - drank - drunk
+boire [présent]
+
+
+drive - drove - driven
+conduire [présent]
+
+
+dwell - dwelt - dwelt, dwelled
+habiter [présent]
+
+
+eat - ate - eaten
+manger [présent]
+
+
+fall - fell - fallen
+tomber [présent]
+
+
+feed - fed - fed
+nourrir [présent]
+
+
+feel - felt - felt
+se sentir / ressentir [présent]
+
+
+fight - fought - fought
+se battre [présent]
+
+
+find - found - found
+trouver [présent]
+
+
+flee - fled - fled
+s'enfuir [présent]
+
+
+fling - flung - flung
+lancer [présent]
+
+
+fly - flew - flown
+voler [présent]
+
+
+forbid - forbade - forbidden
+interdire [présent]
+
+
+forecast - forecast - forecast
+prévoir [présent]
+
+
+foresee - foresaw - foreseen
+prévoir / presentir [présent]
+
+
+forget - forgot - forgotten, forgot
+oublier [présent]
+
+
+forgive - forgave - forgiven
+pardonner [présent]
+
+
+forsake - forsook - forsaken
+abandonner [présent]
+
+
+freeze - froze - frozen
+geler [présent]
+
+
+get - got - gotten, got
+obtenir [présent]
+
+
+give - gave - given
+donner [présent]
+
+
+go - went - gone
+aller [présent]
+
+
+grind - ground - ground
+moudre / opprimer [présent]
+
+
+grow - grew - grown
+grandir / pousser [présent]
+
+
+hang - hung - hung
+tenir / pendre [présent]
+
+
+have - had - had
+avoir [présent]
+
+
+hear - heard - heard
+entendre [présent]
+
+
+hide - hid - hidden
+cacher [présent]
+
+
+hit - hit - hit
+taper / appuyer [présent]
+
+
+hold - held - held
+tenir [présent]
+
+
+hurt - hurt - hurt
+blesser [présent]
+
+
+keep - kept - kept
+garder [présent]
+
+
+kneel - knelt, knelled - knelt, kneeled
+s'agenouiller [présent]
+
+
+know - knew - known
+connaître / savoir [présent]
+
+
+lay - laid - laid
+poser [présent]
+
+
+lead - led - led
+mener / guider [présent]
+
+
+lean - leant, leaned - leant, leaned
+s'incliner / se pencher [présent]
+
+
+leap - leapt, leaped - leapt, leaped
+sauter / bondir [présent]
+
+
+learn - learnt - learnt
+apprendre [présent]
+
+
+leave - left - left
+laisser, quitter, partir [présent]
+
+
+lend - lent - lent
+prêter [présent]
+
+
+let - let - let
+permettre / louer [présent]
+
+
+lie - lay - lain
+s'allonger [présent]
+
+
+light - lit, lighted - lit, lighted
+allumer [présent]
+
+
+lose - lost - lost
+perdre [présent]
+
+
+make - made - made
+fabriquer [présent]
+
+
+mean - meant - meant
+signifier [présent]
+
+
+meet - met - met
+rencontrer [présent]
+
+
+mow - mowed - mowed, mown
+tondre [présent]
+
+
+offset - offset - offset
+compenser [présent]
+
+
+overcome - overcame - overcome
+surmonter [présent]
+
+
+partake - partook - partaken
+prendre part à [présent]
+
+
+pay - paid - paid
+payer [présent]
+
+
+plead - pled, pleaded - pled, pleaded
+supplier / plaider [présent]
+
+
+preset - preset - preset
+programmer [présent]
+
+
+prove - proved - proven, proved
+prouver [présent]
+
+
+put - put - put
+mettre [présent]
+
+
+quit - quit - quit
+quitter [présent]
+
+
+read - read - read
+lire [présent]
+
+
+relay - relaid - relaid
+relayer [présent]
+
+
+rend - rent - rent
+déchirer [présent]
+
+
+rid - rid - rid
+débarrasser [présent]
+
+
+ride - rode - ridden
+monter (vélo / cheval) [présent]
+
+
+ring - rang - rung
+sonner / téléphoner [présent]
+
+
+rise - rose - risen
+lever [présent]
+
+
+run - ran - run
+courir [présent]
+
+
+saw - saw, sawed - sawn, sawed
+scier [présent]
+
+
+say - said - said
+dire [présent]
+
+
+see - saw - seen
+voir [présent]
+
+
+seek - sought - sought
+chercher [présent]
+
+
+sell - sold - sold
+vendre [présent]
+
+
+send - sent - sent
+envoyer [présent]
+
+
+set - set - set
+fixer [présent]
+
+
+shake - shook - shaken
+secouer [présent]
+
+
+shed - shed - shed
+répandre / laisser tomber [présent]
+
+
+shine - shone - shone
+briller [présent]
+
+
+shoe - shod - shod
+chausser [présent]
+
+
+shoot - shot - shot
+tirer / fusiller [présent]
+
+
+show - showed - shown
+montrer [présent]
+
+
+shut - shut - shut
+fermer [présent]
+
+
+sing - sang - sung
+chanter [présent]
+
+
+sink - sank, sunk - sunk, sunken
+couler [présent]
+
+
+sit - sat - sat
+s'asseoir [présent]
+
+
+slay - slew - slain
+tuer [présent]
+
+
+sleep - slept - slept
+dormir [présent]
+
+
+slide - slid - slid
+glisser [présent]
+
+
+slink - slunk, slinked - slunk, slinked
+s'en aller furtivement [présent]
+
+
+slit - slit - slit
+fendre [présent]
+
+
+smell - smelt - smelt
+sentir [présent]
+
+
+sow - sowed - sown, sowed
+semer [présent]
+
+
+speak - spoke - spoken
+parler [présent]
+
+
+speed - sped - sped
+aller vite [présent]
+
+
+spell - spelt - spelt
+épeler / orthographier [présent]
+
+
+spend - spent - spent
+dépenser / passer du temps [présent]
+
+
+spill - spilt, spilled - spilt, spilled
+renverser [présent]
+
+
+spin - spun - spun
+tourner / faire tourner [présent]
+
+
+spit - spat, spit - spat, spit
+cracher [présent]
+
+
+split - split - split
+fendre [présent]
+
+
+spoil - spoilt - spoilt
+gâcher / gâter [présent]
+
+
+spread - spread - spread
+répandre [présent]
+
+
+spring - sprang - sprung
+surgir / jaillir / bondir [présent]
+
+
+stand - stood - stood
+être debout [présent]
+
+
+steal - stole - stolen
+voler / dérober [présent]
+
+
+stick - stuck - stuck
+coller [présent]
+
+
+sting - stung - stung
+piquer [présent]
+
+
+stink - stank - stunk
+puer [présent]
+
+
+strew - strewed - strewn, strewed
+éparpiller [présent]
+
+
+strike - struck - stricken, struck
+frapper [présent]
+
+
+strive - strove - striven
+s'efforcer [présent]
+
+
+swear - swore - sworn
+jurer [présent]
+
+
+sweat - sweat, sweated - sweat, sweated
+suer [présent]
+
+
+sweep - swept - swept
+balayer [présent]
+
+
+swell - swelled, sweated - swollen
+gonfler / enfler [présent]
+
+
+swim - swam - swum
+nager [présent]
+
+
+swing - swung - swung
+se balancer [présent]
+
+
+take - took - taken
+prendre [présent]
+
+
+teach - taught - taught
+enseigner [présent]
+
+
+tear - tore - torn
+déchirer [présent]
+
+
+tell - told - told
+dire / raconter [présent]
+
+
+think - thought - thought
+penser [présent]
+
+
+thrive - throve, thrived - thriven, thrived
+prospérer [présent]
+
+
+throw - threw - thrown
+jeter [présent]
+
+
+thrust - thrust - thrust
+enfoncer [présent]
+
+
+tread - trod - trodden
+piétiner quelque chose [présent]
+
+
+typeset - typeset - typeset
+composer [présent]
+
+
+undergo - underwent - undergone
+subir [présent]
+
+
+understand - understood - understood
+comprendre [présent]
+
+
+wake - woke - woken
+réveiller [présent]
+
+
+wear - wore - worn
+porter (avoir sur soi) [présent]
+
+
+weep - wept - wept
+pleurer [présent]
+
+
+wet - wet, wetted - wet, wetted
+mouiller [présent]
+
+
+win - won - won
+gagner [présent]
+
+
+wind - wound - wound
+enrouler / remonter [présent]
+
+
+withdraw - withdrew - withdrawn
+se retirer [présent]
+
+
+wring - wrung - wrung
+tordre [présent]
+
+
+write - wrote - written
+écrire [présent]
