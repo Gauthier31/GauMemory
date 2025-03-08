@@ -71,12 +71,12 @@ const listeRevision = [
                 "term": "accommodation",
                 "definition": "hébergement",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587pb0je",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -84,12 +84,12 @@ const listeRevision = [
                 "term": "an action item",
                 "definition": "un point d'action / mesure à prendre",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289587ebptu",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -97,12 +97,12 @@ const listeRevision = [
                 "term": "an active holiday",
                 "definition": "des vacances actives",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289587uy4gy",
                 "date": [
-                    "30/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -110,12 +110,12 @@ const listeRevision = [
                 "term": "after",
                 "definition": "après",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289587y3oaz",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -123,12 +123,12 @@ const listeRevision = [
                 "term": "all the time",
                 "definition": "tout le temps",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895873a176",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -136,38 +136,38 @@ const listeRevision = [
                 "term": "amazing / incredible / unbelievable / jaw-dropping",
                 "definition": "incroyable",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587503h0",
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "Any questions?",
-                "definition": "Des questions?",
+                "term": "Any questions",
+                "definition": "Des questions",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289587mlrjt",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "Are you sick ?",
-                "definition": "Es-tu malade ?",
+                "term": "Are you sick",
+                "definition": "Es-tu malade",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289587pwge1",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -175,12 +175,12 @@ const listeRevision = [
                 "term": "around the corner",
                 "definition": "au coin de la rue / à proximité",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289587gpvau",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -188,12 +188,12 @@ const listeRevision = [
                 "term": "as many as (countable) / as much as (uncountable)",
                 "definition": "autant que",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587tlegr",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -201,12 +201,12 @@ const listeRevision = [
                 "term": "aunt",
                 "definition": "tante",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289587xiv4d",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -214,12 +214,12 @@ const listeRevision = [
                 "term": "an avocado",
                 "definition": "un avocat (le fruit)",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289587p5k3z",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -227,12 +227,12 @@ const listeRevision = [
                 "term": "a bakery",
                 "definition": "une boulangerie",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289587j1ii7",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -240,12 +240,12 @@ const listeRevision = [
                 "term": "bandwidth",
                 "definition": "bande passante",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895871za48",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -253,12 +253,12 @@ const listeRevision = [
                 "term": "a baseball game",
                 "definition": "un match de base-ball",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895877bdjx",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -266,12 +266,12 @@ const listeRevision = [
                 "term": "before",
                 "definition": "avant",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958791i9a",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -279,12 +279,12 @@ const listeRevision = [
                 "term": "beside",
                 "definition": "à côté",
                 "status": [
-                    34,
+                    21,
                     null
                 ],
                 "id": "1731283289587u46n3",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -292,12 +292,12 @@ const listeRevision = [
                 "term": "the bill",
                 "definition": "l'addition",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587t88by",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -305,12 +305,12 @@ const listeRevision = [
                 "term": "bitter",
                 "definition": "amer / amère",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895879l7yo",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -323,7 +323,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289587szr1j",
                 "date": [
-                    "31/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -336,7 +336,7 @@ const listeRevision = [
                 ],
                 "id": "17312832895877k1le",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -344,12 +344,12 @@ const listeRevision = [
                 "term": "a board game night",
                 "definition": "une soirée jeux de société",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895870ccsu",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -357,12 +357,12 @@ const listeRevision = [
                 "term": "Buy one, get one free",
                 "definition": "Un acheté, un offert",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587mkfl9",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -370,12 +370,12 @@ const listeRevision = [
                 "term": "a campsite",
                 "definition": "un camping",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587290v5",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -383,25 +383,25 @@ const listeRevision = [
                 "term": "a candidate",
                 "definition": "un candidat",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587gu97u",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "Can you make it?",
-                "definition": "Peux-tu venir?",
+                "term": "Can you make it",
+                "definition": "Peux-tu venir",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587ct0rq",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -414,20 +414,20 @@ const listeRevision = [
                 ],
                 "id": "173128328958725jdr",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
             {
                 "term": "casual",
-                "definition": "décontracté",
+                "definition": "décontracté (des habits)",
                 "status": [
-                    34,
+                    21,
                     null
                 ],
                 "id": "1731283289587rrqgu",
                 "date": [
-                    "17/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -440,7 +440,7 @@ const listeRevision = [
                 ],
                 "id": "173128328958701vfa",
                 "date": [
-                    "01/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -448,12 +448,12 @@ const listeRevision = [
                 "term": "a cave",
                 "definition": "une grotte",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587fnv1c",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -461,12 +461,12 @@ const listeRevision = [
                 "term": "a challenge",
                 "definition": "un défi",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895874maox",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -474,12 +474,12 @@ const listeRevision = [
                 "term": "cheap",
                 "definition": "bon marché / peu chère",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587bilug",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -487,12 +487,12 @@ const listeRevision = [
                 "term": "household chores / housework",
                 "definition": "tâches ménagères",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587ft55x",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -500,12 +500,12 @@ const listeRevision = [
                 "term": "a church",
                 "definition": "une église",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289587sw6s9",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -513,12 +513,12 @@ const listeRevision = [
                 "term": "a city break",
                 "definition": "une escapade citadine",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587ll5ce",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -526,12 +526,12 @@ const listeRevision = [
                 "term": "a cliff",
                 "definition": "une falaise",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289587iz93h",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -539,12 +539,12 @@ const listeRevision = [
                 "term": "a coast",
                 "definition": "une côte (littoral)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "173128328958765k5p",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -552,12 +552,12 @@ const listeRevision = [
                 "term": "a company",
                 "definition": "une entreprise",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587qzsyj",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -565,12 +565,12 @@ const listeRevision = [
                 "term": "a subscription",
                 "definition": "un abonnement",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587w1ye2",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -578,12 +578,12 @@ const listeRevision = [
                 "term": "a controller",
                 "definition": "une manette",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587g0kmm",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -591,12 +591,12 @@ const listeRevision = [
                 "term": "a coral reef",
                 "definition": "un récif corallien",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587exjn5",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -604,12 +604,12 @@ const listeRevision = [
                 "term": "cosmopolitan",
                 "definition": "cosmopolite",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "id": "173128328958742o6s",
                 "date": [
-                    "06/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -617,12 +617,12 @@ const listeRevision = [
                 "term": "a costume",
                 "definition": "un déguisement",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895878eofh",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -630,12 +630,12 @@ const listeRevision = [
                 "term": "cousin",
                 "definition": "cousin / cousine",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587vs0cs",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -643,12 +643,12 @@ const listeRevision = [
                 "term": "creative",
                 "definition": "créatif / créative",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587lnlhe",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -656,12 +656,12 @@ const listeRevision = [
                 "term": "crowded",
                 "definition": "bondé / bondée",
                 "status": [
-                    13,
+                    8,
                     null
                 ],
                 "id": "173128328958748wxe",
                 "date": [
-                    "05/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -669,12 +669,12 @@ const listeRevision = [
                 "term": "dangerous",
                 "definition": "dangereux / dangereuse",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587zipwm",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -682,12 +682,12 @@ const listeRevision = [
                 "term": "datas",
                 "definition": "données",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895875yk06",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -695,12 +695,12 @@ const listeRevision = [
                 "term": "a deal",
                 "definition": "une offre",
                 "status": [
-                    34,
+                    8,
                     null
                 ],
                 "id": "1731283289587rhej2",
                 "date": [
-                    "17/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -708,12 +708,12 @@ const listeRevision = [
                 "term": "delicious",
                 "definition": "délicieux / délicieuse",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "173128328958790xjo",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -721,12 +721,12 @@ const listeRevision = [
                 "term": "a desert",
                 "definition": "un désert",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289587yvi5i",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -734,12 +734,12 @@ const listeRevision = [
                 "term": "dietary requirements",
                 "definition": "régime alimentaire",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289587k1z1z",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -747,12 +747,12 @@ const listeRevision = [
                 "term": "a discount",
                 "definition": "une réduction",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587j10tp",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -760,12 +760,12 @@ const listeRevision = [
                 "term": "disorganised",
                 "definition": "désorganisé / désorganisée",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587rpqg6",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -773,12 +773,12 @@ const listeRevision = [
                 "term": "down the street",
                 "definition": "en bas de la rue / à quelques pas",
                 "status": [
-                    34,
+                    21,
                     null
                 ],
                 "id": "17312832895877hmqf",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -786,12 +786,12 @@ const listeRevision = [
                 "term": "electricity",
                 "definition": "électricité",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587z0mj3",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -799,12 +799,12 @@ const listeRevision = [
                 "term": "embassy",
                 "definition": "ambassade",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587v0dhg",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -817,7 +817,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289587zorh5",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -825,25 +825,25 @@ const listeRevision = [
                 "term": "every now and then",
                 "definition": "de temps en temps",
                 "status": [
-                    5,
+                    21,
                     null
                 ],
                 "id": "1731283289587v3vk2",
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
             {
-                "term": "every once in a while",
+                "term": "every now and then",
                 "definition": "de temps à autre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289587qqsbe",
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -851,12 +851,12 @@ const listeRevision = [
                 "term": "every other day",
                 "definition": "un jour sur deux",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289587plezm",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -864,12 +864,12 @@ const listeRevision = [
                 "term": "an excursion",
                 "definition": "une excursion",
                 "status": [
-                    34,
+                    21,
                     null
                 ],
                 "id": "1731283289587928bb",
                 "date": [
-                    "17/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -877,12 +877,12 @@ const listeRevision = [
                 "term": "expensive",
                 "definition": "cher / chère",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587le3dr",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -890,12 +890,12 @@ const listeRevision = [
                 "term": "experience",
                 "definition": "expérience",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587f7kej",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -903,12 +903,12 @@ const listeRevision = [
                 "term": "a fair",
                 "definition": "une fête foraine",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587m7inr",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -916,12 +916,12 @@ const listeRevision = [
                 "term": "fashionable",
                 "definition": "à la mode",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587t1wtv",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -929,12 +929,12 @@ const listeRevision = [
                 "term": "fewer / less",
                 "definition": "moins",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895879ohu0",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -942,12 +942,12 @@ const listeRevision = [
                 "term": "the final call",
                 "definition": "le dernier appel",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895876t1pc",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -955,25 +955,25 @@ const listeRevision = [
                 "term": "finally",
                 "definition": "enfin / finalement",
                 "status": [
-                    34,
+                    1,
                     null
                 ],
                 "id": "1731283289587yziv6",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
             {
-                "term": "Fingers crossed !",
-                "definition": "On croise les doigts !",
+                "term": "Fingers crossed",
+                "definition": "On croise les doigts",
                 "status": [
                     34,
                     null
                 ],
                 "id": "1731283289587ickif",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -981,12 +981,12 @@ const listeRevision = [
                 "term": "the fitting room",
                 "definition": "la cabine d'essayage",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587zjc6y",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -994,12 +994,12 @@ const listeRevision = [
                 "term": "a food truck",
                 "definition": "un food truck",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895870u8lp",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1007,12 +1007,12 @@ const listeRevision = [
                 "term": "fresh",
                 "definition": "frais",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587zmfhk",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1020,12 +1020,12 @@ const listeRevision = [
                 "term": "friendly / kind / nice / good",
                 "definition": "gentil / gentille",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587a9vwe",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1033,12 +1033,12 @@ const listeRevision = [
                 "term": "fun / happy / playful",
                 "definition": "enjoué / enjouée / gai / gaie",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587mtvgk",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1046,12 +1046,12 @@ const listeRevision = [
                 "term": "funny",
                 "definition": "marrant / marrante",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587poc27",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1059,12 +1059,12 @@ const listeRevision = [
                 "term": "a gallery",
                 "definition": "une galerie",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "id": "1731283289587k4ssd",
                 "date": [
-                    "06/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -1072,12 +1072,12 @@ const listeRevision = [
                 "term": "a game console",
                 "definition": "une console de jeu",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289587szzd7",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1085,12 +1085,12 @@ const listeRevision = [
                 "term": "the gate",
                 "definition": "la porte",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289587ljk07",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -1098,12 +1098,12 @@ const listeRevision = [
                 "term": "a genre",
                 "definition": "un genre",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587wx1sy",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1116,7 +1116,7 @@ const listeRevision = [
                 ],
                 "id": "173128328958779b5s",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1124,12 +1124,12 @@ const listeRevision = [
                 "term": "glamping",
                 "definition": "camping amoureux / glamping",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587g3hol",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1137,12 +1137,12 @@ const listeRevision = [
                 "term": "a good fit",
                 "definition": "un bon candidat",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587j1gfi",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1150,12 +1150,12 @@ const listeRevision = [
                 "term": "grandchildren",
                 "definition": "petits-enfants",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587i1pcd",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1163,12 +1163,12 @@ const listeRevision = [
                 "term": "granddaughter",
                 "definition": "petite-fille",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587b32oe",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1176,12 +1176,12 @@ const listeRevision = [
                 "term": "grandfather",
                 "definition": "grand-père",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587z7ez9",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1189,12 +1189,12 @@ const listeRevision = [
                 "term": "grandmother",
                 "definition": "grand-mère",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895874i8wh",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1202,12 +1202,12 @@ const listeRevision = [
                 "term": "grandparents",
                 "definition": "grands-parents",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587zhc7y",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1215,25 +1215,25 @@ const listeRevision = [
                 "term": "grandson",
                 "definition": "petit-fils",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "173128328958763dbg",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
             {
-                "term": "graphics",
+                "term": "the graphics",
                 "definition": "les graphismes",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587xlj49",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1241,12 +1241,12 @@ const listeRevision = [
                 "term": "greasy",
                 "definition": "gras",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895872fcjg",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1254,12 +1254,12 @@ const listeRevision = [
                 "term": "a guest list",
                 "definition": "une liste d'invités",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587jiu5n",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1267,12 +1267,12 @@ const listeRevision = [
                 "term": "a headliner",
                 "definition": "une tête d'affiche",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587sfmuc",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1280,12 +1280,12 @@ const listeRevision = [
                 "term": "a headset",
                 "definition": "un casque (de musique)",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587zwco0",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1293,12 +1293,12 @@ const listeRevision = [
                 "term": "heartbeat",
                 "definition": "battement de cœur/pouls",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895879fw9q",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1306,12 +1306,12 @@ const listeRevision = [
                 "term": "Hello",
                 "definition": "Bonjour",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587oon8k",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1319,12 +1319,12 @@ const listeRevision = [
                 "term": "helpful",
                 "definition": "serviable",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895870er5c",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1332,12 +1332,12 @@ const listeRevision = [
                 "term": "Help yourself",
                 "definition": "Sers-toi",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587hmofa",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1345,12 +1345,12 @@ const listeRevision = [
                 "term": "Hi",
                 "definition": "Salut",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587wxzli",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1358,12 +1358,12 @@ const listeRevision = [
                 "term": "historic",
                 "definition": "historique",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587s79wx",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1371,12 +1371,12 @@ const listeRevision = [
                 "term": "homework",
                 "definition": "les devoirs",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "173128328958738773",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1384,12 +1384,12 @@ const listeRevision = [
                 "term": "horrible",
                 "definition": "horrible",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289587uscyq",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1397,12 +1397,12 @@ const listeRevision = [
                 "term": "a horror movie",
                 "definition": "un film d'horreur",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587bu7nb",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1410,12 +1410,12 @@ const listeRevision = [
                 "term": "a hostel",
                 "definition": "une auberge de jeunesse",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "17312832895876f5nm",
                 "date": [
-                    "19/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1423,12 +1423,12 @@ const listeRevision = [
                 "term": "a house party / a party",
                 "definition": "une soirée / une fête",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "173128328958750f5l",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1436,25 +1436,25 @@ const listeRevision = [
                 "term": "a housewarming",
                 "definition": "une pendaison de crémaillère",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895878tn7j",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "I'm full !",
-                "definition": "Je n'ai plus faim !",
+                "term": "I'm full",
+                "definition": "Je n'ai plus faim",
                 "status": [
-                    34,
+                    55,
                     null
                 ],
                 "id": "1731283289587ywmb0",
                 "date": [
-                    "17/12/2024",
+                    "24/01/2025",
                     null
                 ]
             },
@@ -1462,12 +1462,12 @@ const listeRevision = [
                 "term": "I need to find the embassy",
                 "definition": "Je dois trouver l'ambassade",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895876ydxs",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -1475,12 +1475,12 @@ const listeRevision = [
                 "term": "an invitation",
                 "definition": "une invitation",
                 "status": [
-                    5,
+                    21,
                     null
                 ],
                 "id": "1731283289588x039w",
                 "date": [
-                    "05/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -1488,12 +1488,12 @@ const listeRevision = [
                 "term": "inviting",
                 "definition": "accueillant",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588n0wjq",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1501,12 +1501,12 @@ const listeRevision = [
                 "term": "an itinerary",
                 "definition": "un itinéraire",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588uss69",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1514,12 +1514,12 @@ const listeRevision = [
                 "term": "I will rent an apartment in Seville during my year abroad",
                 "definition": "Je vais louer un appartement à Séville pendant mon année à l'étranger",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "17312832895888w6rv",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1527,12 +1527,12 @@ const listeRevision = [
                 "term": "jaw-dropping",
                 "definition": "époustouflant(e)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588ybphh",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1540,12 +1540,12 @@ const listeRevision = [
                 "term": "a jean",
                 "definition": "un jean",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588bpyah",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -1553,12 +1553,12 @@ const listeRevision = [
                 "term": "a job advert",
                 "definition": "une offre / annonce d'emploi",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289588cxvdd",
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1566,12 +1566,12 @@ const listeRevision = [
                 "term": "a journey",
                 "definition": "un trajet (en voyage)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588wgcu0",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1579,12 +1579,12 @@ const listeRevision = [
                 "term": "a jumper / a sweater",
                 "definition": "un pull",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588tzm7l",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1592,12 +1592,12 @@ const listeRevision = [
                 "term": "a key point",
                 "definition": "un point clé",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895880j69g",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -1605,12 +1605,12 @@ const listeRevision = [
                 "term": "a lake",
                 "definition": "un lac",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588qj21i",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1618,12 +1618,12 @@ const listeRevision = [
                 "term": "lazy",
                 "definition": "paresseux / paresseuse",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895881qr39",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1631,12 +1631,12 @@ const listeRevision = [
                 "term": "less / fewer",
                 "definition": "moins",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588tvu7v",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1644,12 +1644,12 @@ const listeRevision = [
                 "term": "a lesson",
                 "definition": "un cours",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588y6jti",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1657,12 +1657,12 @@ const listeRevision = [
                 "term": "lively",
                 "definition": "animé (un lieu)",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588jr9rc",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1670,12 +1670,12 @@ const listeRevision = [
                 "term": "local",
                 "definition": "près de chez soi / du coin",
                 "status": [
-                    21,
+                    1,
                     null
                 ],
                 "id": "1731283289588ms7dw",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -1683,12 +1683,12 @@ const listeRevision = [
                 "term": "loose",
                 "definition": "en vrac / lâche",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289588mearx",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1696,12 +1696,12 @@ const listeRevision = [
                 "term": "a luxury stay",
                 "definition": "un séjour de luxe",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "id": "17312832895881cgb9",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1709,12 +1709,12 @@ const listeRevision = [
                 "term": "me time / time for myself",
                 "definition": "du temps pour moi",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588l3sme",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1722,12 +1722,12 @@ const listeRevision = [
                 "term": "multiplayer",
                 "definition": "multijoueurs",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588bq20w",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1735,12 +1735,12 @@ const listeRevision = [
                 "term": "a museum",
                 "definition": "un musée",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289588qhxuh",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1748,12 +1748,12 @@ const listeRevision = [
                 "term": "a neighbourhood",
                 "definition": "un quartier",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588yzvft",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1761,12 +1761,12 @@ const listeRevision = [
                 "term": "nephew",
                 "definition": "neveu",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588nmhnk",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1774,12 +1774,12 @@ const listeRevision = [
                 "term": "a newsagent's",
                 "definition": "un marchand de journaux",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588p7jjd",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1787,12 +1787,12 @@ const listeRevision = [
                 "term": "Nice to meet you",
                 "definition": "Enchanté / Enchantée",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588rkme3",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1805,7 +1805,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289588644ef",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -1818,7 +1818,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289588zlicf",
                 "date": [
-                    "17/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -1826,12 +1826,12 @@ const listeRevision = [
                 "term": "noisy",
                 "definition": "bruyant",
                 "status": [
-                    13,
+                    8,
                     null
                 ],
                 "id": "17312832895881q8py",
                 "date": [
-                    "06/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -1839,12 +1839,12 @@ const listeRevision = [
                 "term": "of course / sure",
                 "definition": "bien sûr",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588kyvkp",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1852,12 +1852,12 @@ const listeRevision = [
                 "term": "once a week",
                 "definition": "une fois par semaine",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895881sl04",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1870,7 +1870,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289588ufocf",
                 "date": [
-                    "17/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -1878,25 +1878,25 @@ const listeRevision = [
                 "term": "on the way to",
                 "definition": "sur le chemin de / en allant chez",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588e0x9s",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
                 "term": "opposite",
-                "definition": "en face",
+                "definition": "en face (d'un bâtiment par rapport a la rue)",
                 "status": [
                     21,
                     null
                 ],
                 "id": "1731283289588wuta0",
                 "date": [
-                    "17/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -1904,12 +1904,12 @@ const listeRevision = [
                 "term": "organised",
                 "definition": "organisé / organisée",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588a71fg",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1917,12 +1917,12 @@ const listeRevision = [
                 "term": "an outfit",
                 "definition": "une tenue",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588g6fu4",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1930,12 +1930,12 @@ const listeRevision = [
                 "term": "a package holiday / a package tour",
                 "definition": "un voyage organisé",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "id": "17312832895888ml47",
                 "date": [
-                    "06/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -1948,7 +1948,7 @@ const listeRevision = [
                 ],
                 "id": "17312832895882in56",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -1956,12 +1956,12 @@ const listeRevision = [
                 "term": "a pay-as-you-go plan",
                 "definition": "formule prépayée",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588e2yzb",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1969,12 +1969,12 @@ const listeRevision = [
                 "term": "peaceful",
                 "definition": "paisible",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "17312832895880ojys",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -1987,7 +1987,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289588350op",
                 "date": [
-                    "19/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -1995,12 +1995,12 @@ const listeRevision = [
                 "term": "a personal trainer / a personal coach",
                 "definition": "un entraîneur personnel",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895880yftc",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2008,12 +2008,12 @@ const listeRevision = [
                 "term": "a pet",
                 "definition": "un animal de compagnie",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588kjdko",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2021,12 +2021,12 @@ const listeRevision = [
                 "term": "a pharmacy",
                 "definition": "une pharmacie",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588l7rhm",
                 "date": [
-                    "30/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2034,12 +2034,12 @@ const listeRevision = [
                 "term": "picturesque / scenic",
                 "definition": "pittoresque",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588komwr",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2047,12 +2047,12 @@ const listeRevision = [
                 "term": "a plan",
                 "definition": "une formule",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "17312832895884cueh",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2060,12 +2060,12 @@ const listeRevision = [
                 "term": "the platform",
                 "definition": "le quai",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588gfxsn",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2073,12 +2073,12 @@ const listeRevision = [
                 "term": "a play",
                 "definition": "une pièce (de théâtre)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958872r2n",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2086,12 +2086,12 @@ const listeRevision = [
                 "term": "polite",
                 "definition": "poli / polie",
                 "status": [
-                    21,
+                    55,
                     3
                 ],
                 "id": "17312832895886ciuq",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     "31/12/2024"
                 ]
             },
@@ -2099,12 +2099,12 @@ const listeRevision = [
                 "term": "polluted",
                 "definition": "pollué",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588b3e8o",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2112,12 +2112,12 @@ const listeRevision = [
                 "term": "a post office",
                 "definition": "un bureau de poste",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588g8y28",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2125,12 +2125,12 @@ const listeRevision = [
                 "term": "quiet",
                 "definition": "calme",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289588cg64d",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2138,12 +2138,12 @@ const listeRevision = [
                 "term": "reasonable",
                 "definition": "raisonnable",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "173128328958847oir",
                 "date": [
-                    "17/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2151,12 +2151,12 @@ const listeRevision = [
                 "term": "a receipt",
                 "definition": "un ticket de caisse",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588oqryn",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2164,12 +2164,12 @@ const listeRevision = [
                 "term": "a refund",
                 "definition": "un remboursement",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588iz38q",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2177,12 +2177,12 @@ const listeRevision = [
                 "term": "a replacement bus service",
                 "definition": "un bus de remplacement",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588v7k6b",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2195,7 +2195,7 @@ const listeRevision = [
                 ],
                 "id": "173128328958879zkm",
                 "date": [
-                    "19/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -2203,12 +2203,12 @@ const listeRevision = [
                 "term": "rude",
                 "definition": "grossier / grossière",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588f2zh0",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2216,12 +2216,12 @@ const listeRevision = [
                 "term": "safe / sure",
                 "definition": "sûr / sûre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895889rh6z",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2229,12 +2229,12 @@ const listeRevision = [
                 "term": "the sales",
                 "definition": "les soldes",
                 "status": [
-                    1,
+                    21,
                     null
                 ],
                 "id": "1731283289588gxxa0",
                 "date": [
-                    "06/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -2242,12 +2242,12 @@ const listeRevision = [
                 "term": "salty",
                 "definition": "salé / salée",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588gcydy",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2255,12 +2255,12 @@ const listeRevision = [
                 "term": "a sandy beach",
                 "definition": "une plage de sable",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895883dcgz",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2268,12 +2268,12 @@ const listeRevision = [
                 "term": "a seating plan",
                 "definition": "plan de table",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "id": "1731283289588o5d4x",
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -2281,25 +2281,25 @@ const listeRevision = [
                 "term": "a service charge",
                 "definition": "frais de service",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289588yi8qa",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "Shall we move on ?",
-                "definition": "Peut-on passer à la suite ?",
+                "term": "Shall we move on",
+                "definition": "Peut-on passer à la suite",
                 "status": [
-                    13,
+                    2,
                     null
                 ],
                 "id": "1731283289588fueqm",
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -2307,12 +2307,12 @@ const listeRevision = [
                 "term": "a shopping centre",
                 "definition": "un centre commercial",
                 "status": [
-                    13,
+                    8,
                     null
                 ],
                 "id": "17312832895881bnf5",
                 "date": [
-                    "05/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2320,12 +2320,12 @@ const listeRevision = [
                 "term": "a short",
                 "definition": "un short",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588wqxcs",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2333,12 +2333,12 @@ const listeRevision = [
                 "term": "shy",
                 "definition": "timide",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588drfma",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2346,12 +2346,12 @@ const listeRevision = [
                 "term": "a side salad",
                 "definition": "une salade en accompagnement",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588tgkab",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2359,12 +2359,12 @@ const listeRevision = [
                 "term": "skills and qualifications",
                 "definition": "compétences et qualifications",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588iqzfv",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2372,12 +2372,12 @@ const listeRevision = [
                 "term": "a skirt",
                 "definition": "une jupe",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588unv6n",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2385,12 +2385,12 @@ const listeRevision = [
                 "term": "elegant / smart",
                 "definition": "élégant",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "id": "1731283289588krd3s",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2398,12 +2398,12 @@ const listeRevision = [
                 "term": "socks",
                 "definition": "chaussettes",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588scong",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2411,12 +2411,12 @@ const listeRevision = [
                 "term": "sore",
                 "definition": "douleur / mal",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895883jgw6",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2424,12 +2424,12 @@ const listeRevision = [
                 "term": "sour",
                 "definition": "acide",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588p57og",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2437,12 +2437,12 @@ const listeRevision = [
                 "term": "a souvenir / a memory",
                 "definition": "un souvenir",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958896p8k",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2450,12 +2450,12 @@ const listeRevision = [
                 "term": "a special occasion",
                 "definition": "occasion spéciale",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "id": "1731283289588h99gf",
                 "date": [
-                    "06/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -2463,12 +2463,12 @@ const listeRevision = [
                 "term": "spicy",
                 "definition": "épicé / épicée",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895887eovu",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2476,12 +2476,12 @@ const listeRevision = [
                 "term": "spinach",
                 "definition": "épinard",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289588p476x",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2489,12 +2489,12 @@ const listeRevision = [
                 "term": "a square",
                 "definition": "une place (dans une ville)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588v2e9p",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2502,12 +2502,12 @@ const listeRevision = [
                 "term": "a stadium",
                 "definition": "un stade",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289588vrpoi",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2515,12 +2515,12 @@ const listeRevision = [
                 "term": "a staycation",
                 "definition": "les vacances à la maison / dans le pays",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588seuub",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2528,12 +2528,12 @@ const listeRevision = [
                 "term": "a strong signal",
                 "definition": "un bon signal",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588nkr1y",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2541,12 +2541,12 @@ const listeRevision = [
                 "term": "sunglasses",
                 "definition": "des lunettes de soleil",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588i2gbk",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2554,12 +2554,12 @@ const listeRevision = [
                 "term": "a sunrise",
                 "definition": "le lever du soleil",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588hx73z",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2567,12 +2567,12 @@ const listeRevision = [
                 "term": "sunscreen",
                 "definition": "crème solaire",
                 "status": [
-                    13,
+                    2,
                     null
                 ],
                 "id": "1731283289588hp274",
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -2580,12 +2580,12 @@ const listeRevision = [
                 "term": "a sunset",
                 "definition": "le coucher du soleil",
                 "status": [
-                    1,
+                    8,
                     null
                 ],
                 "id": "17312832895882efty",
                 "date": [
-                    "06/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2593,12 +2593,12 @@ const listeRevision = [
                 "term": "a supermarket",
                 "definition": "un supermarché",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588kthtj",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2606,12 +2606,12 @@ const listeRevision = [
                 "term": "sweet / sugary",
                 "definition": "sucré",
                 "status": [
-                    8,
+                    1,
                     null
                 ],
                 "id": "1731283289588qljr4",
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -2619,51 +2619,51 @@ const listeRevision = [
                 "term": "See you later",
                 "definition": "A plus tard",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289588k2tip",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "Thanks for the invite !",
-                "definition": "Merci pour l'invitation !",
+                "term": "Thanks for the invite",
+                "definition": "Merci pour l'invitation",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588jnf3e",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "That's a shame !",
-                "definition": "C'est dommage !",
+                "term": "That's a shame",
+                "definition": "C'est dommage",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289588zb2l5",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "through",
+                "term": "to through",
                 "definition": "traverser (le parc)",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "17312832895887nle3",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2671,12 +2671,12 @@ const listeRevision = [
                 "term": "tidy",
                 "definition": "Ordonné / Ordonnée",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588kv67v",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2684,12 +2684,12 @@ const listeRevision = [
                 "term": "tight",
                 "definition": "serré / serrée",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588aicyu",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2697,12 +2697,12 @@ const listeRevision = [
                 "term": "the till",
                 "definition": "la caisse",
                 "status": [
-                    1,
+                    34,
                     null
                 ],
                 "id": "1731283289588yqmxi",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2710,12 +2710,12 @@ const listeRevision = [
                 "term": "the tip",
                 "definition": "le pourboire",
                 "status": [
-                    13,
+                    55,
                     1
                 ],
                 "id": "1731283289588mnhng",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     "01/01/2025"
                 ]
             },
@@ -2723,12 +2723,12 @@ const listeRevision = [
                 "term": "to add",
                 "definition": "ajouter",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588ytgpy",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2736,12 +2736,12 @@ const listeRevision = [
                 "term": "to apply",
                 "definition": "postuler",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588uc8sg",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2749,12 +2749,12 @@ const listeRevision = [
                 "term": "to arrive",
                 "definition": "arriver",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588drovm",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2762,12 +2762,12 @@ const listeRevision = [
                 "term": "to avoid",
                 "definition": "éviter",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588ed8k0",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2775,12 +2775,12 @@ const listeRevision = [
                 "term": "to bake",
                 "definition": "cuire au four",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "17312832895886ol0p",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2788,12 +2788,12 @@ const listeRevision = [
                 "term": "to be cancelled",
                 "definition": "être annulé",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588mtu12",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2801,25 +2801,25 @@ const listeRevision = [
                 "term": "to be crazy about / to be fond of",
                 "definition": "être fou de / être folle de",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958819xc1",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "to be delayed",
+                "term": "to be delayed / to be late",
                 "definition": "avoir du retard",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588m67xt",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2827,12 +2827,12 @@ const listeRevision = [
                 "term": "to be fond of",
                 "definition": "aimer (quelque chose)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588bm6f7",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2840,12 +2840,12 @@ const listeRevision = [
                 "term": "to be late",
                 "definition": "être en retard",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588ihx89",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2858,7 +2858,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289588ser8e",
                 "date": [
-                    "17/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -2866,12 +2866,12 @@ const listeRevision = [
                 "term": "to be off sick",
                 "definition": "être en congé maladie",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "1731283289588t1fmu",
                 "date": [
-                    "17/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -2879,12 +2879,12 @@ const listeRevision = [
                 "term": "to be overwhelmed",
                 "definition": "être débordé(e)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588fxj8u",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2892,12 +2892,12 @@ const listeRevision = [
                 "term": "to be served",
                 "definition": "être servi",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588ah54v",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2905,12 +2905,12 @@ const listeRevision = [
                 "term": "to be sore",
                 "definition": "avoir des courbatures",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588pcfm8",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2918,12 +2918,12 @@ const listeRevision = [
                 "term": "to bite your nails",
                 "definition": "se ronger les ongles",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588n1oyu",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2931,12 +2931,12 @@ const listeRevision = [
                 "term": "to blend",
                 "definition": "mélanger",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588p4bel",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2944,12 +2944,12 @@ const listeRevision = [
                 "term": "to boil",
                 "definition": "bouillir",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588ejn14",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2957,12 +2957,12 @@ const listeRevision = [
                 "term": "to book a flight",
                 "definition": "réserver un vol",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289588vr3lx",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2970,12 +2970,12 @@ const listeRevision = [
                 "term": "to book a table",
                 "definition": "réserver une table",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588fsea1",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2983,12 +2983,12 @@ const listeRevision = [
                 "term": "to book time off",
                 "definition": "poser des congés",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289588sv4w7",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -2996,12 +2996,12 @@ const listeRevision = [
                 "term": "to bow",
                 "definition": "s'incliner",
                 "status": [
-                    3,
+                    2,
                     null
                 ],
                 "id": "1731283289588tyoqm",
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -3009,12 +3009,12 @@ const listeRevision = [
                 "term": "to breathe",
                 "definition": "respirer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588z1dvd",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3022,12 +3022,12 @@ const listeRevision = [
                 "term": "to bring",
                 "definition": "apporter",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588f90ec",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3035,12 +3035,12 @@ const listeRevision = [
                 "term": "to bring a plus one",
                 "definition": "venir accompagné",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588kolx7",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3048,12 +3048,12 @@ const listeRevision = [
                 "term": "to browse",
                 "definition": "naviguer / parcourir (internet)",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "17312832895887w28d",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3061,12 +3061,12 @@ const listeRevision = [
                 "term": "to brush your teeth",
                 "definition": "se laver les dents",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588q6ffl",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3074,12 +3074,12 @@ const listeRevision = [
                 "term": "to buy",
                 "definition": "acheter",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588v1fp2",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3087,12 +3087,12 @@ const listeRevision = [
                 "term": "to buy the groceries",
                 "definition": "faire les courses",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588zb8sj",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3100,12 +3100,12 @@ const listeRevision = [
                 "term": "to call",
                 "definition": "appeler",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588e0opr",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3113,12 +3113,12 @@ const listeRevision = [
                 "term": "to catch a bus / to take a bus",
                 "definition": "prendre un bus",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588r0t1u",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3126,12 +3126,12 @@ const listeRevision = [
                 "term": "to cheat",
                 "definition": "tricher",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588vbbox",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3139,12 +3139,12 @@ const listeRevision = [
                 "term": "to check in",
                 "definition": "s'enregistrer (à un hôtel)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588ebf4w",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -3152,12 +3152,12 @@ const listeRevision = [
                 "term": "to check out",
                 "definition": "vérification (quand on part d'un lieu)",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "173128328958830kbf",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3165,12 +3165,12 @@ const listeRevision = [
                 "term": "to check your phone",
                 "definition": "vérifier son téléphone",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588zlp6e",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3178,12 +3178,12 @@ const listeRevision = [
                 "term": "to chew loudly",
                 "definition": "mâcher bruyamment",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588iq236",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3191,12 +3191,12 @@ const listeRevision = [
                 "term": "to chop",
                 "definition": "émincer",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "id": "17312832895882lxo6",
                 "date": [
-                    "31/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -3204,12 +3204,12 @@ const listeRevision = [
                 "term": "to clean up",
                 "definition": "nettoyer",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588quvbx",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3217,12 +3217,12 @@ const listeRevision = [
                 "term": "to collect",
                 "definition": "récupérer",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "id": "17312832895886z7ob",
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -3230,12 +3230,12 @@ const listeRevision = [
                 "term": "to squeeze",
                 "definition": "presser",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588deek3",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3243,12 +3243,12 @@ const listeRevision = [
                 "term": "to decide",
                 "definition": "décider",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588yswz5",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -3261,7 +3261,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289588ufz1p",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -3269,12 +3269,12 @@ const listeRevision = [
                 "term": "to discover",
                 "definition": "découvrir",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588ofwgo",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3282,12 +3282,12 @@ const listeRevision = [
                 "term": "to do cardio",
                 "definition": "faire de la cardio",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895880tmcl",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3295,12 +3295,12 @@ const listeRevision = [
                 "term": "to do the housework",
                 "definition": "faire le ménage",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895885v514",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3308,12 +3308,12 @@ const listeRevision = [
                 "term": "to do the laundry",
                 "definition": "faire la lessive",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588u69dd",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3321,12 +3321,12 @@ const listeRevision = [
                 "term": "to drive a car",
                 "definition": "conduire une voiture",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289588uzr3s",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3334,12 +3334,12 @@ const listeRevision = [
                 "term": "to earn",
                 "definition": "gagner (par le travail)",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "17312832895880cxop",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3347,12 +3347,12 @@ const listeRevision = [
                 "term": "to eat well",
                 "definition": "bien manger",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588fd4d1",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3360,12 +3360,12 @@ const listeRevision = [
                 "term": "to email",
                 "definition": "envoyer un e-mail",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588uw2hh",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3373,12 +3373,12 @@ const listeRevision = [
                 "term": "to exchange",
                 "definition": "échanger",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588xe1zr",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3386,12 +3386,12 @@ const listeRevision = [
                 "term": "to explore",
                 "definition": "explorer",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588z3s7v",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -3399,12 +3399,12 @@ const listeRevision = [
                 "term": "to feel sick",
                 "definition": "se sentir malade",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588acqwq",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3412,12 +3412,12 @@ const listeRevision = [
                 "term": "to fill out forms",
                 "definition": "remplir des formulaires",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "id": "1731283289588d3sb7",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3425,12 +3425,12 @@ const listeRevision = [
                 "term": "to find",
                 "definition": "trouver",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895883euad",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3438,12 +3438,12 @@ const listeRevision = [
                 "term": "to finish",
                 "definition": "terminer",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588sd7tg",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3456,7 +3456,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289588lrben",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -3464,12 +3464,12 @@ const listeRevision = [
                 "term": "to fly",
                 "definition": "voler / prendre l'avion",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588rbjfz",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3477,12 +3477,12 @@ const listeRevision = [
                 "term": "to get a membership / to get a subscription",
                 "definition": "avoir un abonnement",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "17312832895888hsvo",
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3490,12 +3490,12 @@ const listeRevision = [
                 "term": "to get a phone contract",
                 "definition": "prendre un abonnement téléphonique",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588e1na8",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3503,12 +3503,12 @@ const listeRevision = [
                 "term": "to get in shape",
                 "definition": "retrouver la forme",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588wdmhd",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3516,12 +3516,12 @@ const listeRevision = [
                 "term": "to get over",
                 "definition": "se remettre de",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588q3mbx",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3529,12 +3529,12 @@ const listeRevision = [
                 "term": "to get some rest",
                 "definition": "récupérer / se reposer (jour de repos)",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "17312832895882uz4d",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3542,12 +3542,12 @@ const listeRevision = [
                 "term": "to get together",
                 "definition": "se retrouver",
                 "status": [
-                    1,
+                    8,
                     null
                 ],
                 "id": "1731283289588c1m6m",
                 "date": [
-                    "06/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -3555,12 +3555,12 @@ const listeRevision = [
                 "term": "to go abroad",
                 "definition": "partir à l'étranger",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289588yx5ry",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3568,12 +3568,12 @@ const listeRevision = [
                 "term": "to go camping",
                 "definition": "faire du camping",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289588i8n0n",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3581,12 +3581,12 @@ const listeRevision = [
                 "term": "to go hiking",
                 "definition": "faire de la randonnée",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588yeg8e",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3594,12 +3594,12 @@ const listeRevision = [
                 "term": "to go on a cruise",
                 "definition": "faire une croisière",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "1731283289588kuj99",
                 "date": [
-                    "30/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -3607,12 +3607,12 @@ const listeRevision = [
                 "term": "to go to a party",
                 "definition": "aller à une fête",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588eiuk9",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3620,12 +3620,12 @@ const listeRevision = [
                 "term": "to go to school",
                 "definition": "aller à l'école",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289588h6mbr",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3633,12 +3633,12 @@ const listeRevision = [
                 "term": "to go to the beach",
                 "definition": "aller à la plage",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895897kq3a",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3646,12 +3646,12 @@ const listeRevision = [
                 "term": "to go to university",
                 "definition": "aller à l'université",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589qz7bm",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3659,12 +3659,12 @@ const listeRevision = [
                 "term": "to graduate",
                 "definition": "obtenir son diplôme",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589pi8uh",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3672,12 +3672,12 @@ const listeRevision = [
                 "term": "to grill",
                 "definition": "faire griller",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589mgla2",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3685,12 +3685,12 @@ const listeRevision = [
                 "term": "to do a barbecue",
                 "definition": "faire un barbecue",
                 "status": [
-                    13,
+                    34,
                     1
                 ],
                 "id": "1731283289589bhpnt",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "01/01/2025"
                 ]
             },
@@ -3698,12 +3698,12 @@ const listeRevision = [
                 "term": "to have a checkup",
                 "definition": "avoir un examen (contrôle \n technique)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895899tuq5",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3711,12 +3711,12 @@ const listeRevision = [
                 "term": "to have a cold",
                 "definition": "être enrhumé / être enrhumée",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589oa2jz",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3724,12 +3724,12 @@ const listeRevision = [
                 "term": "to have a headache",
                 "definition": "avoir mal à la tête",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289589bet4f",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3737,12 +3737,12 @@ const listeRevision = [
                 "term": "to have a meeting",
                 "definition": "avoir une réunion",
                 "status": [
-                    21,
+                    55,
                     0
                 ],
                 "id": "1731283289589gk8ju",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3750,12 +3750,12 @@ const listeRevision = [
                 "term": "to have a snack",
                 "definition": "prendre une collation / grignoter quelque chose",
                 "status": [
-                    21,
+                    2,
                     null
                 ],
                 "id": "173128328958953bnd",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -3763,12 +3763,12 @@ const listeRevision = [
                 "term": "to have a temperature",
                 "definition": "avoir de la fièvre",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "id": "1731283289589vp4wy",
                 "date": [
-                    "06/01/2025",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -3776,12 +3776,12 @@ const listeRevision = [
                 "term": "to have people over",
                 "definition": "recevoir des personnes chez soi",
                 "status": [
-                    1,
+                    34,
                     null
                 ],
                 "id": "1731283289589lohuy",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3789,12 +3789,12 @@ const listeRevision = [
                 "term": "to help",
                 "definition": "aider",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895894hqqa",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3802,12 +3802,12 @@ const listeRevision = [
                 "term": "to hire / to rent / to lease / praise",
                 "definition": "louer",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289589fki23",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3815,25 +3815,25 @@ const listeRevision = [
                 "term": "to hire a DJ",
                 "definition": "engager un DJ",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589o0i3u",
                 "date": [
-                    "19/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "to host a dinner party",
+                "term": "to host a dinner",
                 "definition": "organiser un dîner",
                 "status": [
-                    2,
+                    21,
                     5
                 ],
                 "id": "1731283289589lcp3o",
                 "date": [
-                    "06/01/2025",
+                    "07/03/2025",
                     "01/01/2025"
                 ]
             },
@@ -3841,12 +3841,12 @@ const listeRevision = [
                 "term": "to join a gym",
                 "definition": "s'inscrire à une salle de sport",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289589jglm8",
                 "date": [
-                    "17/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3854,12 +3854,12 @@ const listeRevision = [
                 "term": "to keep away from",
                 "definition": "se tenir à distance de / éviter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589zrl3v",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3867,12 +3867,12 @@ const listeRevision = [
                 "term": "to lag",
                 "definition": "ramer (connection)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895898vdow",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3885,7 +3885,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289589r7bfa",
                 "date": [
-                    "19/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -3893,12 +3893,12 @@ const listeRevision = [
                 "term": "to look for a job",
                 "definition": "chercher un travail",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895895of26",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3911,7 +3911,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289589huduw",
                 "date": [
-                    "17/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -3919,12 +3919,12 @@ const listeRevision = [
                 "term": "to make a good impression",
                 "definition": "faire bonne impression",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "1731283289589k32qw",
                 "date": [
-                    "17/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -3932,12 +3932,12 @@ const listeRevision = [
                 "term": "to make an appointment",
                 "definition": "prendre rendez-vous",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895896w3p7",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3945,12 +3945,12 @@ const listeRevision = [
                 "term": "to make a reservation / to book",
                 "definition": "réserver / faire une réservation",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589uwywq",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -3958,12 +3958,12 @@ const listeRevision = [
                 "term": "to make time for",
                 "definition": "prendre du temps pour",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589ff4hy",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3971,12 +3971,12 @@ const listeRevision = [
                 "term": "to marinate",
                 "definition": "faire mariner",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289589kj7iy",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3984,12 +3984,12 @@ const listeRevision = [
                 "term": "to stir / to mix / to blend",
                 "definition": "mélanger",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "17312832895892k9yo",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -3997,12 +3997,12 @@ const listeRevision = [
                 "term": "to mop",
                 "definition": "passer la serpillière",
                 "status": [
-                    21,
+                    55,
                     0
                 ],
                 "id": "1731283289589g2rfz",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4015,7 +4015,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289589pdlul",
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -4023,12 +4023,12 @@ const listeRevision = [
                 "term": "to pick up a bug",
                 "definition": "attraper un virus",
                 "status": [
-                    1,
+                    34,
                     null
                 ],
                 "id": "17312832895891o7oz",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4036,12 +4036,12 @@ const listeRevision = [
                 "term": "to pour",
                 "definition": "verser",
                 "status": [
-                    1,
+                    34,
                     null
                 ],
                 "id": "1731283289589vj5td",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4049,12 +4049,12 @@ const listeRevision = [
                 "term": "to prepare",
                 "definition": "préparer",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589yrgsi",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4062,12 +4062,12 @@ const listeRevision = [
                 "term": "to prescribe",
                 "definition": "prescrire",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589b3hjm",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4075,12 +4075,12 @@ const listeRevision = [
                 "term": "to propose a toast",
                 "definition": "porter un toast",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895891ai7b",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4088,12 +4088,12 @@ const listeRevision = [
                 "term": "to put pressure on oneself",
                 "definition": "se mettre la pression",
                 "status": [
-                    2,
+                    21,
                     null
                 ],
                 "id": "1731283289589dsq2p",
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -4101,12 +4101,12 @@ const listeRevision = [
                 "term": "to quit",
                 "definition": "démissionner / quitter (quelque chose)",
                 "status": [
-                    21,
+                    55,
                     0
                 ],
                 "id": "1731283289589645fg",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4114,12 +4114,12 @@ const listeRevision = [
                 "term": "to recommend",
                 "definition": "recommander",
                 "status": [
-                    5,
+                    1,
                     null
                 ],
                 "id": "173128328958995inv",
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -4127,12 +4127,12 @@ const listeRevision = [
                 "term": "to rent an apartment",
                 "definition": "louer un appartement",
                 "status": [
-                    21,
+                    1,
                     null
                 ],
                 "id": "1731283289589s8tef",
                 "date": [
-                    "30/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -4140,12 +4140,12 @@ const listeRevision = [
                 "term": "to retire",
                 "definition": "prendre sa retraite",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589xo2rr",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4153,12 +4153,12 @@ const listeRevision = [
                 "term": "to return",
                 "definition": "rapporter / retourner",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289589gnf2w",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4166,12 +4166,12 @@ const listeRevision = [
                 "term": "to revise",
                 "definition": "réviser",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "17312832895894lsjh",
                 "date": [
-                    "30/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -4179,12 +4179,12 @@ const listeRevision = [
                 "term": "to ride a bike",
                 "definition": "faire du vélo",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589g2zq5",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4192,12 +4192,12 @@ const listeRevision = [
                 "term": "to roast",
                 "definition": "faire rôtir",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "1731283289589okqg8",
                 "date": [
-                    "30/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -4205,12 +4205,12 @@ const listeRevision = [
                 "term": "to RSVP (Respond, if you please)",
                 "definition": "pour confirmer votre présence (Abréviation)",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "173128328958923sfq",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4218,12 +4218,12 @@ const listeRevision = [
                 "term": "to see a doctor",
                 "definition": "voir un(e) médecin",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589ocyhv",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4231,12 +4231,12 @@ const listeRevision = [
                 "term": "to send an application",
                 "definition": "envoyer une candidature",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895896jdus",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4244,12 +4244,12 @@ const listeRevision = [
                 "term": "to set a date",
                 "definition": "fixer une date",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589tu373",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4257,12 +4257,12 @@ const listeRevision = [
                 "term": "to set an alarm",
                 "definition": "mettre le réveil",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589x1uk1",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4275,7 +4275,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289589lhszm",
                 "date": [
-                    "30/12/2024",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -4283,12 +4283,12 @@ const listeRevision = [
                 "term": "to sign",
                 "definition": "signer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589g9w2m",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4296,12 +4296,12 @@ const listeRevision = [
                 "term": "to sign up for a class",
                 "definition": "s'inscrire à un cours",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589t0psb",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4309,12 +4309,12 @@ const listeRevision = [
                 "term": "to simmer",
                 "definition": "faire mijoter",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289589hrxj5",
                 "date": [
-                    "30/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4322,12 +4322,12 @@ const listeRevision = [
                 "term": "to skateboard",
                 "definition": "faire du skate",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589ny4hm",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4335,12 +4335,12 @@ const listeRevision = [
                 "term": "to slice",
                 "definition": "couper / trancher",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589vq4zq",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4348,12 +4348,12 @@ const listeRevision = [
                 "term": "to snore",
                 "definition": "ronfler",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589mfumf",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4361,12 +4361,12 @@ const listeRevision = [
                 "term": "to spend",
                 "definition": "dépenser",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895893u23o",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4374,12 +4374,12 @@ const listeRevision = [
                 "term": "to squeeze the juice",
                 "definition": "presser le jus",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589tz8n7",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4387,12 +4387,12 @@ const listeRevision = [
                 "term": "to start",
                 "definition": "commencer (verbe régulier)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895891fg1r",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4400,12 +4400,12 @@ const listeRevision = [
                 "term": "to steer clear of / to keep away from",
                 "definition": "rester à l'écart / éviter",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "id": "1731283289589hd99v",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4413,12 +4413,12 @@ const listeRevision = [
                 "term": "to stir",
                 "definition": "mélanger",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589wnw9y",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4426,12 +4426,12 @@ const listeRevision = [
                 "term": "to study",
                 "definition": "étudier",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589po0vp",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4439,12 +4439,12 @@ const listeRevision = [
                 "term": "to suffer",
                 "definition": "souffrir",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958951set",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4452,12 +4452,12 @@ const listeRevision = [
                 "term": "to suit",
                 "definition": "aller (le vêtement te VA bien)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589zf3h4",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4465,12 +4465,12 @@ const listeRevision = [
                 "term": "to sunbathe",
                 "definition": "prendre un bain de soleil",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289589r3shr",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4478,12 +4478,12 @@ const listeRevision = [
                 "term": "to sweep",
                 "definition": "balayer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589r1tkg",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4491,12 +4491,12 @@ const listeRevision = [
                 "term": "to take medication",
                 "definition": "prendre des médicaments",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589v5ufe",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4504,12 +4504,12 @@ const listeRevision = [
                 "term": "to take part in group therapy",
                 "definition": "suivre une thérapie de groupe",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "1731283289589kahja",
                 "date": [
-                    "30/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -4517,12 +4517,12 @@ const listeRevision = [
                 "term": "to take the train",
                 "definition": "prendre le train",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958921vog",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4530,12 +4530,12 @@ const listeRevision = [
                 "term": "to take turns",
                 "definition": "à tour de rôle / se relayer",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "id": "17312832895892uroj",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4543,12 +4543,12 @@ const listeRevision = [
                 "term": "to take yoga classes",
                 "definition": "prendre des cours de yoga",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289589gl1ce",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4556,12 +4556,12 @@ const listeRevision = [
                 "term": "to think",
                 "definition": "penser",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895895rdw7",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4569,12 +4569,12 @@ const listeRevision = [
                 "term": "to throw a party / to host a party",
                 "definition": "organiser une fête",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589jnx6c",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4582,12 +4582,12 @@ const listeRevision = [
                 "term": "to throw / to throw away",
                 "definition": "jeter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589jnng8",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4595,12 +4595,12 @@ const listeRevision = [
                 "term": "to tidy up",
                 "definition": "ranger",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "17312832895894o87q",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4608,12 +4608,12 @@ const listeRevision = [
                 "term": "to train for an event",
                 "definition": "s'entraîner pour une épreuve",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589t891l",
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4626,7 +4626,7 @@ const listeRevision = [
                 ],
                 "id": "1731283289589axiwj",
                 "date": [
-                    "30/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -4634,25 +4634,25 @@ const listeRevision = [
                 "term": "to try",
                 "definition": "essayer",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589hxm64",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
             {
-                "term": "Touch wood !",
-                "definition": "Je touche du bois !",
+                "term": "Touch wood",
+                "definition": "Je touche du bois",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589dlwp6",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4660,12 +4660,12 @@ const listeRevision = [
                 "term": "to understand",
                 "definition": "comprendre",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589jwkzd",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4673,12 +4673,12 @@ const listeRevision = [
                 "term": "to unwind",
                 "definition": "se détendre",
                 "status": [
-                    13,
+                    8,
                     null
                 ],
                 "id": "1731283289589js1vp",
                 "date": [
-                    "05/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4686,12 +4686,12 @@ const listeRevision = [
                 "term": "to vacuum",
                 "definition": "passer l'aspirateur",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589e9ukz",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4699,12 +4699,12 @@ const listeRevision = [
                 "term": "to wash",
                 "definition": "laver",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958985s5z",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4712,12 +4712,12 @@ const listeRevision = [
                 "term": "to do the dishes",
                 "definition": "faire la vaisselle",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "173128328958994dqf",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4725,12 +4725,12 @@ const listeRevision = [
                 "term": "to wear",
                 "definition": "porter (vêtement)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589f43ix",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4738,12 +4738,12 @@ const listeRevision = [
                 "term": "to wear clothes",
                 "definition": "porter des vêtements",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "17312832895891wf3n",
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4751,12 +4751,12 @@ const listeRevision = [
                 "term": "to work from home",
                 "definition": "télétravailler",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895895obgp",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4764,12 +4764,12 @@ const listeRevision = [
                 "term": "traditional",
                 "definition": "la tradition",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289589m4o01",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4777,12 +4777,12 @@ const listeRevision = [
                 "term": "baskets (US) / trainers (GB)",
                 "definition": "baskets",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895899v5zc",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4790,12 +4790,12 @@ const listeRevision = [
                 "term": "a tram",
                 "definition": "un tramway",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895896je9h",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4803,12 +4803,12 @@ const listeRevision = [
                 "term": "a transfer",
                 "definition": "un transfert",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "17312832895892mjja",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4816,25 +4816,25 @@ const listeRevision = [
                 "term": "a trip",
                 "definition": "un voyage / un séjour",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289589zvs6l",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "a uncle",
+                "term": "an uncle",
                 "definition": "un oncle",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "173128328958940zdw",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4842,12 +4842,12 @@ const listeRevision = [
                 "term": "under the name",
                 "definition": "au nom de (une réservation au nom de quelqu'un)",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895891kgyb",
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4855,12 +4855,12 @@ const listeRevision = [
                 "term": "unforgettable",
                 "definition": "inoubliable",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "1731283289589andzv",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4868,12 +4868,12 @@ const listeRevision = [
                 "term": "unlimited calls",
                 "definition": "appels illimités",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589df0wh",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4881,12 +4881,12 @@ const listeRevision = [
                 "term": "untidy",
                 "definition": "désordonné / désordonnée",
                 "status": [
-                    5,
+                    1,
                     null
                 ],
                 "id": "1731283289589euab2",
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ]
             },
@@ -4894,12 +4894,12 @@ const listeRevision = [
                 "term": "a vegan burger",
                 "definition": "un burger vegan",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589b1mdb",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4907,12 +4907,12 @@ const listeRevision = [
                 "term": "a venue",
                 "definition": "un lieu / une salle pour faire la fête",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895899yg3t",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4920,12 +4920,12 @@ const listeRevision = [
                 "term": "a VIP / a very important person",
                 "definition": "un VIP / une personne très importante",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589sa09s",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4933,12 +4933,12 @@ const listeRevision = [
                 "term": "a visa",
                 "definition": "un visa",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589etiiu",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4946,12 +4946,12 @@ const listeRevision = [
                 "term": "a volcano",
                 "definition": "un volcan",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289589btf1u",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4959,12 +4959,12 @@ const listeRevision = [
                 "term": "a washing machine",
                 "definition": "un lave-linge",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589c8sk0",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -4972,12 +4972,12 @@ const listeRevision = [
                 "term": "a waterfall",
                 "definition": "une cascade",
                 "status": [
-                    21,
+                    34,
                     null
                 ],
                 "id": "1731283289589p4h2p",
                 "date": [
-                    "30/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -4985,12 +4985,12 @@ const listeRevision = [
                 "term": "a wave",
                 "definition": "une vague",
                 "status": [
-                    21,
+                    8,
                     null
                 ],
                 "id": "1731283289589tqrqq",
                 "date": [
-                    "30/12/2024",
+                    "07/03/2025",
                     null
                 ]
             },
@@ -4998,12 +4998,12 @@ const listeRevision = [
                 "term": "We are sorry for any inconvenience",
                 "definition": "Nous sommes désolés pour la gêne occasionnée",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289589for24",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -5011,64 +5011,64 @@ const listeRevision = [
                 "term": "wellies",
                 "definition": "bottes de pluie",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589iubfr",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
             {
-                "term": "We are ready to order !",
-                "definition": "Nous sommes prêts à commander !",
+                "term": "We are ready to order",
+                "definition": "Nous sommes prêts à commander",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "id": "1731283289589byqvs",
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "What are your thoughts ?",
-                "definition": "Qu'en penses-tu ?",
+                "term": "What are your thoughts",
+                "definition": "Qu'en penses-tu",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "id": "1731283289589cfrm0",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "What can I get you?",
-                "definition": "Qu'est-ce que je vous sers?",
+                "term": "What can I get you",
+                "definition": "Qu'est-ce que je vous sers",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895895xt8d",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
             {
-                "term": "What do you mean?",
-                "definition": "Que veux-tu dire?",
+                "term": "What do you mean",
+                "definition": "Que veux-tu dire",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "17312832895893sxm1",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -5076,25 +5076,25 @@ const listeRevision = [
                 "term": "while",
                 "definition": "pendant que",
                 "status": [
-                    13,
+                    55,
                     null
                 ],
                 "id": "1731283289589cbrlq",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "Wish me luck !",
-                "definition": "Souhaitez-moi bonne chance !",
+                "term": "Wish me luck",
+                "definition": "Souhaitez-moi bonne chance",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "1731283289589xv5j7",
                 "date": [
-                    "26/12/2024",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -5102,25 +5102,25 @@ const listeRevision = [
                 "term": "a wristband",
                 "definition": "un bracelet",
                 "status": [
-                    1,
+                    34,
                     null
                 ],
                 "id": "1731283289589dilvu",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
             {
-                "term": "Yes ! I'm in",
-                "definition": "Oui ! Je viens",
+                "term": "Yes I'm in",
+                "definition": "Oui Je viens",
                 "status": [
-                    21,
+                    55,
                     null
                 ],
                 "id": "1731283289589ajinq",
                 "date": [
-                    "30/12/2024",
+                    "01/03/2025",
                     null
                 ]
             },
@@ -5128,12 +5128,12 @@ const listeRevision = [
                 "term": "You must provide two types of identification",
                 "definition": "Vous devez fournir deux pièces d'identité",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "id": "173128328958996am3",
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ]
             },
@@ -5141,11 +5141,11 @@ const listeRevision = [
                 "term": "a blended family",
                 "definition": "une famille recomposée",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845879sr70w"
@@ -5154,11 +5154,11 @@ const listeRevision = [
                 "term": "a building",
                 "definition": "un bâtiment",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458795yr2e"
@@ -5167,11 +5167,11 @@ const listeRevision = [
                 "term": "a busy city",
                 "definition": "une ville animée",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845879yx9se"
@@ -5180,11 +5180,11 @@ const listeRevision = [
                 "term": "a neighbourhood",
                 "definition": "un quartier",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845879r1c3r"
@@ -5193,11 +5193,11 @@ const listeRevision = [
                 "term": "a single-parent household",
                 "definition": "une famille monoparentale",
                 "status": [
-                    5,
+                    21,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "17353278458798phz9"
@@ -5206,11 +5206,11 @@ const listeRevision = [
                 "term": "a skyscraper",
                 "definition": "un gratte-ciel",
                 "status": [
-                    5,
+                    8,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1735327845879mpbsd"
@@ -5219,11 +5219,11 @@ const listeRevision = [
                 "term": "a stepfather",
                 "definition": "un beau-père",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845879xvnpa"
@@ -5232,11 +5232,11 @@ const listeRevision = [
                 "term": "an extended family",
                 "definition": "une famille élargie",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458791lszd"
@@ -5245,11 +5245,11 @@ const listeRevision = [
                 "term": "ancient ruins",
                 "definition": "anciennes ruines",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845880iyrwj"
@@ -5258,11 +5258,11 @@ const listeRevision = [
                 "term": "Christmas trees smell a bit like oranges",
                 "definition": "Les sapins de Noël sentent un peu comme les oranges",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845880vjoty"
@@ -5271,24 +5271,24 @@ const listeRevision = [
                 "term": "contemporary architecture",
                 "definition": "architecture contemporaine",
                 "status": [
-                    3,
+                    21,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "07/03/2025",
                     null
                 ],
                 "id": "1735327845880wry1o"
             },
             {
-                "term": "Do you want to taste my gingerbread cookies ?",
-                "definition": "Veux-tu goûter mes biscuits au pain d'épices ?",
+                "term": "Do you want to taste my gingerbread cookies",
+                "definition": "Veux-tu goûter mes biscuits au pain d'épices",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458803c56f"
@@ -5297,11 +5297,11 @@ const listeRevision = [
                 "term": "green spaces",
                 "definition": "espaces verts",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845880yo5y3"
@@ -5310,11 +5310,11 @@ const listeRevision = [
                 "term": "historic sites",
                 "definition": "sites historiques",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845880ruuab"
@@ -5323,11 +5323,11 @@ const listeRevision = [
                 "term": "I could smell cinnamon cookies for hours",
                 "definition": "Je pourrais sentir les biscuits à la cannelle pendant des heures",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845881flauj"
@@ -5336,11 +5336,11 @@ const listeRevision = [
                 "term": "I'm measuring each piece of baklava to make sure they fit in the box",
                 "definition": "Je mesure chaque part de baklava pour être sûre qu'elles rentrent dans la boîte",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458815g07t"
@@ -5349,11 +5349,11 @@ const listeRevision = [
                 "term": "I'm weighing sugar for the baklava recipe",
                 "definition": "Je pèse le sucre pour la recette de la baklava",
                 "status": [
-                    3,
+                    21,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1735327845881fdsr4"
@@ -5362,11 +5362,11 @@ const listeRevision = [
                 "term": "My grandfather used to live in a rural area",
                 "definition": "Mon grand-père vivait à la campagne",
                 "status": [
-                    5,
+                    21,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "07/03/2025",
                     null
                 ],
                 "id": "1735327845881ph7mp"
@@ -5375,11 +5375,11 @@ const listeRevision = [
                 "term": "residential areas",
                 "definition": "zones résidentielles",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458818fyuw"
@@ -5388,11 +5388,11 @@ const listeRevision = [
                 "term": "This mushroom soup tastes delicious",
                 "definition": "Cette soupe aux champignons est délicieuse",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845881z893j"
@@ -5401,11 +5401,11 @@ const listeRevision = [
                 "term": "to ask somebody out",
                 "definition": "inviter quelqu'un à sortir avec soi",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173532784588263hvm"
@@ -5414,11 +5414,11 @@ const listeRevision = [
                 "term": "to be adopted",
                 "definition": "être adopté",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845882cl38e"
@@ -5427,11 +5427,11 @@ const listeRevision = [
                 "term": "to be compatible with",
                 "definition": "être compatible avec",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458827z9tr"
@@ -5440,11 +5440,11 @@ const listeRevision = [
                 "term": "to fall in love with",
                 "definition": "tomber amoureux de quelqu'un",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845882x8ba7"
@@ -5453,11 +5453,11 @@ const listeRevision = [
                 "term": "to get away with",
                 "definition": "s'en tirer",
                 "status": [
-                    5,
+                    21,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1735327845882x2c8s"
@@ -5466,11 +5466,11 @@ const listeRevision = [
                 "term": "to get better",
                 "definition": "aller mieux / s'améliorer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845882qdcbt"
@@ -5479,11 +5479,11 @@ const listeRevision = [
                 "term": "to get engaged to",
                 "definition": "se fiancer à",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845882k58th"
@@ -5492,11 +5492,11 @@ const listeRevision = [
                 "term": "to get married",
                 "definition": "se marier",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845883zf1gb"
@@ -5505,11 +5505,11 @@ const listeRevision = [
                 "term": "to get on with",
                 "definition": "bien s'entendre",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845883ew02w"
@@ -5518,11 +5518,11 @@ const listeRevision = [
                 "term": "to get rid of",
                 "definition": "se débarrasser de",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458839iofv"
@@ -5531,11 +5531,11 @@ const listeRevision = [
                 "term": "to get to the bottom of",
                 "definition": "mettre les choses au clair / élucider",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458837fp04"
@@ -5544,11 +5544,11 @@ const listeRevision = [
                 "term": "to go on a date",
                 "definition": "avoir rendez-vous / se donner rendez-vous (amoureux / galant)",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845883sd0xe"
@@ -5557,11 +5557,11 @@ const listeRevision = [
                 "term": "to have a crush on",
                 "definition": "avoir un faible pour quelqu'un",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845883af50p"
@@ -5570,11 +5570,11 @@ const listeRevision = [
                 "term": "to keep a secret",
                 "definition": "garder un secret",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845883sfsxz"
@@ -5583,11 +5583,11 @@ const listeRevision = [
                 "term": "to keep in touch",
                 "definition": "rester en contact",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845884itjed"
@@ -5596,11 +5596,11 @@ const listeRevision = [
                 "term": "twins",
                 "definition": "des jumeaux/des jumelles",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1735327845884ymbb4"
@@ -5609,11 +5609,11 @@ const listeRevision = [
                 "term": "well-preserved buildings",
                 "definition": "bâtiments bien préservés",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458844hgvp"
@@ -5622,14 +5622,4668 @@ const listeRevision = [
                 "term": "When my grandmother was young, she would knit winter clothing for the whole family",
                 "definition": "Quand ma grand-mère était jeune, elle tricotait des vêtements d'hiver pour toute la famille",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17353278458840m92w"
+            },
+            {
+                "term": "a commercial break",
+                "definition": "une page de publicité",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "17371288298197o7hf"
+            },
+            {
+                "term": "a headline",
+                "definition": "un titre",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "173712882981927rfk"
+            },
+            {
+                "term": "a news anchor",
+                "definition": "un présentateur / une présentatrice de journal",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737128829819nshig"
+            },
+            {
+                "term": "a staple",
+                "definition": "un plat de base",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "17371288298195esyg"
+            },
+            {
+                "term": "authentic",
+                "definition": "authentique",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829819iow5e"
+            },
+            {
+                "term": "breaking news",
+                "definition": "un flash spécial / des informations de dernière minute",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829819avzk6"
+            },
+            {
+                "term": "confused",
+                "definition": "perdu / troublé / confus",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737128829820o7zh3"
+            },
+            {
+                "term": "confusing",
+                "definition": "confus",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737128829820bcfjj"
+            },
+            {
+                "term": "cosiness",
+                "definition": "confort douillet",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737128829820omffd"
+            },
+            {
+                "term": "disappointed",
+                "definition": "déçu / déçue",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737128829820sl7fn"
+            },
+            {
+                "term": "disappointing",
+                "definition": "décevant / décevante",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829820allxu"
+            },
+            {
+                "term": "discomfort (n)",
+                "definition": "inconfort (n.)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737128829820il7p7"
+            },
+            {
+                "term": "excited",
+                "definition": "ravi / ravie",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829820fbgnt"
+            },
+            {
+                "term": "exciting",
+                "definition": "génial·e",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829820c7xkt"
+            },
+            {
+                "term": "frustrated (adj)",
+                "definition": "frustré / frustrée (adj.)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "17371288298200enag"
+            },
+            {
+                "term": "frustrating (adj)",
+                "definition": "frustrant / frustrante (adj.)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829820godrf"
+            },
+            {
+                "term": "frustration (n)",
+                "definition": "frustration (n.)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829820pa03x"
+            },
+            {
+                "term": "gratitude",
+                "definition": "gratitude",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821b8pdo"
+            },
+            {
+                "term": "Great to hear that",
+                "definition": "Bonne nouvelle (expression)",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "173712882982159784"
+            },
+            {
+                "term": "loneliness (n)",
+                "definition": "solitude (n)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737128829821og0co"
+            },
+            {
+                "term": "lonely (adj)",
+                "definition": "seul / seule (adj.)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821nr692"
+            },
+            {
+                "term": "Long time no see",
+                "definition": "Ça fait un bail (expression)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821wssfd"
+            },
+            {
+                "term": "Oh my god",
+                "definition": "Oh mon Dieu",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "173712882982136d2f"
+            },
+            {
+                "term": "shocked",
+                "definition": "choqué / choquée",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829821gpndj"
+            },
+            {
+                "term": "shocking",
+                "definition": "choquant·e",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "17371288298212gfvd"
+            },
+            {
+                "term": "terrified",
+                "definition": "terrifié·e",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821spxlg"
+            },
+            {
+                "term": "terrifying",
+                "definition": "effrayant·e",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821w7fvt"
+            },
+            {
+                "term": "That's fantastic",
+                "definition": "C’est sensationnel",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829821ucu6f"
+            },
+            {
+                "term": "the media",
+                "definition": "les médias",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821rmkh6"
+            },
+            {
+                "term": "thick",
+                "definition": "épais·se",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821ukju2"
+            },
+            {
+                "term": "thin",
+                "definition": "fin·e",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821rp1ms"
+            },
+            {
+                "term": "This is pretty incredible",
+                "definition": "C’est assez incroyable",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829821mr0lq"
+            },
+            {
+                "term": "to gossip",
+                "definition": "jaser (rumeur)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821dhok6"
+            },
+            {
+                "term": "to joke",
+                "definition": "plaisanter",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "17371288298212h18b"
+            },
+            {
+                "term": "to run out of",
+                "definition": "manquer / être à court de",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829821z1k9e"
+            },
+            {
+                "term": "to say goodbye",
+                "definition": "dire au revoir",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821gychv"
+            },
+            {
+                "term": "to say sorry",
+                "definition": "s’excuser",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829821lqds1"
+            },
+            {
+                "term": "to shout",
+                "definition": "crier",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17371288298229uspc"
+            },
+            {
+                "term": "to speak one's mind",
+                "definition": "dire ce qu’on pense",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "17371288298220litm"
+            },
+            {
+                "term": "to tell the truth",
+                "definition": "dire la vérité",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829822ruuv0"
+            },
+            {
+                "term": "to turn out",
+                "definition": "se révéler",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829822kw4bn"
+            },
+            {
+                "term": "to whisper",
+                "definition": "chuchoter",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829822dmbkc"
+            },
+            {
+                "term": "uncertain (adj)",
+                "definition": "incertain / incertaine (adj.)",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737128829822i6tvo"
+            },
+            {
+                "term": "uncertainty (n)",
+                "definition": "incertitude (n)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737128829822e2i7v"
+            },
+            {
+                "term": "uncomfortable (adj)",
+                "definition": "mal à l’aise (adj.)",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737128829822lhxls"
+            },
+            {
+                "term": "up and running",
+                "definition": "en état de marche",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737128829822a49k7"
+            },
+            {
+                "term": "warmth",
+                "definition": "chaleur",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737128829822xp9ui"
+            },
+            {
+                "term": "on pace to",
+                "definition": "sur le point de",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040148rvu8e"
+            },
+            {
+                "term": "amid",
+                "definition": "au milieu de",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040148ovc4l"
+            },
+            {
+                "term": "tiredness",
+                "definition": "fatigue",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040148sskkx"
+            },
+            {
+                "term": "unfamiliar",
+                "definition": "inhabituel",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040148bk0fb"
+            },
+            {
+                "term": "influx",
+                "definition": "afflux",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040148q1yua"
+            },
+            {
+                "term": "foreigners",
+                "definition": "étrangers",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040148vyioc"
+            },
+            {
+                "term": "three-fold",
+                "definition": "qui a triplé",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040148qb6p3"
+            },
+            {
+                "term": "to trumpet",
+                "definition": "claironner",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17377510401489bb5r"
+            },
+            {
+                "term": "congested",
+                "definition": "encombré",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040148rkakw"
+            },
+            {
+                "term": "horde",
+                "definition": "foule",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040148mwlzx"
+            },
+            {
+                "term": "gaijin",
+                "definition": "étranger (gaikokujin)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040148zctyi"
+            },
+            {
+                "term": "backlash",
+                "definition": "réaction violente",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040148qh7jw"
+            },
+            {
+                "term": "survey",
+                "definition": "sondage",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17377510401484w6i0"
+            },
+            {
+                "term": "to rub along",
+                "definition": "s’accorder",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040148ojb80"
+            },
+            {
+                "term": "to turn the tide",
+                "definition": "inverser le cours de quelque chose",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040148j80z5"
+            },
+            {
+                "term": "due to",
+                "definition": "en raison / du à",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040148vnhir"
+            },
+            {
+                "term": "a brand",
+                "definition": "une marque",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040148bfvna"
+            },
+            {
+                "term": "a hoax",
+                "definition": "un canular",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040148vwfby"
+            },
+            {
+                "term": "a product launch",
+                "definition": "un lancement de produit",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040148gmfgh"
+            },
+            {
+                "term": "a slogan",
+                "definition": "un slogan",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040148gni7h"
+            },
+            {
+                "term": "a target market",
+                "definition": "marché cible",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "173775104014893h3b"
+            },
+            {
+                "term": "a transaction",
+                "definition": "une transaction",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040148muwgk"
+            },
+            {
+                "term": "an advertising agency",
+                "definition": "une agence de publicité",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040148sediv"
+            },
+            {
+                "term": "an advertising campaign",
+                "definition": "une campagne publicitaire",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040148vqf60"
+            },
+            {
+                "term": "an artist's hub",
+                "definition": "un quartier d’artistes",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040148e5iy1"
+            },
+            {
+                "term": "controversial",
+                "definition": "controversé(e)",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040149qp7kh"
+            },
+            {
+                "term": "gritty",
+                "definition": "peu reluisant",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040149shpgx"
+            },
+            {
+                "term": "Is it a must watch",
+                "definition": "Est-ce un incontournable (en parlant d'un film ou serie)",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1737751040149sevhw"
+            },
+            {
+                "term": "location tracking",
+                "definition": "localisation",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040149cx3pb"
+            },
+            {
+                "term": "targeted advertising",
+                "definition": "publicité ciblée",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040149kbagq"
+            },
+            {
+                "term": "the prosecution",
+                "definition": "l’accusation",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040149oq6wh"
+            },
+            {
+                "term": "to binge",
+                "definition": "enchaîner des épisodes de séries",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1737751040149p83eh"
+            },
+            {
+                "term": "to classify",
+                "definition": "classer",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "173775104014969vmt"
+            },
+            {
+                "term": "to complain / to moan",
+                "definition": "se plaindre",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040149yqrbr"
+            },
+            {
+                "term": "to deny",
+                "definition": "nier",
+                "status": [
+                    21,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040149ypik3"
+            },
+            {
+                "term": "to determine",
+                "definition": "déterminer",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "173775104014996fvn"
+            },
+            {
+                "term": "to insist",
+                "definition": "insister",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040149j4p04"
+            },
+            {
+                "term": "to target someone",
+                "definition": "cibler quelqu’un",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040149065cy"
+            },
+            {
+                "term": "to tend to do something",
+                "definition": "avoir tendance à faire quelque chose",
+                "status": [
+                    34,
+                    null
+                ],
+                "date": [
+                    "15/02/2025",
+                    null
+                ],
+                "id": "1737751040149is2y9"
+            },
+            {
+                "term": "to wage a campaign",
+                "definition": "lancer une campagne",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1737751040149afhb7"
+            },
+            {
+                "term": "a benefit",
+                "definition": "un avantage",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923ugts0"
+            },
+            {
+                "term": "a campsite",
+                "definition": "un camping",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923m0nqz"
+            },
+            {
+                "term": "a chain store",
+                "definition": "une chaîne de magasins",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923wxbbx"
+            },
+            {
+                "term": "a chairperson",
+                "definition": "un président / une présidente",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923m48bu"
+            },
+            {
+                "term": "a chest",
+                "definition": "une poitrine",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923a5myw"
+            },
+            {
+                "term": "a digital creative",
+                "definition": "une designeuse numérique",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445923rt884"
+            },
+            {
+                "term": "a DNA test",
+                "definition": "un test ADN",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923oii50"
+            },
+            {
+                "term": "a family tree",
+                "definition": "un arbre généalogique",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459239nd5l"
+            },
+            {
+                "term": "a firefighter",
+                "definition": "un sapeur-pompier / une sapeuse-pompière",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923j8snr"
+            },
+            {
+                "term": "a flexible schedule",
+                "definition": "des horaires flexibles",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459233dr0q"
+            },
+            {
+                "term": "a forehead",
+                "definition": "un front",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923xaqkx"
+            },
+            {
+                "term": "a habitat",
+                "definition": "un habitat",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923v8nmk"
+            },
+            {
+                "term": "a hometown",
+                "definition": "une ville d'origine",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459234aexq"
+            },
+            {
+                "term": "a hot spot",
+                "definition": "un lieu très touristique",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923p7776"
+            },
+            {
+                "term": "a hot-air balloon",
+                "definition": "une montgolfière",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923ggi11"
+            },
+            {
+                "term": "a job posting",
+                "definition": "une offre d’emploi",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923upgpi"
+            },
+            {
+                "term": "a knee replacement",
+                "definition": "arthroplastie / opération du genou",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445923rm2zr"
+            },
+            {
+                "term": "a landscape",
+                "definition": "un paysage",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445923eqhdw"
+            },
+            {
+                "term": "a lead",
+                "definition": "un client potentiel",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445924i8u9k"
+            },
+            {
+                "term": "a lifestyle",
+                "definition": "un mode de vie",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592424jlg"
+            },
+            {
+                "term": "a love-hate relationship",
+                "definition": "une relation amour-haine",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924az41a"
+            },
+            {
+                "term": "a palm facing in",
+                "definition": "la paume fait face à soi",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459247phb3"
+            },
+            {
+                "term": "a police officer",
+                "definition": "un policier / une policière",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445924iyb8y"
+            },
+            {
+                "term": "a portrait",
+                "definition": "un portrait",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459248714d"
+            },
+            {
+                "term": "a road trip",
+                "definition": "un road-trip",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924ykzbo"
+            },
+            {
+                "term": "a salary",
+                "definition": "un salaire",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924ao5mu"
+            },
+            {
+                "term": "a salesperson",
+                "definition": "un vendeur / une vendeuse",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924aut6g"
+            },
+            {
+                "term": "a server",
+                "definition": "un serveur / une serveuse",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592484xk1"
+            },
+            {
+                "term": "a still life painting",
+                "definition": "une nature morte",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445924jobfk"
+            },
+            {
+                "term": "a thumb",
+                "definition": "un pouce",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459248uam6"
+            },
+            {
+                "term": "a tough call",
+                "definition": "une décision difficile",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459242abpg"
+            },
+            {
+                "term": "a vacation rental",
+                "definition": "une location de vacances",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445924ymgbc"
+            },
+            {
+                "term": "a willy",
+                "definition": "un euphémisme pour pénis",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459242nvuy"
+            },
+            {
+                "term": "a wrist",
+                "definition": "un poignet",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924dz2ro"
+            },
+            {
+                "term": "absolutely amazing",
+                "definition": "absolument incroyable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924f019l"
+            },
+            {
+                "term": "according to the statistics",
+                "definition": "d’après les statistiques",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445924409kh"
+            },
+            {
+                "term": "affordable",
+                "definition": "abordable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924sxege"
+            },
+            {
+                "term": "amazing",
+                "definition": "extraordinaire",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924ascuz"
+            },
+            {
+                "term": "an abstract painting",
+                "definition": "une peinture abstraite",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924xyrj8"
+            },
+            {
+                "term": "an aquarium",
+                "definition": "un aquarium",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459246tr2x"
+            },
+            {
+                "term": "an archive",
+                "definition": "une archive",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924frh61"
+            },
+            {
+                "term": "an exhibit",
+                "definition": "une exposition",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459244pxcn"
+            },
+            {
+                "term": "an expat",
+                "definition": "un expatrié / une expatriée",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592475lst"
+            },
+            {
+                "term": "an index finger",
+                "definition": "un index (le doigt)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445924f87i8"
+            },
+            {
+                "term": "ancestry",
+                "definition": "ascendance",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924cjzsa"
+            },
+            {
+                "term": "anybody / anyone",
+                "definition": "quelqu'un",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445924q8oar"
+            },
+            {
+                "term": "as long as",
+                "definition": "tant que / pourvu que",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445924tgi67"
+            },
+            {
+                "term": "at the end",
+                "definition": "à la fin",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592416xq8"
+            },
+            {
+                "term": "awesome",
+                "definition": "génial / géniale",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459240erjj"
+            },
+            {
+                "term": "body image",
+                "definition": "l'image du corps",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924s4n6k"
+            },
+            {
+                "term": "body positivity",
+                "definition": "le mouvement body positive",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924uvqmv"
+            },
+            {
+                "term": "body shaming",
+                "definition": "le body shaming",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459244d0mb"
+            },
+            {
+                "term": "boobs",
+                "definition": "un euphémisme pour poitrine",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924kzi9e"
+            },
+            {
+                "term": "breathtaking",
+                "definition": "à couper le souffle",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445924t7ovc"
+            },
+            {
+                "term": "captivity",
+                "definition": "captivité",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924qv10i"
+            },
+            {
+                "term": "chronically",
+                "definition": "de façon chronique / constamment",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459243biu6"
+            },
+            {
+                "term": "chronologically",
+                "definition": "par ordre chronologique",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445924jtry6"
+            },
+            {
+                "term": "compassionate",
+                "definition": "empathique",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459247ydox"
+            },
+            {
+                "term": "connectedness",
+                "definition": "lien / connexion (autre que link)",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592466ue2"
+            },
+            {
+                "term": "definitely",
+                "definition": "certainement / définitevement",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445924rwzks"
+            },
+            {
+                "term": "determined",
+                "definition": "déterminé / déterminée",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592564ivw"
+            },
+            {
+                "term": "dreadful",
+                "definition": "épouvantable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459252n0sh"
+            },
+            {
+                "term": "empathy",
+                "definition": "empathie",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925osi9w"
+            },
+            {
+                "term": "endangered",
+                "definition": "en danger",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925ct8ns"
+            },
+            {
+                "term": "eventually",
+                "definition": "finalement (not finally)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925t2y65"
+            },
+            {
+                "term": "everybody / everyone",
+                "definition": "tout le monde",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925ikzmf"
+            },
+            {
+                "term": "extremely boring",
+                "definition": "extrêmement ennuyeux",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925q1k01"
+            },
+            {
+                "term": "For instance",
+                "definition": "Par exemple",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925tk3ht"
+            },
+            {
+                "term": "formerly",
+                "definition": "avant / autrefois",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925psj78"
+            },
+            {
+                "term": "freaking",
+                "definition": "Cette expression ressemble à l’oreille à « fucking », mais elle est moins grossière.",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925tabs2"
+            },
+            {
+                "term": "full-time",
+                "definition": "plein temps",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925nlr59"
+            },
+            {
+                "term": "Further on, the author examines why",
+                "definition": "Un peu plus loin, l’autrice étudie pourquoi",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925w9duq"
+            },
+            {
+                "term": "genealogy",
+                "definition": "généalogie",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445925zymoy"
+            },
+            {
+                "term": "hard",
+                "definition": "dur",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459255jaq6"
+            },
+            {
+                "term": "hardly",
+                "definition": "à peine",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925krcxw"
+            },
+            {
+                "term": "heels",
+                "definition": "talons",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459250ktnr"
+            },
+            {
+                "term": "heritage",
+                "definition": "héritage / origines",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925tqwum"
+            },
+            {
+                "term": "hip pain",
+                "definition": "douleur à la hanche",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925ark5m"
+            },
+            {
+                "term": "horrific",
+                "definition": "affreux",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925xdios"
+            },
+            {
+                "term": "humanity",
+                "definition": "humanité",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925mj3n0"
+            },
+            {
+                "term": "I just wanted",
+                "definition": "Je voulais simplement",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925iz9xi"
+            },
+            {
+                "term": "I thought I'd ask",
+                "definition": "J’ai pensé que je pourrais",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445925odr8y"
+            },
+            {
+                "term": "I was wondering",
+                "definition": "Je me demandais si",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925i0e0a"
+            },
+            {
+                "term": "I wish",
+                "definition": "J'aimerais",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925h1dkg"
+            },
+            {
+                "term": "I'd like to concentrate on",
+                "definition": "J'aimerais mettre l'accent sur",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459254fp1t"
+            },
+            {
+                "term": "I'll never forget",
+                "definition": "Je n’oublierai jamais",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925rhc0g"
+            },
+            {
+                "term": "If only",
+                "definition": "Si seulement",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925kqslv"
+            },
+            {
+                "term": "in the end",
+                "definition": "au final",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925o1hao"
+            },
+            {
+                "term": "In the final section, the author points out why",
+                "definition": "Dans la dernière partie, l’autrice indique pourquoi",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445925rjfz0"
+            },
+            {
+                "term": "inclusive language",
+                "definition": "langage inclusif",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925i4ldw"
+            },
+            {
+                "term": "incredible",
+                "definition": "incroyable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445925w68nk"
+            },
+            {
+                "term": "indefinitely",
+                "definition": "indéfiniment / jusqu’à nouvel ordre",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445925sjj7w"
+            },
+            {
+                "term": "innovative",
+                "definition": "novateur / novatrice",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925lselj"
+            },
+            {
+                "term": "it could be said that",
+                "definition": "On peut dire que",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925lq2zj"
+            },
+            {
+                "term": "It feels like we've known each other forever",
+                "definition": "On dirait qu’on se connaît depuis toujours",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445925qvwdr"
+            },
+            {
+                "term": "it seems as if",
+                "definition": "On dirait que",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459257tqnn"
+            },
+            {
+                "term": "June's hair smells like lavender",
+                "definition": "Les cheveux de June sentent la lavande",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459254liu2"
+            },
+            {
+                "term": "June's hands feel soft",
+                "definition": "Les mains de June sont douces",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459253f8ky"
+            },
+            {
+                "term": "June's perfume smells natural",
+                "definition": "Le parfum de June semble naturel",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459256rg52"
+            },
+            {
+                "term": "laid-back",
+                "definition": "décontracté",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445925djs7g"
+            },
+            {
+                "term": "late",
+                "definition": "tard",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592580rkz"
+            },
+            {
+                "term": "lately",
+                "definition": "dernièrement",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459262q2d0"
+            },
+            {
+                "term": "let me finish by saying",
+                "definition": "permettez-moi de terminer en disant",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459263ssge"
+            },
+            {
+                "term": "let me move on to",
+                "definition": "Passons maintenant à",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459266lj2u"
+            },
+            {
+                "term": "Let's get on with the task",
+                "definition": "Mettons-nous au travail",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926qq2ds"
+            },
+            {
+                "term": "Let's turn to",
+                "definition": "Voyons maintenant",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926imjed"
+            },
+            {
+                "term": "lovely",
+                "definition": "agréable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445926w1ecb"
+            },
+            {
+                "term": "motivated",
+                "definition": "motivé / motivée",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926v30pu"
+            },
+            {
+                "term": "Moving on now",
+                "definition": "Poursuivons",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926o79ro"
+            },
+            {
+                "term": "My ice cream tastes delicious",
+                "definition": "Ma glace est délicieuse",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445926hsejb"
+            },
+            {
+                "term": "near",
+                "definition": "près de",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459267tu1c"
+            },
+            {
+                "term": "nearly",
+                "definition": "presque",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592696p8l"
+            },
+            {
+                "term": "nobody / no one",
+                "definition": "personne",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926cju8i"
+            },
+            {
+                "term": "obese",
+                "definition": "obèse",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926fyguz"
+            },
+            {
+                "term": "on average",
+                "definition": "en moyenne",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926herim"
+            },
+            {
+                "term": "overweight",
+                "definition": "en surpoids",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926aw7u6"
+            },
+            {
+                "term": "part-time",
+                "definition": "temps partiel",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926cdlg0"
+            },
+            {
+                "term": "people in the arts",
+                "definition": "les gens dans le secteur de l’art",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926aprgr"
+            },
+            {
+                "term": "perspective",
+                "definition": "point de vue",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926potsz"
+            },
+            {
+                "term": "persuasive",
+                "definition": "persuasif / persuasive",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592669wfd"
+            },
+            {
+                "term": "pop-up ads / pop-ups",
+                "definition": "pop-up publicitaires / pop-up",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459261i2aj"
+            },
+            {
+                "term": "pretty good / quite good",
+                "definition": "plutôt bien",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926ym9en"
+            },
+            {
+                "term": "provided that",
+                "definition": "à condition que / en cas de / si",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926f2ovd"
+            },
+            {
+                "term": "rates",
+                "definition": "taux",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926vl9lo"
+            },
+            {
+                "term": "remote",
+                "definition": "à distance",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926ygd7z"
+            },
+            {
+                "term": "ridiculous",
+                "definition": "ridicule",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459266quo1"
+            },
+            {
+                "term": "sexist language",
+                "definition": "le langage sexiste",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926t2lnv"
+            },
+            {
+                "term": "She looks very approachable",
+                "definition": "Elle a l’air très facile à aborder",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445926utphc"
+            },
+            {
+                "term": "She stresses the importance of",
+                "definition": "Elle insiste sur l’importance de",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459262afhc"
+            },
+            {
+                "term": "So far, we've looked at",
+                "definition": "Jusqu’à présent, nous avons vu",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926rwfus"
+            },
+            {
+                "term": "somebody / someone",
+                "definition": "quelqu’un",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926bbau9"
+            },
+            {
+                "term": "statistically speaking",
+                "definition": "statistiquement",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926hk3mx"
+            },
+            {
+                "term": "storyboarding",
+                "definition": "storyboarding",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926pd961"
+            },
+            {
+                "term": "subsequently",
+                "definition": "par la suite / ultérieurement / ensuite",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592653eh9"
+            },
+            {
+                "term": "sustainable",
+                "definition": "durable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926h73jq"
+            },
+            {
+                "term": "terrible",
+                "definition": "horrible",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926n5dxd"
+            },
+            {
+                "term": "testicles",
+                "definition": "testicules (soutenu)",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459266q5ty"
+            },
+            {
+                "term": "that brings me to the point",
+                "definition": "cela m'amène à dire que",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445926pu8ml"
+            },
+            {
+                "term": "the creative sector",
+                "definition": "le secteur de la création",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592654dfn"
+            },
+            {
+                "term": "the figures show (that )",
+                "definition": "les chiffres indiquent (que )",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459260hxwj"
+            },
+            {
+                "term": "The key idea of the text is",
+                "definition": "L’idée principale du texte est",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926356iv"
+            },
+            {
+                "term": "This is not my first rodeo",
+                "definition": "Ce n’est pas une première pour moi. (Expression)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445926ex4vu"
+            },
+            {
+                "term": "this presentation aims to",
+                "definition": "cette présentation a pour objectif de",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927o1av7"
+            },
+            {
+                "term": "to account for",
+                "definition": "représenter",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927rnvup"
+            },
+            {
+                "term": "to act out",
+                "definition": "mettre en scène",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445927ye7un"
+            },
+            {
+                "term": "to appear to",
+                "definition": "sembler parraitre",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927kogf4"
+            },
+            {
+                "term": "to appear to",
+                "definition": "sembler",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927a71xd"
+            },
+            {
+                "term": "to be bound to",
+                "definition": "forcément / être lier",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927yirk0"
+            },
+            {
+                "term": "to be fed up",
+                "definition": "en avoir assez",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445927tw4lo"
+            },
+            {
+                "term": "to be likely to",
+                "definition": "avoir plus de chances de",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927oyjuy"
+            },
+            {
+                "term": "to be unlikely to",
+                "definition": "peu probable / avoir peu de chance",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927k2vyn"
+            },
+            {
+                "term": "to bend your knees",
+                "definition": "plier tes genoux",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592758f38"
+            },
+            {
+                "term": "to break a bone",
+                "definition": "se casser un os",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927pecjj"
+            },
+            {
+                "term": "to bruise your arm",
+                "definition": "se faire un bleu au bras",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927xi7qn"
+            },
+            {
+                "term": "to consider",
+                "definition": "envisager",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592717fh5"
+            },
+            {
+                "term": "to corral",
+                "definition": "rabattre",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459278squk"
+            },
+            {
+                "term": "to cramp",
+                "definition": "se contracter",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927hqjft"
+            },
+            {
+                "term": "to create a film score",
+                "definition": "créer une musique de film",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927416jv"
+            },
+            {
+                "term": "to decline",
+                "definition": "décliner",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927lzft2"
+            },
+            {
+                "term": "to decrease",
+                "definition": "diminuer",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927x87em"
+            },
+            {
+                "term": "to delegate",
+                "definition": "déléguer",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445927noruh"
+            },
+            {
+                "term": "to design a layout",
+                "definition": "concevoir le plan",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927w0avv"
+            },
+            {
+                "term": "to do a DIY activity",
+                "definition": "faire une activité manuelle",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927n5p4t"
+            },
+            {
+                "term": "to do a workout",
+                "definition": "faire un entraînement",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445927c65bo"
+            },
+            {
+                "term": "to do ballet",
+                "definition": "faire de la danse classique",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927tcqoa"
+            },
+            {
+                "term": "to do pottery",
+                "definition": "faire de la poterie",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927dl9pc"
+            },
+            {
+                "term": "to draw images",
+                "definition": "dessiner des images",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927qa4d6"
+            },
+            {
+                "term": "to draw with crayons",
+                "definition": "dessiner avec des crayons",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927hfrwk"
+            },
+            {
+                "term": "to drive someone crazy",
+                "definition": "rendre fou / folle",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445927es0zf"
+            },
+            {
+                "term": "to drop",
+                "definition": "chuter",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927fyz3c"
+            },
+            {
+                "term": "to edit a video",
+                "definition": "monter une vidéo",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459278nnod"
+            },
+            {
+                "term": "to emulate",
+                "definition": "égaler / reproduire / imiter",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445927nz65i"
+            },
+            {
+                "term": "to extend your legs",
+                "definition": "étendre ses jambes",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445927gy48e"
+            },
+            {
+                "term": "to fail to",
+                "definition": "échouer à / ne pas réussir à",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "174022644592741c6l"
+            },
+            {
+                "term": "to fit the mould",
+                "definition": "rentrer dans le moule",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459273r6ch"
+            },
+            {
+                "term": "to flex your toes",
+                "definition": "fléchir ses orteils",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445927u16n5"
+            },
+            {
+                "term": "to furrow your brows",
+                "definition": "froncer les sourcils",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927hqx2n"
+            },
+            {
+                "term": "to get around to something",
+                "definition": "trouver le temps de faire quelque chose (expression)",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445927hnzfs"
+            },
+            {
+                "term": "to get away",
+                "definition": "partir / s'éloigner",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592762ozw"
+            },
+            {
+                "term": "to get into something",
+                "definition": "s'intéresser à quelque chose / se mettre à",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928i48xr"
+            },
+            {
+                "term": "to get on someone's nerves",
+                "definition": "taper sur le système",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928bk68q"
+            },
+            {
+                "term": "to get out of something",
+                "definition": "éviter quelque chose",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928cg3u4"
+            },
+            {
+                "term": "to get over",
+                "definition": "se remettre de",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928kpjch"
+            },
+            {
+                "term": "to get something across",
+                "definition": "se faire comprendre",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928bpl1k"
+            },
+            {
+                "term": "to get your hands on something",
+                "definition": "voir / mettre la main sur quelque chose",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928bla59"
+            },
+            {
+                "term": "to go for",
+                "definition": "choisir (quelque chose)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459288fcc9"
+            },
+            {
+                "term": "to go scuba diving",
+                "definition": "faire de la plongée sous-marine",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928cli6j"
+            },
+            {
+                "term": "to go skydiving",
+                "definition": "faire du parachutisme",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459287k9jg"
+            },
+            {
+                "term": "to grow",
+                "definition": "s’accroître",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928p2s97"
+            },
+            {
+                "term": "to hold something tightly",
+                "definition": "tenir quelque chose fort",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928vefzv"
+            },
+            {
+                "term": "to hold steady",
+                "definition": "se maintenir",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928nlrih"
+            },
+            {
+                "term": "to hug",
+                "definition": "agripper / câlin",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445928irrh6"
+            },
+            {
+                "term": "to increase",
+                "definition": "augmenter",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445928m9ua9"
+            },
+            {
+                "term": "to keep your core tight",
+                "definition": "gainer / activer le centre de son corps",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445928jcge5"
+            },
+            {
+                "term": "to lean back",
+                "definition": "se pencher en arrière",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928o7tyq"
+            },
+            {
+                "term": "to lean forward / back",
+                "definition": "se pencher vers l’avant / l’arrière",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928m1jco"
+            },
+            {
+                "term": "to lift weights",
+                "definition": "soulever des poids",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928hw8dj"
+            },
+            {
+                "term": "to live up to expectations",
+                "definition": "répondre aux attentes",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459288owv6"
+            },
+            {
+                "term": "to lose your balance",
+                "definition": "perdre les pédales",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459287ygs1"
+            },
+            {
+                "term": "to make a ceramic mug",
+                "definition": "faire un mug en céramique",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928sry6f"
+            },
+            {
+                "term": "to make a drawing",
+                "definition": "faire un dessin",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928di2t1"
+            },
+            {
+                "term": "to make a sculpture",
+                "definition": "faire une sculpture",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445928m5mbx"
+            },
+            {
+                "term": "to manage to",
+                "definition": "réussir à",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928ui3q5"
+            },
+            {
+                "term": "to opt for",
+                "definition": "opter pour",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928jna6f"
+            },
+            {
+                "term": "to pigeonhole someone",
+                "definition": "mettre quelqu’un dans une case / cataloguer",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445928odcin"
+            },
+            {
+                "term": "to pitch in",
+                "definition": "mettre la main à la pâte / aider",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459287ed66"
+            },
+            {
+                "term": "to pretend to",
+                "definition": "faire semblant de",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928vpsl3"
+            },
+            {
+                "term": "to promise to",
+                "definition": "promettre de",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928gx2e0"
+            },
+            {
+                "term": "to promote",
+                "definition": "promouvoir",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928s6pzb"
+            },
+            {
+                "term": "to pursue something",
+                "definition": "poursuivre quelque chose",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459288yyq7"
+            },
+            {
+                "term": "to put on a performance",
+                "definition": "présenter un spectacle",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445928ufr4x"
+            },
+            {
+                "term": "to put our heads together",
+                "definition": "réfléchir ensemble / rassembler des idées",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592854gm6"
+            },
+            {
+                "term": "to raise your eyebrows",
+                "definition": "sourciller",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459280lh1d"
+            },
+            {
+                "term": "to regret",
+                "definition": "regretter",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928sr7gk"
+            },
+            {
+                "term": "to relocate",
+                "definition": "s’installer / déménager",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445928e0oj8"
+            },
+            {
+                "term": "to remain stable",
+                "definition": "rester stable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445929pmc78"
+            },
+            {
+                "term": "to rise",
+                "definition": "progresser / monter / se lever",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445929tbbje"
+            },
+            {
+                "term": "to see a rise in",
+                "definition": "connaître une hausse de",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445929svrye"
+            },
+            {
+                "term": "to see eye to eye",
+                "definition": "être du même avis (expressions)",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445929pxtfp"
+            },
+            {
+                "term": "to set the bar high",
+                "definition": "mettre la barre haut",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592999hzi"
+            },
+            {
+                "term": "to settle in",
+                "definition": "s’adapter",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459290oovh"
+            },
+            {
+                "term": "to sprain your wrist",
+                "definition": "se fouler le poignet",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445929xvows"
+            },
+            {
+                "term": "to squeeze your butt",
+                "definition": "contracter ses fessiers",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445929tilag"
+            },
+            {
+                "term": "to start with",
+                "definition": "Pour commencer",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445929wy100"
+            },
+            {
+                "term": "To start with",
+                "definition": "Pour commencer",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445929fj1lf"
+            },
+            {
+                "term": "to stay out",
+                "definition": "rester dehors",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "17402264459293dmca"
+            },
+            {
+                "term": "to stroke his chin",
+                "definition": "caresser son menton",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445929zxc87"
+            },
+            {
+                "term": "to suggest",
+                "definition": "sous-entendre",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459298ae8c"
+            },
+            {
+                "term": "To summarise",
+                "definition": "En résumé",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445929st97z"
+            },
+            {
+                "term": "to tap your nose",
+                "definition": "se toucher le bout du nez",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459293ky3h"
+            },
+            {
+                "term": "to tend to",
+                "definition": "avoir tendance à",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445929f7mit"
+            },
+            {
+                "term": "to tilt your head",
+                "definition": "incliner la tête",
+                "status": [
+                    2,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "174022644592916cl7"
+            },
+            {
+                "term": "totally unacceptable",
+                "definition": "totalement inacceptable",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "17402264459291cji1"
+            },
+            {
+                "term": "unless",
+                "definition": "à moins que",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459291ykyd"
+            },
+            {
+                "term": "way more expensive than",
+                "definition": "beaucoup plus cher que",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445929rz5gj"
+            },
+            {
+                "term": "wear and tear",
+                "definition": "usure normale",
+                "status": [
+                    1,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "17402264459294jcoy"
+            },
+            {
+                "term": "well-thought-out",
+                "definition": "réfléchi / réfléchie",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445929bjz9e"
+            },
+            {
+                "term": "What do you suggest",
+                "definition": "Que proposes-tu",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "08/03/2025",
+                    null
+                ],
+                "id": "1740226445929p5jyf"
+            },
+            {
+                "term": "Would you mind",
+                "definition": "Est-ce que ça vous dérangerait",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "01/03/2025",
+                    null
+                ],
+                "id": "1740226445929x6iig"
+            },
+            {
+                "term": "wrinkles",
+                "definition": "rides",
+                "status": [
+                    8,
+                    null
+                ],
+                "date": [
+                    "07/03/2025",
+                    null
+                ],
+                "id": "1740226445929tfhhd"
+            },
+            {
+                "term": "a follower",
+                "definition": "un abonné",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447715vwez"
+            },
+            {
+                "term": "a graveyard",
+                "definition": "un cimetière",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771chjt2"
+            },
+            {
+                "term": "a time-waster",
+                "definition": "une perte de temps",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771hx3td"
+            },
+            {
+                "term": "beneficial",
+                "definition": "bénéfique",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771bw1mr"
+            },
+            {
+                "term": "devout",
+                "definition": "dévoué(e)",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447713ubrm"
+            },
+            {
+                "term": "environmentally conscious",
+                "definition": "soucieux de l'environnement",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771sotge"
+            },
+            {
+                "term": "greenhouse gas emissions",
+                "definition": "les émissions de gaz à effet de serre",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771pnqex"
+            },
+            {
+                "term": "labour-intensive",
+                "definition": "qui exige beaucoup de main-d'œuvre",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447713magi"
+            },
+            {
+                "term": "Necessity is the mother of invention.",
+                "definition": "Proverbe signifiant : quand le besoin devient essentiel, on est obligé de trouver un moyen de l'obtenir.",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771sjdqm"
+            },
+            {
+                "term": "profit margin",
+                "definition": "une marge de profit",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447714va27"
+            },
+            {
+                "term": "publicity",
+                "definition": "publicity",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447716nw0e"
+            },
+            {
+                "term": "sponsorship",
+                "definition": "sponsoring",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447717u5j9"
+            },
+            {
+                "term": "surplus",
+                "definition": "surplus",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771bjyno"
+            },
+            {
+                "term": "swag",
+                "definition": "cadeaux (langage informel)",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771wjty0"
+            },
+            {
+                "term": "to be all the rage",
+                "definition": "faire fureur",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447712ju2k"
+            },
+            {
+                "term": "to be extortionate",
+                "definition": "être exorbitant",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771txl0r"
+            },
+            {
+                "term": "to be impractical",
+                "definition": "ne pas être commode à",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771j37dc"
+            },
+            {
+                "term": "to be trendy",
+                "definition": "être à la mode",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771l2wa2"
+            },
+            {
+                "term": "to centre, to be centred",
+                "definition": "se recentrer",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447716mymy"
+            },
+            {
+                "term": "to cry out",
+                "definition": "sens métaphorique : avoir désespérément besoin de quelque chose",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771dkcqe"
+            },
+            {
+                "term": "to cry out",
+                "definition": "crier",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447718zz71"
+            },
+            {
+                "term": "to decompose",
+                "definition": "se décomposer",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771rfqs4"
+            },
+            {
+                "term": "to drown",
+                "definition": "se noyer",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771mrwqr"
+            },
+            {
+                "term": "to drown",
+                "definition": "sens métaphorique : se sentir submergé par quelque chose",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447713xkgt"
+            },
+            {
+                "term": "to have an impact on",
+                "definition": "avoir un impact sur",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771bfv4f"
+            },
+            {
+                "term": "to have consequences for",
+                "definition": "avoir des conséquences pour",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447713uwhp"
+            },
+            {
+                "term": "to have implications for",
+                "definition": "avoir des conséquences sur",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771pdd6h"
+            },
+            {
+                "term": "to observe a tradition",
+                "definition": "respecter une tradition",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "1741471344771kieel"
+            },
+            {
+                "term": "to rot",
+                "definition": "pourrir",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "174147134477189g3t"
+            },
+            {
+                "term": "to slap, a slap",
+                "definition": "claquer, une claque",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "174147134477135d3n"
+            },
+            {
+                "term": "to swish, a swish",
+                "definition": "balayer, mouvement de va-et-vient",
+                "status": [
+                    null,
+                    null
+                ],
+                "date": [
+                    null,
+                    null
+                ],
+                "id": "17414713447710bhh8"
             }
         ]
     },
@@ -5644,11 +10298,11 @@ const listeRevision = [
                 "term": "to accept",
                 "definition": "accepter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574172ckm7"
@@ -5657,11 +10311,11 @@ const listeRevision = [
                 "term": "to acquire",
                 "definition": "acheter / acquerir",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574179ut7e"
@@ -5670,11 +10324,11 @@ const listeRevision = [
                 "term": "to add",
                 "definition": "ajouter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417dme4v"
@@ -5683,11 +10337,11 @@ const listeRevision = [
                 "term": "to admire",
                 "definition": "admirer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417kobrq"
@@ -5696,11 +10350,11 @@ const listeRevision = [
                 "term": "to admit",
                 "definition": "admettre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417u3hue"
@@ -5709,11 +10363,11 @@ const listeRevision = [
                 "term": "to afford",
                 "definition": "s'offrir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574176jnaj"
@@ -5722,11 +10376,11 @@ const listeRevision = [
                 "term": "to agree",
                 "definition": "être d'accord",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417zfndu"
@@ -5735,11 +10389,11 @@ const listeRevision = [
                 "term": "to allow",
                 "definition": "autoriser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417hrp2s"
@@ -5748,11 +10402,11 @@ const listeRevision = [
                 "term": "to answer",
                 "definition": "répondre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417z9fqo"
@@ -5761,11 +10415,11 @@ const listeRevision = [
                 "term": "to apologise",
                 "definition": "excuser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574178e671"
@@ -5774,24 +10428,24 @@ const listeRevision = [
                 "term": "to appear",
                 "definition": "apparaître",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574175vlua"
             },
             {
-                "term": "to ask",
+                "term": "to ask / to require",
                 "definition": "demander",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417ij3bm"
@@ -5800,11 +10454,11 @@ const listeRevision = [
                 "term": "to avoid",
                 "definition": "éviter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417z5bdm"
@@ -5813,11 +10467,11 @@ const listeRevision = [
                 "term": "to be *",
                 "definition": "être",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417scufx"
@@ -5826,11 +10480,11 @@ const listeRevision = [
                 "term": "to beat *",
                 "definition": "battre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417vrywx"
@@ -5839,11 +10493,11 @@ const listeRevision = [
                 "term": "to become *",
                 "definition": "devenir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417iyri5"
@@ -5852,11 +10506,11 @@ const listeRevision = [
                 "term": "to begin *",
                 "definition": "commencer (verbe irrégulier)",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417jxq3a"
@@ -5865,11 +10519,11 @@ const listeRevision = [
                 "term": "to behave",
                 "definition": "se comporter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417q6oih"
@@ -5878,11 +10532,11 @@ const listeRevision = [
                 "term": "to believe",
                 "definition": "croire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417lbpc3"
@@ -5891,11 +10545,11 @@ const listeRevision = [
                 "term": "to belong",
                 "definition": "appartenir",
                 "status": [
-                    3,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574175zrjl"
@@ -5908,7 +10562,7 @@ const listeRevision = [
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734483657417pye4f"
@@ -5917,11 +10571,11 @@ const listeRevision = [
                 "term": "to bet *",
                 "definition": "parier",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574171si17"
@@ -5930,11 +10584,11 @@ const listeRevision = [
                 "term": "to block",
                 "definition": "bloquer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417b6cob"
@@ -5943,11 +10597,11 @@ const listeRevision = [
                 "term": "to book",
                 "definition": "réserver",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417cib8n"
@@ -5956,11 +10610,11 @@ const listeRevision = [
                 "term": "to borrow",
                 "definition": "emprunter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417874m8"
@@ -5969,11 +10623,11 @@ const listeRevision = [
                 "term": "to break *",
                 "definition": "casser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417ihtpf"
@@ -5982,11 +10636,11 @@ const listeRevision = [
                 "term": "to bring *",
                 "definition": "apporter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417vmqv0"
@@ -5995,11 +10649,11 @@ const listeRevision = [
                 "term": "to broadcast *",
                 "definition": "diffuser / émettre",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417solwq"
@@ -6008,11 +10662,11 @@ const listeRevision = [
                 "term": "to build *",
                 "definition": "construire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574171tjln"
@@ -6021,11 +10675,11 @@ const listeRevision = [
                 "term": "to burn *",
                 "definition": "brûler",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417eb3n9"
@@ -6034,11 +10688,11 @@ const listeRevision = [
                 "term": "to buy *",
                 "definition": "acheter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417j1ffh"
@@ -6047,11 +10701,11 @@ const listeRevision = [
                 "term": "to call",
                 "definition": "appeler",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417j0uur"
@@ -6060,11 +10714,11 @@ const listeRevision = [
                 "term": "to cancel",
                 "definition": "annuler",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574179t1k3"
@@ -6073,11 +10727,11 @@ const listeRevision = [
                 "term": "to carry",
                 "definition": "porter",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "17344836574173eph4"
@@ -6086,11 +10740,11 @@ const listeRevision = [
                 "term": "to catch *",
                 "definition": "attraper",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574176k9ng"
@@ -6099,11 +10753,11 @@ const listeRevision = [
                 "term": "to change",
                 "definition": "changer",
                 "status": [
-                    13,
+                    34,
                     0
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417u0ob8"
@@ -6112,11 +10766,11 @@ const listeRevision = [
                 "term": "to check",
                 "definition": "vérifier",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173448365741728exc"
@@ -6125,11 +10779,11 @@ const listeRevision = [
                 "term": "to choose *",
                 "definition": "choisir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417jmgx4"
@@ -6138,11 +10792,11 @@ const listeRevision = [
                 "term": "to come *",
                 "definition": "venir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417ymj8s"
@@ -6151,11 +10805,11 @@ const listeRevision = [
                 "term": "to come back *",
                 "definition": "revenir",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ],
                 "id": "17344836574178gct4"
@@ -6164,11 +10818,11 @@ const listeRevision = [
                 "term": "to concern",
                 "definition": "concerner",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417sjh5h"
@@ -6177,11 +10831,11 @@ const listeRevision = [
                 "term": "to confirm",
                 "definition": "confirmer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417aaki7"
@@ -6190,11 +10844,11 @@ const listeRevision = [
                 "term": "to consider",
                 "definition": "considérer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173448365741710ymq"
@@ -6203,11 +10857,11 @@ const listeRevision = [
                 "term": "to contact",
                 "definition": "contacter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574173c5ia"
@@ -6216,11 +10870,11 @@ const listeRevision = [
                 "term": "to continue",
                 "definition": "continuer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417efs7v"
@@ -6229,11 +10883,11 @@ const listeRevision = [
                 "term": "to convince",
                 "definition": "convaincre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417umkvl"
@@ -6242,11 +10896,11 @@ const listeRevision = [
                 "term": "to cook",
                 "definition": "cuisiner",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657417kljhr"
@@ -6255,11 +10909,11 @@ const listeRevision = [
                 "term": "to copy",
                 "definition": "copier",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183q4db"
@@ -6268,11 +10922,11 @@ const listeRevision = [
                 "term": "to correct",
                 "definition": "corriger",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418iki4s"
@@ -6281,11 +10935,11 @@ const listeRevision = [
                 "term": "to cost *",
                 "definition": "coûter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574186dzrb"
@@ -6294,11 +10948,11 @@ const listeRevision = [
                 "term": "to cover",
                 "definition": "couvrir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418oo2mx"
@@ -6307,11 +10961,11 @@ const listeRevision = [
                 "term": "to create",
                 "definition": "créer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574188elhn"
@@ -6320,11 +10974,11 @@ const listeRevision = [
                 "term": "to cut *",
                 "definition": "couper",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418vdmmv"
@@ -6333,11 +10987,11 @@ const listeRevision = [
                 "term": "to dance",
                 "definition": "danser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173448365741853s5l"
@@ -6346,11 +11000,11 @@ const listeRevision = [
                 "term": "to decide",
                 "definition": "décider",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418x4m9a"
@@ -6359,11 +11013,11 @@ const listeRevision = [
                 "term": "to delay",
                 "definition": "retarder",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574187ywfr"
@@ -6372,11 +11026,11 @@ const listeRevision = [
                 "term": "to deliver",
                 "definition": "livrer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183amuk"
@@ -6385,11 +11039,11 @@ const listeRevision = [
                 "term": "to die",
                 "definition": "mourir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ap91l"
@@ -6398,11 +11052,11 @@ const listeRevision = [
                 "term": "to disappoint",
                 "definition": "décevoir",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574181ed73"
@@ -6411,11 +11065,11 @@ const listeRevision = [
                 "term": "to do *",
                 "definition": "faire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418y6qat"
@@ -6424,11 +11078,11 @@ const listeRevision = [
                 "term": "to doubt",
                 "definition": "douter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418yanzv"
@@ -6437,11 +11091,11 @@ const listeRevision = [
                 "term": "to earn",
                 "definition": "gagner (de l'argent)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ha8zg"
@@ -6450,11 +11104,11 @@ const listeRevision = [
                 "term": "to expect",
                 "definition": "s'attendre à",
                 "status": [
-                    3,
+                    21,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734483657418ilo2h"
@@ -6463,11 +11117,11 @@ const listeRevision = [
                 "term": "to fall *",
                 "definition": "tomber",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418l7kmf"
@@ -6476,11 +11130,11 @@ const listeRevision = [
                 "term": "to fear",
                 "definition": "craindre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418cqyux"
@@ -6489,11 +11143,11 @@ const listeRevision = [
                 "term": "to feel *",
                 "definition": "sentir (sentiment)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418uerpg"
@@ -6502,11 +11156,11 @@ const listeRevision = [
                 "term": "to find *",
                 "definition": "trouver",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418tsc24"
@@ -6515,11 +11169,11 @@ const listeRevision = [
                 "term": "to fly *",
                 "definition": "voler (ex: en avion)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418bir4x"
@@ -6528,11 +11182,11 @@ const listeRevision = [
                 "term": "to follow",
                 "definition": "suivre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418gx7mh"
@@ -6541,24 +11195,24 @@ const listeRevision = [
                 "term": "to forbid *",
                 "definition": "interdire",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418zwl5d"
             },
             {
-                "term": "to forecast *",
+                "term": "to foresee *",
                 "definition": "prévoir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418fb8ky"
@@ -6567,11 +11221,11 @@ const listeRevision = [
                 "term": "to forget *",
                 "definition": "oublier",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574180qhy9"
@@ -6580,11 +11234,11 @@ const listeRevision = [
                 "term": "to forgive *",
                 "definition": "pardonner",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418dsa08"
@@ -6593,11 +11247,11 @@ const listeRevision = [
                 "term": "to freeze *",
                 "definition": "geler",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574186rptb"
@@ -6606,11 +11260,11 @@ const listeRevision = [
                 "term": "to gather",
                 "definition": "rassembler",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574186iars"
@@ -6619,11 +11273,11 @@ const listeRevision = [
                 "term": "to get *",
                 "definition": "obtenir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574185sf0h"
@@ -6632,11 +11286,11 @@ const listeRevision = [
                 "term": "to give *",
                 "definition": "donner",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ezqxu"
@@ -6645,11 +11299,11 @@ const listeRevision = [
                 "term": "to give back *",
                 "definition": "rendre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183kyjz"
@@ -6658,11 +11312,11 @@ const listeRevision = [
                 "term": "to go *",
                 "definition": "aller",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574189x7ys"
@@ -6671,11 +11325,11 @@ const listeRevision = [
                 "term": "to grow *",
                 "definition": "grandir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418jd8cb"
@@ -6684,11 +11338,11 @@ const listeRevision = [
                 "term": "to hold * / to hang *",
                 "definition": "tenir / pendre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183p8ix"
@@ -6697,11 +11351,11 @@ const listeRevision = [
                 "term": "to happen",
                 "definition": "arriver (se passer / se produire)",
                 "status": [
-                    3,
+                    1,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734483657418adk1t"
@@ -6710,11 +11364,11 @@ const listeRevision = [
                 "term": "to hate",
                 "definition": "détester",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418pyao2"
@@ -6723,11 +11377,11 @@ const listeRevision = [
                 "term": "to have *",
                 "definition": "avoir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183aow2"
@@ -6736,11 +11390,11 @@ const listeRevision = [
                 "term": "to hear *",
                 "definition": "entendre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ef415"
@@ -6749,11 +11403,11 @@ const listeRevision = [
                 "term": "to help",
                 "definition": "aider",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418n1hq9"
@@ -6762,11 +11416,11 @@ const listeRevision = [
                 "term": "to highlight",
                 "definition": "mettre en évidence",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418rdkm1"
@@ -6775,11 +11429,11 @@ const listeRevision = [
                 "term": "to hit *",
                 "definition": "taper / appuyer / atteindre (au delà de ce qui est attendue)",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734483657418d4yek"
@@ -6788,11 +11442,11 @@ const listeRevision = [
                 "term": "to hold * / to hang *",
                 "definition": "tenir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418m60eh"
@@ -6801,11 +11455,11 @@ const listeRevision = [
                 "term": "to hope",
                 "definition": "espérer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574184heg3"
@@ -6814,11 +11468,11 @@ const listeRevision = [
                 "term": "to hurt *",
                 "definition": "blesser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418zc5jm"
@@ -6827,11 +11481,11 @@ const listeRevision = [
                 "term": "to ignore",
                 "definition": "ignorer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418w1oq6"
@@ -6840,11 +11494,11 @@ const listeRevision = [
                 "term": "to implement",
                 "definition": "mettre en place",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418iz8n1"
@@ -6853,11 +11507,11 @@ const listeRevision = [
                 "term": "to impress",
                 "definition": "impressionner",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418xzmt4"
@@ -6866,11 +11520,11 @@ const listeRevision = [
                 "term": "to include",
                 "definition": "inclure",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418gsg9q"
@@ -6879,11 +11533,11 @@ const listeRevision = [
                 "term": "to intend",
                 "definition": "avoir l'intention de",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418dah9k"
@@ -6892,11 +11546,11 @@ const listeRevision = [
                 "term": "to involve",
                 "definition": "impliquer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418e4j3l"
@@ -6905,11 +11559,11 @@ const listeRevision = [
                 "term": "to iron",
                 "definition": "repasser",
                 "status": [
-                    13,
+                    21,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734483657418h6rub"
@@ -6918,11 +11572,11 @@ const listeRevision = [
                 "term": "to keep *",
                 "definition": "garder",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574187povj"
@@ -6931,11 +11585,11 @@ const listeRevision = [
                 "term": "to kill",
                 "definition": "tuer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ebxfs"
@@ -6944,11 +11598,11 @@ const listeRevision = [
                 "term": "to kiss",
                 "definition": "embrasser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574185r6mj"
@@ -6957,11 +11611,11 @@ const listeRevision = [
                 "term": "to know *",
                 "definition": "savoir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418zax6v"
@@ -6970,11 +11624,11 @@ const listeRevision = [
                 "term": "to lead *",
                 "definition": "mener",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418jz2ur"
@@ -6983,11 +11637,11 @@ const listeRevision = [
                 "term": "to learn *",
                 "definition": "apprendre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418r5bvx"
@@ -6996,11 +11650,11 @@ const listeRevision = [
                 "term": "to leave *",
                 "definition": "laisser / quitter / partir (d'un lieu)",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418mcr1o"
@@ -7009,11 +11663,11 @@ const listeRevision = [
                 "term": "to let *",
                 "definition": "laisser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ckx49"
@@ -7022,11 +11676,11 @@ const listeRevision = [
                 "term": "to light *",
                 "definition": "allumer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418zgx8d"
@@ -7035,11 +11689,11 @@ const listeRevision = [
                 "term": "to like",
                 "definition": "aimer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173448365741830ga2"
@@ -7048,11 +11702,11 @@ const listeRevision = [
                 "term": "to live",
                 "definition": "vivre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418z1qwj"
@@ -7061,11 +11715,11 @@ const listeRevision = [
                 "term": "to load",
                 "definition": "charger",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418adlnf"
@@ -7074,11 +11728,11 @@ const listeRevision = [
                 "term": "to look",
                 "definition": "regarder",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ff3j6"
@@ -7087,11 +11741,11 @@ const listeRevision = [
                 "term": "to lose *",
                 "definition": "perdre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418qh7i9"
@@ -7100,11 +11754,11 @@ const listeRevision = [
                 "term": "to love",
                 "definition": "aimer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574180vpqi"
@@ -7113,11 +11767,11 @@ const listeRevision = [
                 "term": "to make *",
                 "definition": "faire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574182aybd"
@@ -7126,11 +11780,11 @@ const listeRevision = [
                 "term": "to mean *",
                 "definition": "vouloir dire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418t50vy"
@@ -7139,11 +11793,11 @@ const listeRevision = [
                 "term": "to meet *",
                 "definition": "rencontrer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418bgoxc"
@@ -7152,11 +11806,11 @@ const listeRevision = [
                 "term": "to move",
                 "definition": "bouger",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418yy3xw"
@@ -7165,11 +11819,11 @@ const listeRevision = [
                 "term": "to need",
                 "definition": "avoir besoin",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418hhplf"
@@ -7178,11 +11832,11 @@ const listeRevision = [
                 "term": "to offer",
                 "definition": "offrir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418bfbll"
@@ -7191,11 +11845,11 @@ const listeRevision = [
                 "term": "to open",
                 "definition": "ouvrir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183cs87"
@@ -7204,11 +11858,11 @@ const listeRevision = [
                 "term": "to overcome *",
                 "definition": "surmonter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418szbsk"
@@ -7217,11 +11871,11 @@ const listeRevision = [
                 "term": "to pass",
                 "definition": "passer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418p4sf1"
@@ -7230,11 +11884,11 @@ const listeRevision = [
                 "term": "to paste",
                 "definition": "coller",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418jvmuu"
@@ -7243,11 +11897,11 @@ const listeRevision = [
                 "term": "to pay *",
                 "definition": "payer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574180c1vl"
@@ -7256,11 +11910,11 @@ const listeRevision = [
                 "term": "to play",
                 "definition": "jouer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418pijyq"
@@ -7269,11 +11923,11 @@ const listeRevision = [
                 "term": "to promise",
                 "definition": "promettre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418suiki"
@@ -7282,11 +11936,11 @@ const listeRevision = [
                 "term": "to provide",
                 "definition": "fournir (quelque chose à quelqu'un)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574181td98"
@@ -7295,11 +11949,11 @@ const listeRevision = [
                 "term": "to put",
                 "definition": "mettre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574186873a"
@@ -7308,11 +11962,11 @@ const listeRevision = [
                 "term": "to push *",
                 "definition": "pousser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418sgqxh"
@@ -7321,11 +11975,11 @@ const listeRevision = [
                 "term": "to quit *",
                 "definition": "quitter (quelque chose)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418mwohi"
@@ -7334,11 +11988,11 @@ const listeRevision = [
                 "term": "to raise",
                 "definition": "augmenter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418p4mp3"
@@ -7347,11 +12001,11 @@ const listeRevision = [
                 "term": "to reach",
                 "definition": "atteindre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ho7f1"
@@ -7360,11 +12014,11 @@ const listeRevision = [
                 "term": "to read *",
                 "definition": "lire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183jzdf"
@@ -7373,11 +12027,11 @@ const listeRevision = [
                 "term": "to remain",
                 "definition": "rester (soutenu, formel)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418mq15a"
@@ -7386,11 +12040,11 @@ const listeRevision = [
                 "term": "to remember",
                 "definition": "se souvenir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418rgsb1"
@@ -7399,11 +12053,11 @@ const listeRevision = [
                 "term": "to report",
                 "definition": "signaler",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574188gjsn"
@@ -7412,37 +12066,24 @@ const listeRevision = [
                 "term": "to request",
                 "definition": "demander (soutenu, formel)",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "17344836574184b6je"
             },
             {
-                "term": "to require",
-                "definition": "demander",
-                "status": [
-                    13,
-                    null
-                ],
-                "date": [
-                    "05/01/2025",
-                    null
-                ],
-                "id": "1734483657418z1xts"
-            },
-            {
                 "term": "to reward",
                 "definition": "récompenser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418q4spv"
@@ -7451,11 +12092,11 @@ const listeRevision = [
                 "term": "to ring *",
                 "definition": "sonner",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418kh2od"
@@ -7464,11 +12105,11 @@ const listeRevision = [
                 "term": "to rise *",
                 "definition": "lever",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "17344836574188heon"
@@ -7477,11 +12118,11 @@ const listeRevision = [
                 "term": "to run *",
                 "definition": "courir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418lkauk"
@@ -7490,11 +12131,11 @@ const listeRevision = [
                 "term": "to say *",
                 "definition": "dire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ifzp0"
@@ -7503,11 +12144,11 @@ const listeRevision = [
                 "term": "to see *",
                 "definition": "voir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418kjpa5"
@@ -7516,11 +12157,11 @@ const listeRevision = [
                 "term": "to seem",
                 "definition": "sembler",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418x1eek"
@@ -7529,11 +12170,11 @@ const listeRevision = [
                 "term": "to sell *",
                 "definition": "vendre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574187cft7"
@@ -7542,11 +12183,11 @@ const listeRevision = [
                 "term": "to send *",
                 "definition": "envoyer",
                 "status": [
-                    13,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "31/12/2024"
                 ],
                 "id": "1734483657418bgl0s"
@@ -7555,11 +12196,11 @@ const listeRevision = [
                 "term": "to serve",
                 "definition": "servir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574182ojlt"
@@ -7568,11 +12209,11 @@ const listeRevision = [
                 "term": "to set *",
                 "definition": "mettre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418kvgq0"
@@ -7581,11 +12222,11 @@ const listeRevision = [
                 "term": "to shake *",
                 "definition": "secouer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418eccrc"
@@ -7594,11 +12235,11 @@ const listeRevision = [
                 "term": "to show *",
                 "definition": "montrer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418tc8fy"
@@ -7607,11 +12248,11 @@ const listeRevision = [
                 "term": "to sit *",
                 "definition": "asseoir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418gsqgp"
@@ -7620,11 +12261,11 @@ const listeRevision = [
                 "term": "to speak *",
                 "definition": "parler",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418gj72d"
@@ -7633,11 +12274,11 @@ const listeRevision = [
                 "term": "to spend *",
                 "definition": "dépenser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418xwhq0"
@@ -7646,11 +12287,11 @@ const listeRevision = [
                 "term": "to spit *",
                 "definition": "cracher",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173448365741847ize"
@@ -7659,11 +12300,11 @@ const listeRevision = [
                 "term": "to spoil *",
                 "definition": "gâcher",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574185n9lv"
@@ -7672,11 +12313,11 @@ const listeRevision = [
                 "term": "to spread *",
                 "definition": "répandre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418twr33"
@@ -7685,11 +12326,11 @@ const listeRevision = [
                 "term": "to stand *",
                 "definition": "se tenir debout",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418pbjbo"
@@ -7698,11 +12339,11 @@ const listeRevision = [
                 "term": "to start",
                 "definition": "commencer (verbe régulier)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574189c5gl"
@@ -7711,11 +12352,11 @@ const listeRevision = [
                 "term": "to stay",
                 "definition": "rester",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574184pkhm"
@@ -7724,11 +12365,11 @@ const listeRevision = [
                 "term": "to stink *",
                 "definition": "puer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574184zszh"
@@ -7737,11 +12378,11 @@ const listeRevision = [
                 "term": "to stop",
                 "definition": "arrêter",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418s81bi"
@@ -7750,11 +12391,11 @@ const listeRevision = [
                 "term": "to strike *",
                 "definition": "frapper",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418rg7n4"
@@ -7763,11 +12404,11 @@ const listeRevision = [
                 "term": "to strive *",
                 "definition": "s'efforcer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574188w9ul"
@@ -7776,11 +12417,11 @@ const listeRevision = [
                 "term": "to study",
                 "definition": "étudier",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418fcnaj"
@@ -7789,11 +12430,11 @@ const listeRevision = [
                 "term": "to submit",
                 "definition": "soumettre",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418hlf64"
@@ -7802,11 +12443,11 @@ const listeRevision = [
                 "term": "to succeed",
                 "definition": "réussir",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734483657418ojkha"
@@ -7815,11 +12456,11 @@ const listeRevision = [
                 "term": "to suffer",
                 "definition": "souffrir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418c2it9"
@@ -7828,11 +12469,11 @@ const listeRevision = [
                 "term": "to suggest",
                 "definition": "suggérer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418xrlva"
@@ -7841,11 +12482,11 @@ const listeRevision = [
                 "term": "to supply",
                 "definition": "fournir (dans un sens économique ou professionnel)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418ob83y"
@@ -7854,11 +12495,11 @@ const listeRevision = [
                 "term": "to support",
                 "definition": "supporter",
                 "status": [
-                    5,
+                    21,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734483657418n0bul"
@@ -7867,11 +12508,11 @@ const listeRevision = [
                 "term": "to survive",
                 "definition": "survivre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418l1lhi"
@@ -7880,11 +12521,11 @@ const listeRevision = [
                 "term": "to swear *",
                 "definition": "jurer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418msh2m"
@@ -7893,11 +12534,11 @@ const listeRevision = [
                 "term": "to sweat *",
                 "definition": "transpirer",
                 "status": [
-                    2,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418b2cul"
@@ -7906,11 +12547,11 @@ const listeRevision = [
                 "term": "to sweep *",
                 "definition": "balayer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418t2bh9"
@@ -7919,11 +12560,11 @@ const listeRevision = [
                 "term": "to swim *",
                 "definition": "nager",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418kipel"
@@ -7932,11 +12573,11 @@ const listeRevision = [
                 "term": "to take *",
                 "definition": "prendre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418wyk8r"
@@ -7945,11 +12586,11 @@ const listeRevision = [
                 "term": "to talk",
                 "definition": "parler",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418k9dyy"
@@ -7958,11 +12599,11 @@ const listeRevision = [
                 "term": "to teach *",
                 "definition": "enseigner",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418npdby"
@@ -7971,11 +12612,11 @@ const listeRevision = [
                 "term": "to tear *",
                 "definition": "déchirer",
                 "status": [
-                    8,
+                    34,
                     0
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418x6ru7"
@@ -7984,11 +12625,11 @@ const listeRevision = [
                 "term": "to tell *",
                 "definition": "dire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418i9tep"
@@ -7997,11 +12638,11 @@ const listeRevision = [
                 "term": "to thank",
                 "definition": "remercier",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418wyqp7"
@@ -8010,11 +12651,11 @@ const listeRevision = [
                 "term": "to think *",
                 "definition": "penser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574183os0r"
@@ -8023,11 +12664,11 @@ const listeRevision = [
                 "term": "to throw *",
                 "definition": "jeter",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173448365741893n9v"
@@ -8036,11 +12677,11 @@ const listeRevision = [
                 "term": "to trust",
                 "definition": "faire confiance",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418jfdn9"
@@ -8049,11 +12690,11 @@ const listeRevision = [
                 "term": "to try",
                 "definition": "essayer",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418b3ar6"
@@ -8062,11 +12703,11 @@ const listeRevision = [
                 "term": "to turn",
                 "definition": "tourner",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418o76e3"
@@ -8075,11 +12716,11 @@ const listeRevision = [
                 "term": "to understand *",
                 "definition": "comprendre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418mzhci"
@@ -8088,11 +12729,11 @@ const listeRevision = [
                 "term": "to use",
                 "definition": "utiliser",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173448365741822u77"
@@ -8101,11 +12742,11 @@ const listeRevision = [
                 "term": "to wait",
                 "definition": "attendre",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418890an"
@@ -8114,11 +12755,11 @@ const listeRevision = [
                 "term": "to walk",
                 "definition": "marcher",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418b5cor"
@@ -8127,11 +12768,11 @@ const listeRevision = [
                 "term": "to want",
                 "definition": "vouloir",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574189a2ly"
@@ -8140,11 +12781,11 @@ const listeRevision = [
                 "term": "to wash",
                 "definition": "laver",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418a5374"
@@ -8153,11 +12794,11 @@ const listeRevision = [
                 "term": "to watch",
                 "definition": "regarder (télévision)",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418iij3l"
@@ -8166,11 +12807,11 @@ const listeRevision = [
                 "term": "to wet *",
                 "definition": "mouiller",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418dplm1"
@@ -8179,11 +12820,11 @@ const listeRevision = [
                 "term": "to win *",
                 "definition": "gagner",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418if3g5"
@@ -8192,11 +12833,11 @@ const listeRevision = [
                 "term": "to withdraw *",
                 "definition": "retirer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418fpe2c"
@@ -8205,11 +12846,11 @@ const listeRevision = [
                 "term": "to witness",
                 "definition": "être témoin",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418r9ub0"
@@ -8218,11 +12859,11 @@ const listeRevision = [
                 "term": "to work",
                 "definition": "travailler",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734483657418kfe3s"
@@ -8231,11 +12872,11 @@ const listeRevision = [
                 "term": "to write *",
                 "definition": "écrire",
                 "status": [
-                    13,
+                    34,
                     null
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17344836574188lt8c"
@@ -8253,11 +12894,11 @@ const listeRevision = [
                 "term": "abide",
                 "definition": "respecter / se conformer à",
                 "status": [
-                    2,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "173470222819302ug4"
@@ -8266,11 +12907,11 @@ const listeRevision = [
                 "term": "arise",
                 "definition": "survenir",
                 "status": [
-                    3,
+                    8,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "01/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228193f19jh"
@@ -8279,11 +12920,11 @@ const listeRevision = [
                 "term": "awake",
                 "definition": "se réveiller",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228193qayzd"
@@ -8292,11 +12933,11 @@ const listeRevision = [
                 "term": "be",
                 "definition": "être",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228193bfegg"
@@ -8305,11 +12946,11 @@ const listeRevision = [
                 "term": "bear",
                 "definition": "porter / supporter / naître",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228193xasew"
@@ -8318,11 +12959,11 @@ const listeRevision = [
                 "term": "beat",
                 "definition": "battre",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022281931004z"
@@ -8331,11 +12972,11 @@ const listeRevision = [
                 "term": "become",
                 "definition": "devenir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281946ekck"
@@ -8344,11 +12985,11 @@ const listeRevision = [
                 "term": "beget",
                 "definition": "engendrer",
                 "status": [
-                    8,
+                    21,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "173470222819455idr"
@@ -8357,11 +12998,11 @@ const listeRevision = [
                 "term": "begin",
                 "definition": "commencer (verbe irrégulier) (soutenu, formel)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281946ynpu"
@@ -8370,11 +13011,11 @@ const listeRevision = [
                 "term": "bend",
                 "definition": "plier / se courber",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228194ytx39"
@@ -8383,11 +13024,11 @@ const listeRevision = [
                 "term": "bet",
                 "definition": "parier",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228194c9hz2"
@@ -8396,11 +13037,11 @@ const listeRevision = [
                 "term": "bid",
                 "definition": "offrir",
                 "status": [
-                    5,
+                    21,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228195o3z0j"
@@ -8409,11 +13050,11 @@ const listeRevision = [
                 "term": "bite",
                 "definition": "mordre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228195jh2za"
@@ -8422,11 +13063,11 @@ const listeRevision = [
                 "term": "bleed",
                 "definition": "saigner",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228195wh2o8"
@@ -8435,11 +13076,11 @@ const listeRevision = [
                 "term": "blow",
                 "definition": "souffler / gonfler",
                 "status": [
-                    2,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228195mo9jp"
@@ -8448,11 +13089,11 @@ const listeRevision = [
                 "term": "break",
                 "definition": "casser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228195l8vlt"
@@ -8461,11 +13102,11 @@ const listeRevision = [
                 "term": "breed",
                 "definition": "élever (des animaux)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228195v7r4t"
@@ -8474,11 +13115,11 @@ const listeRevision = [
                 "term": "bring",
                 "definition": "apporter",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228195jdyc6"
@@ -8487,11 +13128,11 @@ const listeRevision = [
                 "term": "broadcast",
                 "definition": "diffuser / émettre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228195mxx9v"
@@ -8500,11 +13141,11 @@ const listeRevision = [
                 "term": "build",
                 "definition": "construire",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228195l16t5"
@@ -8513,11 +13154,11 @@ const listeRevision = [
                 "term": "burn",
                 "definition": "brûler",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228195n3bqv"
@@ -8526,11 +13167,11 @@ const listeRevision = [
                 "term": "burst",
                 "definition": "éclater",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228196uzq1o"
@@ -8539,11 +13180,11 @@ const listeRevision = [
                 "term": "buy",
                 "definition": "acheter",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222819611j9k"
@@ -8552,11 +13193,11 @@ const listeRevision = [
                 "term": "can",
                 "definition": "pouvoir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281961cuvd"
@@ -8565,11 +13206,11 @@ const listeRevision = [
                 "term": "cast",
                 "definition": "jeter / distribuer (rôles)",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228196iyyge"
@@ -8578,11 +13219,11 @@ const listeRevision = [
                 "term": "catch",
                 "definition": "attraper",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228196tia91"
@@ -8591,11 +13232,11 @@ const listeRevision = [
                 "term": "chide",
                 "definition": "gronder",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281966n7nr"
@@ -8604,11 +13245,11 @@ const listeRevision = [
                 "term": "choose",
                 "definition": "choisir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228196kc7oz"
@@ -8617,11 +13258,11 @@ const listeRevision = [
                 "term": "cling",
                 "definition": "s'accrocher",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228197r3bdc"
@@ -8630,11 +13271,11 @@ const listeRevision = [
                 "term": "clothe",
                 "definition": "habiller / recouvrir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228197yl2mh"
@@ -8643,11 +13284,11 @@ const listeRevision = [
                 "term": "come",
                 "definition": "venir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228197fc5g5"
@@ -8656,11 +13297,11 @@ const listeRevision = [
                 "term": "cost",
                 "definition": "coûter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281970y6do"
@@ -8669,11 +13310,11 @@ const listeRevision = [
                 "term": "creep",
                 "definition": "ramper",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281976qwsb"
@@ -8682,11 +13323,11 @@ const listeRevision = [
                 "term": "cut",
                 "definition": "couper",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281974hg1f"
@@ -8695,11 +13336,11 @@ const listeRevision = [
                 "term": "deal",
                 "definition": "distribuer",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "173470222819786ytr"
@@ -8708,11 +13349,11 @@ const listeRevision = [
                 "term": "dig",
                 "definition": "creuser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228197hvqqn"
@@ -8721,11 +13362,11 @@ const listeRevision = [
                 "term": "dive",
                 "definition": "plonger",
                 "status": [
-                    2,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228197rtkxx"
@@ -8734,11 +13375,11 @@ const listeRevision = [
                 "term": "do",
                 "definition": "faire",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281985okhj"
@@ -8747,11 +13388,11 @@ const listeRevision = [
                 "term": "draw",
                 "definition": "dessiner / tirer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228198ua09c"
@@ -8760,11 +13401,11 @@ const listeRevision = [
                 "term": "dream",
                 "definition": "rêver",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228198yox0d"
@@ -8773,11 +13414,11 @@ const listeRevision = [
                 "term": "drink",
                 "definition": "boire",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281985r1s9"
@@ -8786,11 +13427,11 @@ const listeRevision = [
                 "term": "drive",
                 "definition": "conduire",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228198bute7"
@@ -8799,11 +13440,11 @@ const listeRevision = [
                 "term": "dwell",
                 "definition": "habiter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222819840xtc"
@@ -8812,11 +13453,11 @@ const listeRevision = [
                 "term": "eat",
                 "definition": "manger",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228198o2ty9"
@@ -8825,11 +13466,11 @@ const listeRevision = [
                 "term": "fall",
                 "definition": "tomber",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228199x45ma"
@@ -8838,11 +13479,11 @@ const listeRevision = [
                 "term": "feed",
                 "definition": "nourrir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228199dm481"
@@ -8851,11 +13492,11 @@ const listeRevision = [
                 "term": "feel",
                 "definition": "se sentir / ressentir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281998daaq"
@@ -8864,11 +13505,11 @@ const listeRevision = [
                 "term": "fight",
                 "definition": "se battre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281992staf"
@@ -8877,11 +13518,11 @@ const listeRevision = [
                 "term": "find",
                 "definition": "trouver",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022281992k7nu"
@@ -8890,11 +13531,11 @@ const listeRevision = [
                 "term": "flee",
                 "definition": "s'enfuir",
                 "status": [
-                    5,
+                    34,
                     1
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022281997o3e0"
@@ -8903,11 +13544,11 @@ const listeRevision = [
                 "term": "fling",
                 "definition": "lancer",
                 "status": [
-                    1,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228199y8qew"
@@ -8916,11 +13557,11 @@ const listeRevision = [
                 "term": "fly",
                 "definition": "voler (dans les airs)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228200pfbjn"
@@ -8929,24 +13570,24 @@ const listeRevision = [
                 "term": "forbid",
                 "definition": "interdire",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228200dhght"
             },
             {
-                "term": "forecast",
+                "term": "foresee",
                 "definition": "prévoir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228200drxi0"
@@ -8955,11 +13596,11 @@ const listeRevision = [
                 "term": "foresee",
                 "definition": "prévoir / presentir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228200gfdia"
@@ -8968,11 +13609,11 @@ const listeRevision = [
                 "term": "forget",
                 "definition": "oublier",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228200iff4g"
@@ -8981,11 +13622,11 @@ const listeRevision = [
                 "term": "forgive",
                 "definition": "pardonner",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282006q6ud"
@@ -8994,11 +13635,11 @@ const listeRevision = [
                 "term": "forsake",
                 "definition": "abandonner",
                 "status": [
-                    2,
+                    1,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228200njl1c"
@@ -9007,11 +13648,11 @@ const listeRevision = [
                 "term": "freeze",
                 "definition": "geler",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228200m2rdj"
@@ -9020,11 +13661,11 @@ const listeRevision = [
                 "term": "get",
                 "definition": "obtenir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282010spck"
@@ -9033,11 +13674,11 @@ const listeRevision = [
                 "term": "give",
                 "definition": "donner",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282010bjyk"
@@ -9046,11 +13687,11 @@ const listeRevision = [
                 "term": "go",
                 "definition": "aller",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228201vljtr"
@@ -9059,11 +13700,11 @@ const listeRevision = [
                 "term": "grind",
                 "definition": "moudre / opprimer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228201ve4k6"
@@ -9072,11 +13713,11 @@ const listeRevision = [
                 "term": "grow",
                 "definition": "grandir / pousser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228201wmb1a"
@@ -9085,11 +13726,11 @@ const listeRevision = [
                 "term": "hang",
                 "definition": "tenir / pendre",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228202kn1mg"
@@ -9098,11 +13739,11 @@ const listeRevision = [
                 "term": "have",
                 "definition": "avoir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228202hw9hy"
@@ -9111,11 +13752,11 @@ const listeRevision = [
                 "term": "hear",
                 "definition": "entendre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228202yju05"
@@ -9124,11 +13765,11 @@ const listeRevision = [
                 "term": "hide",
                 "definition": "cacher",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282024m1wu"
@@ -9137,11 +13778,11 @@ const listeRevision = [
                 "term": "hit",
                 "definition": "taper / appuyer / atteindre (au delà de ce qui est attendue)",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228202s4m3s"
@@ -9150,11 +13791,11 @@ const listeRevision = [
                 "term": "hold",
                 "definition": "tenir",
                 "status": [
-                    8,
+                    1,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228202v2bnq"
@@ -9163,11 +13804,11 @@ const listeRevision = [
                 "term": "hurt",
                 "definition": "blesser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228203hu4p3"
@@ -9176,11 +13817,11 @@ const listeRevision = [
                 "term": "keep",
                 "definition": "garder",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228203s5kc1"
@@ -9189,11 +13830,11 @@ const listeRevision = [
                 "term": "kneel",
                 "definition": "s'agenouiller",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "173470222820362bsn"
@@ -9202,11 +13843,11 @@ const listeRevision = [
                 "term": "know",
                 "definition": "connaître / savoir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228203cu2x6"
@@ -9215,11 +13856,11 @@ const listeRevision = [
                 "term": "lay",
                 "definition": "poser",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228203qh7z3"
@@ -9228,11 +13869,11 @@ const listeRevision = [
                 "term": "lead",
                 "definition": "mener / guider",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228203keq49"
@@ -9241,11 +13882,11 @@ const listeRevision = [
                 "term": "lean",
                 "definition": "s'incliner / se pencher (du centre vers les côtés)",
                 "status": [
-                    3,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282035wzrj"
@@ -9254,11 +13895,11 @@ const listeRevision = [
                 "term": "leap",
                 "definition": "sauter / bondir (d'un point a un autre)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222820372vd9"
@@ -9267,11 +13908,11 @@ const listeRevision = [
                 "term": "learn",
                 "definition": "apprendre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282032808y"
@@ -9280,11 +13921,11 @@ const listeRevision = [
                 "term": "leave",
                 "definition": "laisser / quitter / partir (d'un lieu)",
                 "status": [
-                    8,
+                    34,
                     2
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "29/12/2024"
                 ],
                 "id": "1734702228203e824r"
@@ -9293,11 +13934,11 @@ const listeRevision = [
                 "term": "lend",
                 "definition": "prêter",
                 "status": [
-                    2,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228204xuzty"
@@ -9306,11 +13947,11 @@ const listeRevision = [
                 "term": "let",
                 "definition": "permettre / louer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228204q7kz3"
@@ -9319,11 +13960,11 @@ const listeRevision = [
                 "term": "lie",
                 "definition": "s'allonger",
                 "status": [
-                    2,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228204h1k0w"
@@ -9332,11 +13973,11 @@ const listeRevision = [
                 "term": "light",
                 "definition": "allumer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228204frmbg"
@@ -9345,11 +13986,11 @@ const listeRevision = [
                 "term": "lose",
                 "definition": "perdre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228204fzocr"
@@ -9358,11 +13999,11 @@ const listeRevision = [
                 "term": "make",
                 "definition": "fabriquer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228204jazwe"
@@ -9371,11 +14012,11 @@ const listeRevision = [
                 "term": "mean",
                 "definition": "signifier",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228204urf0y"
@@ -9384,11 +14025,11 @@ const listeRevision = [
                 "term": "meet",
                 "definition": "rencontrer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228204o4at7"
@@ -9397,11 +14038,11 @@ const listeRevision = [
                 "term": "mow",
                 "definition": "tondre",
                 "status": [
-                    8,
+                    21,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282045vz4b"
@@ -9410,11 +14051,11 @@ const listeRevision = [
                 "term": "offset",
                 "definition": "compenser",
                 "status": [
-                    5,
+                    34,
                     1
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228205jl2xn"
@@ -9423,11 +14064,11 @@ const listeRevision = [
                 "term": "overcome",
                 "definition": "surmonter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228205y3661"
@@ -9436,11 +14077,11 @@ const listeRevision = [
                 "term": "partake",
                 "definition": "prendre part à",
                 "status": [
-                    5,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228205nrg9e"
@@ -9449,11 +14090,11 @@ const listeRevision = [
                 "term": "pay",
                 "definition": "payer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228205iws0o"
@@ -9462,11 +14103,11 @@ const listeRevision = [
                 "term": "plead",
                 "definition": "supplier / plaider",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228205lrz33"
@@ -9475,11 +14116,11 @@ const listeRevision = [
                 "term": "preset",
                 "definition": "programmer",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228205995iu"
@@ -9488,11 +14129,11 @@ const listeRevision = [
                 "term": "prove",
                 "definition": "prouver",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282050panr"
@@ -9501,11 +14142,11 @@ const listeRevision = [
                 "term": "put",
                 "definition": "mettre",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228205d8uzn"
@@ -9514,11 +14155,11 @@ const listeRevision = [
                 "term": "quit",
                 "definition": "quitter (quelque chose)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228206juw85"
@@ -9527,11 +14168,11 @@ const listeRevision = [
                 "term": "read",
                 "definition": "lire",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228206f6wi6"
@@ -9540,11 +14181,11 @@ const listeRevision = [
                 "term": "relay",
                 "definition": "relayer",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282068raeu"
@@ -9553,11 +14194,11 @@ const listeRevision = [
                 "term": "rend",
                 "definition": "déchirer (soutenu, formel)",
                 "status": [
-                    5,
+                    8,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "01/03/2025",
                     "30/12/2024"
                 ],
                 "id": "173470222820659dd3"
@@ -9566,11 +14207,11 @@ const listeRevision = [
                 "term": "rid",
                 "definition": "débarrasser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228206dqidc"
@@ -9579,11 +14220,11 @@ const listeRevision = [
                 "term": "ride",
                 "definition": "monter (vélo, cheval)",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228206ekc6v"
@@ -9592,11 +14233,11 @@ const listeRevision = [
                 "term": "ring",
                 "definition": "sonner / téléphoner",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282062hca7"
@@ -9605,11 +14246,11 @@ const listeRevision = [
                 "term": "rise",
                 "definition": "lever",
                 "status": [
-                    8,
+                    1,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ],
                 "id": "17347022282063uigy"
@@ -9618,11 +14259,11 @@ const listeRevision = [
                 "term": "run",
                 "definition": "courir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222820655ata"
@@ -9631,11 +14272,11 @@ const listeRevision = [
                 "term": "saw",
                 "definition": "scier",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282077kn1j"
@@ -9644,11 +14285,11 @@ const listeRevision = [
                 "term": "say",
                 "definition": "dire",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228207xohei"
@@ -9657,11 +14298,11 @@ const listeRevision = [
                 "term": "see",
                 "definition": "voir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228207mow5r"
@@ -9670,11 +14311,11 @@ const listeRevision = [
                 "term": "seek",
                 "definition": "chercher (soutenu, formel)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282072vlcw"
@@ -9683,11 +14324,11 @@ const listeRevision = [
                 "term": "sell",
                 "definition": "vendre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222820769roj"
@@ -9696,11 +14337,11 @@ const listeRevision = [
                 "term": "send",
                 "definition": "envoyer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228207ky6gx"
@@ -9709,11 +14350,11 @@ const listeRevision = [
                 "term": "set",
                 "definition": "fixer",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228207egh9r"
@@ -9722,11 +14363,11 @@ const listeRevision = [
                 "term": "shake",
                 "definition": "secouer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228207ciee3"
@@ -9735,11 +14376,11 @@ const listeRevision = [
                 "term": "shed",
                 "definition": "répandre / laisser tomber",
                 "status": [
-                    2,
+                    1,
                     0
                 ],
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228207h6bs2"
@@ -9748,11 +14389,11 @@ const listeRevision = [
                 "term": "shine",
                 "definition": "briller",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228207kb806"
@@ -9761,11 +14402,11 @@ const listeRevision = [
                 "term": "shoe",
                 "definition": "chausser",
                 "status": [
-                    8,
+                    21,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228208sf28n"
@@ -9774,11 +14415,11 @@ const listeRevision = [
                 "term": "shoot",
                 "definition": "tirer / fusiller",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228208pu4t6"
@@ -9787,11 +14428,11 @@ const listeRevision = [
                 "term": "show",
                 "definition": "montrer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222820816yg2"
@@ -9800,11 +14441,11 @@ const listeRevision = [
                 "term": "shut",
                 "definition": "fermer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282081jsgw"
@@ -9813,11 +14454,11 @@ const listeRevision = [
                 "term": "sing",
                 "definition": "chanter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282084aj0a"
@@ -9826,11 +14467,11 @@ const listeRevision = [
                 "term": "sink",
                 "definition": "couler",
                 "status": [
-                    2,
+                    34,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282081a0dv"
@@ -9839,11 +14480,11 @@ const listeRevision = [
                 "term": "sit",
                 "definition": "s'asseoir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228208mfvfl"
@@ -9852,11 +14493,11 @@ const listeRevision = [
                 "term": "slay",
                 "definition": "tuer (il y a longtemps)",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228209j6zll"
@@ -9865,11 +14506,11 @@ const listeRevision = [
                 "term": "sleep",
                 "definition": "dormir",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228209bnpxo"
@@ -9878,11 +14519,11 @@ const listeRevision = [
                 "term": "slide",
                 "definition": "glisser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282098m1ad"
@@ -9891,11 +14532,11 @@ const listeRevision = [
                 "term": "slink",
                 "definition": "s'en aller furtivement",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282095tob5"
@@ -9904,11 +14545,11 @@ const listeRevision = [
                 "term": "slit",
                 "definition": "fendre",
                 "status": [
-                    5,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282092rjgw"
@@ -9917,11 +14558,11 @@ const listeRevision = [
                 "term": "smell",
                 "definition": "sentir (une odeur)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282097sql6"
@@ -9930,11 +14571,11 @@ const listeRevision = [
                 "term": "sow",
                 "definition": "semer",
                 "status": [
-                    3,
+                    8,
                     0
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228209dwrc8"
@@ -9943,11 +14584,11 @@ const listeRevision = [
                 "term": "speak",
                 "definition": "parler",
                 "status": [
-                    5,
+                    34,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228209ajw0i"
@@ -9956,11 +14597,11 @@ const listeRevision = [
                 "term": "speed",
                 "definition": "aller vite",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228210guq7j"
@@ -9969,11 +14610,11 @@ const listeRevision = [
                 "term": "spell",
                 "definition": "épeler / orthographier",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228210v2sax"
@@ -9982,11 +14623,11 @@ const listeRevision = [
                 "term": "spend",
                 "definition": "dépenser / passer du temps",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228210kult8"
@@ -9995,11 +14636,11 @@ const listeRevision = [
                 "term": "spill",
                 "definition": "renverser",
                 "status": [
-                    3,
+                    1,
                     0
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228210pkhvi"
@@ -10008,11 +14649,11 @@ const listeRevision = [
                 "term": "spin",
                 "definition": "tourner / faire tourner",
                 "status": [
-                    3,
+                    1,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228210qwwpl"
@@ -10021,11 +14662,11 @@ const listeRevision = [
                 "term": "spit",
                 "definition": "cracher",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282106nkpf"
@@ -10034,11 +14675,11 @@ const listeRevision = [
                 "term": "split",
                 "definition": "fendre (en deux)",
                 "status": [
-                    5,
+                    21,
                     null
                 ],
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228210cftxd"
@@ -10047,11 +14688,11 @@ const listeRevision = [
                 "term": "spoil",
                 "definition": "gâcher / gâter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282108ig30"
@@ -10060,11 +14701,11 @@ const listeRevision = [
                 "term": "spread",
                 "definition": "répandre (sur une surface)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228210xlpt6"
@@ -10073,11 +14714,11 @@ const listeRevision = [
                 "term": "spring",
                 "definition": "surgir / jaillir / bondir",
                 "status": [
-                    5,
+                    21,
                     1
                 ],
                 "date": [
-                    "03/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228210irbke"
@@ -10086,11 +14727,11 @@ const listeRevision = [
                 "term": "stand",
                 "definition": "être debout",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228211c0oti"
@@ -10103,20 +14744,20 @@ const listeRevision = [
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "01/03/2025",
                     null
                 ],
                 "id": "1734702228211lvsde"
             },
             {
                 "term": "stick",
-                "definition": "coller",
+                "definition": "coller (à partir d'un objet)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228211b3ye4"
@@ -10125,11 +14766,11 @@ const listeRevision = [
                 "term": "sting",
                 "definition": "piquer",
                 "status": [
-                    3,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282112v8yo"
@@ -10138,11 +14779,11 @@ const listeRevision = [
                 "term": "stink",
                 "definition": "puer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228211cr9qq"
@@ -10151,11 +14792,11 @@ const listeRevision = [
                 "term": "strew",
                 "definition": "éparpiller",
                 "status": [
-                    2,
+                    8,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "01/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228211egu2c"
@@ -10164,11 +14805,11 @@ const listeRevision = [
                 "term": "strike",
                 "definition": "frapper",
                 "status": [
-                    8,
+                    1,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228211pt8hl"
@@ -10177,11 +14818,11 @@ const listeRevision = [
                 "term": "strive",
                 "definition": "s'efforcer",
                 "status": [
-                    5,
+                    34,
                     3
                 ],
                 "date": [
-                    "03/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282129jno1"
@@ -10190,11 +14831,11 @@ const listeRevision = [
                 "term": "swear",
                 "definition": "jurer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222821249bvp"
@@ -10203,11 +14844,11 @@ const listeRevision = [
                 "term": "sweat",
                 "definition": "suer",
                 "status": [
-                    8,
+                    21,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "08/03/2025",
                     null
                 ],
                 "id": "1734702228212jzfg6"
@@ -10216,11 +14857,11 @@ const listeRevision = [
                 "term": "sweep",
                 "definition": "balayer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228212m19xy"
@@ -10229,11 +14870,11 @@ const listeRevision = [
                 "term": "swell",
                 "definition": "gonfler / enfler",
                 "status": [
-                    2,
+                    8,
                     3
                 ],
                 "date": [
-                    "06/01/2025",
+                    "01/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228212bs7p4"
@@ -10242,11 +14883,11 @@ const listeRevision = [
                 "term": "swim",
                 "definition": "nager",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228212juq8z"
@@ -10255,11 +14896,11 @@ const listeRevision = [
                 "term": "swing",
                 "definition": "se balancer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228212vgbuc"
@@ -10268,11 +14909,11 @@ const listeRevision = [
                 "term": "take",
                 "definition": "prendre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228212qrpn2"
@@ -10281,11 +14922,11 @@ const listeRevision = [
                 "term": "teach",
                 "definition": "enseigner",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228213rvsd7"
@@ -10294,11 +14935,11 @@ const listeRevision = [
                 "term": "tear",
                 "definition": "déchirer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228213hqqd9"
@@ -10307,11 +14948,11 @@ const listeRevision = [
                 "term": "tell",
                 "definition": "dire / raconter",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228213wr3xe"
@@ -10320,11 +14961,11 @@ const listeRevision = [
                 "term": "think",
                 "definition": "penser",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282138bm2o"
@@ -10337,7 +14978,7 @@ const listeRevision = [
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228213egsme"
@@ -10346,11 +14987,11 @@ const listeRevision = [
                 "term": "throw",
                 "definition": "jeter",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228213yq9ya"
@@ -10359,11 +15000,11 @@ const listeRevision = [
                 "term": "thrust",
                 "definition": "enfoncer",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228213vxogl"
@@ -10372,11 +15013,11 @@ const listeRevision = [
                 "term": "tread",
                 "definition": "piétiner quelque chose",
                 "status": [
-                    8,
+                    34,
                     1
                 ],
                 "date": [
-                    "05/01/2025",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228214yzr87"
@@ -10385,11 +15026,11 @@ const listeRevision = [
                 "term": "typeset",
                 "definition": "composer",
                 "status": [
-                    8,
+                    1,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "08/03/2025",
                     null
                 ],
                 "id": "17347022282149vehd"
@@ -10398,11 +15039,11 @@ const listeRevision = [
                 "term": "undergo",
                 "definition": "subir",
                 "status": [
-                    8,
+                    21,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228214mizsh"
@@ -10411,11 +15052,11 @@ const listeRevision = [
                 "term": "understand",
                 "definition": "comprendre",
                 "status": [
-                    8,
+                    34,
                     0
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228214phfvi"
@@ -10424,11 +15065,11 @@ const listeRevision = [
                 "term": "wake",
                 "definition": "réveiller",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228214zab0m"
@@ -10437,11 +15078,11 @@ const listeRevision = [
                 "term": "wear",
                 "definition": "porter (avoir sur soi)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228214k0lz3"
@@ -10450,11 +15091,11 @@ const listeRevision = [
                 "term": "weep",
                 "definition": "pleurer (énormément)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "01/01/2025",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282149jh43"
@@ -10463,11 +15104,11 @@ const listeRevision = [
                 "term": "wet",
                 "definition": "mouiller",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "1734702228214ypoc4"
@@ -10476,11 +15117,11 @@ const listeRevision = [
                 "term": "win",
                 "definition": "gagner",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "173470222821553vtp"
@@ -10489,11 +15130,11 @@ const listeRevision = [
                 "term": "wind",
                 "definition": "enrouler / remonter",
                 "status": [
-                    2,
+                    1,
                     1
                 ],
                 "date": [
-                    "06/01/2025",
+                    "08/03/2025",
                     "30/12/2024"
                 ],
                 "id": "1734702228215ozkf0"
@@ -10502,11 +15143,11 @@ const listeRevision = [
                 "term": "withdraw",
                 "definition": "se retirer (a l'intérieur de, connecté de)",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282150hmya"
@@ -10515,11 +15156,11 @@ const listeRevision = [
                 "term": "wring",
                 "definition": "tordre",
                 "status": [
-                    8,
+                    34,
                     null
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     null
                 ],
                 "id": "17347022282153jcgv"
@@ -10528,11 +15169,11 @@ const listeRevision = [
                 "term": "write",
                 "definition": "écrire",
                 "status": [
-                    8,
+                    34,
                     3
                 ],
                 "date": [
-                    "31/12/2024",
+                    "15/02/2025",
                     "30/12/2024"
                 ],
                 "id": "17347022282166rk9u"
@@ -22017,12 +26658,12 @@ const listeRevision = [
                 "term": "coussin",
                 "definition": "cojin",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729q1fei"
             },
@@ -22030,12 +26671,12 @@ const listeRevision = [
                 "term": "cookies",
                 "definition": "galletas",
                 "status": [
-                    8,
-                    1
+                    13,
+                    8
                 ],
                 "date": [
-                    "31/12/2024",
-                    "05/01/2025"
+                    "11/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "1734397944729jhbqu"
             },
@@ -22043,12 +26684,12 @@ const listeRevision = [
                 "term": "pull",
                 "definition": "jersey",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729qldeb"
             },
@@ -22056,12 +26697,12 @@ const listeRevision = [
                 "term": "lunettes",
                 "definition": "gafas",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729ty98p"
             },
@@ -22069,12 +26710,12 @@ const listeRevision = [
                 "term": "sweat",
                 "definition": "sudadera",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "1734397944729tq7ma"
             },
@@ -22082,12 +26723,12 @@ const listeRevision = [
                 "term": "un lit",
                 "definition": "una cama",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729x1hgh"
             },
@@ -22095,12 +26736,12 @@ const listeRevision = [
                 "term": "chaussette",
                 "definition": "calcetin",
                 "status": [
-                    8,
-                    1
+                    13,
+                    8
                 ],
                 "date": [
-                    "05/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "1734397944729du622"
             },
@@ -22108,12 +26749,12 @@ const listeRevision = [
                 "term": "oreiller",
                 "definition": "almohada",
                 "status": [
-                    8,
-                    1
+                    13,
+                    8
                 ],
                 "date": [
-                    "31/12/2024",
-                    "05/01/2025"
+                    "11/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "1734397944729lhkiy"
             },
@@ -22121,12 +26762,12 @@ const listeRevision = [
                 "term": "oreilles",
                 "definition": "orejas",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729blgzr"
             },
@@ -22134,12 +26775,12 @@ const listeRevision = [
                 "term": "nez",
                 "definition": "nariz",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729yjkrt"
             },
@@ -22147,12 +26788,12 @@ const listeRevision = [
                 "term": "bouche",
                 "definition": "boca",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "1734397944729j0vhb"
             },
@@ -22160,12 +26801,12 @@ const listeRevision = [
                 "term": "cheveux",
                 "definition": "pelo",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "17343979447294fszv"
             },
@@ -22173,12 +26814,12 @@ const listeRevision = [
                 "term": "oeil",
                 "definition": "ojo",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "17343979447292jcbt"
             },
@@ -22186,12 +26827,12 @@ const listeRevision = [
                 "term": "poitrine",
                 "definition": "pecho",
                 "status": [
-                    13,
-                    8
+                    21,
+                    13
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "1734397944729kavzh"
             },
@@ -22199,12 +26840,12 @@ const listeRevision = [
                 "term": "jambe",
                 "definition": "pierna",
                 "status": [
-                    8,
-                    1
+                    13,
+                    13
                 ],
                 "date": [
-                    "31/12/2024",
-                    "05/01/2025"
+                    "11/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "173439794472937vz4"
             },
@@ -22212,12 +26853,12 @@ const listeRevision = [
                 "term": "pieds",
                 "definition": "pies",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729xy3c2"
             },
@@ -22225,12 +26866,12 @@ const listeRevision = [
                 "term": "t-shirt",
                 "definition": "camiseta",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "1734397944729v2dpm"
             },
@@ -22238,12 +26879,12 @@ const listeRevision = [
                 "term": "pantalon",
                 "definition": "pantalo(ó)n",
                 "status": [
-                    13,
-                    8
+                    21,
+                    13
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "17/01/2025"
                 ],
                 "id": "17343979447295w5d3"
             },
@@ -22251,12 +26892,12 @@ const listeRevision = [
                 "term": "chaussures",
                 "definition": "zapatos",
                 "status": [
-                    13,
-                    1
+                    21,
+                    8
                 ],
                 "date": [
-                    "03/01/2025",
-                    "05/01/2025"
+                    "17/01/2025",
+                    "11/01/2025"
                 ],
                 "id": "17343979447296jakb"
             }
@@ -22270,7 +26911,7 @@ const listeRevision = [
         ],
         "terms": [
             {
-                "term": "(¡)Qué chulo!",
+                "term": "(¡)Qué chulo",
                 "definition": "C'est stylé",
                 "status": [
                     5,
@@ -22283,7 +26924,7 @@ const listeRevision = [
                 "id": "17348990277298qua6"
             },
             {
-                "term": "(¡)Qué rico!",
+                "term": "(¡)Qué rico",
                 "definition": "C'est délicieux",
                 "status": [
                     3,
@@ -22296,8 +26937,8 @@ const listeRevision = [
                 "id": "1734899027729vpv29"
             },
             {
-                "term": "(¡)Qué asco!",
-                "definition": "C'est dégueulasse!",
+                "term": "(¡)Qué asco",
+                "definition": "C'est dégueulasse",
                 "status": [
                     5,
                     5
@@ -22309,8 +26950,8 @@ const listeRevision = [
                 "id": "1734899027729nljqi"
             },
             {
-                "term": "(¡)Me encanta!",
-                "definition": "J'adore!",
+                "term": "(¡)Me encanta",
+                "definition": "J'adore",
                 "status": [
                     3,
                     5
@@ -22322,8 +26963,8 @@ const listeRevision = [
                 "id": "1734899027729i7e6y"
             },
             {
-                "term": "(¡)Qué aproveche! / (¡)Buen provecho!",
-                "definition": "Bon appétit!",
+                "term": "(¡)Qué aproveche / (¡)Buen provecho",
+                "definition": "Bon appétit",
                 "status": [
                     3,
                     5
@@ -22374,8 +27015,8 @@ const listeRevision = [
                 "id": "1734899027730jz7ud"
             },
             {
-                "term": "(¡)Qué fri(í)o!",
-                "definition": "Il fait très froid!",
+                "term": "(¡)Qué fri(í)o",
+                "definition": "Il fait très froid",
                 "status": [
                     3,
                     null
@@ -22387,8 +27028,8 @@ const listeRevision = [
                 "id": "1734899027730as1e0"
             },
             {
-                "term": "(¡)Qué calor!",
-                "definition": "Il fait très chaud!",
+                "term": "(¡)Qué calor",
+                "definition": "Il fait très chaud",
                 "status": [
                     5,
                     0
@@ -22401,7 +27042,7 @@ const listeRevision = [
             },
             {
                 "term": "Hace mucho viento",
-                "definition": "Il y a beaucoup de vent!",
+                "definition": "Il y a beaucoup de vent",
                 "status": [
                     3,
                     5
@@ -22439,8 +27080,8 @@ const listeRevision = [
                 "id": "1734899027730mcrqc"
             },
             {
-                "term": "(¿)Quiere que le ayude a poner la mesa?",
-                "definition": "Voulez-vous que je vous aide à mettre la table?",
+                "term": "(¿)Quiere que le ayude a poner la mesa",
+                "definition": "Voulez-vous que je vous aide à mettre la table",
                 "status": [
                     5,
                     5
@@ -22452,8 +27093,8 @@ const listeRevision = [
                 "id": "1734899027730qho3g"
             },
             {
-                "term": "(¿)Quiere que le ayude a quitar la mesa?",
-                "definition": "Voulez-vous que je vous aide à débarrasser la table?",
+                "term": "(¿)Quiere que le ayude a quitar la mesa",
+                "definition": "Voulez-vous que je vous aide à débarrasser la table",
                 "status": [
                     5,
                     null
@@ -22517,8 +27158,8 @@ const listeRevision = [
                 "id": "1734899027731p47za"
             },
             {
-                "term": "(¡)Feliz an(ñ)o nuevo!",
-                "definition": "Joyeux Nouvel An!",
+                "term": "(¡)Feliz an(ñ)o nuevo",
+                "definition": "Joyeux Nouvel An",
                 "status": [
                     3,
                     5
@@ -22556,8 +27197,8 @@ const listeRevision = [
                 "id": "1734899027731xr6vf"
             },
             {
-                "term": "(¿)Qué quiere hacer?",
-                "definition": "Qu'est-ce que vous voulez faire?",
+                "term": "(¿)Qué quiere hacer",
+                "definition": "Qu'est-ce que vous voulez faire",
                 "status": [
                     3,
                     null

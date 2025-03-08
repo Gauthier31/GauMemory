@@ -411,6 +411,11 @@ button {
     background-color: var(--rougeFonce);
 }
 
+.rouge-btn:disabled {
+    background-color: var(--grisClair);
+    color: var(--blanc);
+}
+
 .gris-btn {
     background-color: var(--grisClair);
     color: var(--blanc);
@@ -738,7 +743,8 @@ audio {
 .card-container {
     width: 80dvw;
     height: 50dvh;
-    perspective: 1000px; /* Nécessaire pour l'effet 3D */
+    perspective: 1000px;
+    /* Nécessaire pour l'effet 3D */
 }
 
 .card {
@@ -753,10 +759,11 @@ audio {
     transform: rotateX(180deg);
 }
 
-.front, .back {
+.front,
+.back {
     width: 100%;
     height: 100%;
-    position: absolute; 
+    position: absolute;
     backface-visibility: hidden;
     display: flex;
     justify-content: center;

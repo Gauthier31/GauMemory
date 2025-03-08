@@ -114,8 +114,8 @@ function initTestFicheRevision() {
 
 function initMeans() {
     console.log("initMeans()");
-    mean1.innerHTML = revision.means[0] + `<input type="radio" name="test-mode" value="` + 0 + `" onclick="updateLangue('` + revision.means[0] + `')">`;
-    mean2.innerHTML = revision.means[1] + `<input  type="radio" name="test-mode" value="` + 1 + `" onclick="updateLangue('` + revision.means[1] + `')">`;
+    mean1.innerHTML = revision.means[0] + `<input checked type="radio" name="test-mode" value="` + 0 + `" onclick="updateLangue('` + revision.means[0] + `')">`;
+    mean2.innerHTML = revision.means[1] + `<input type="radio" name="test-mode" value="` + 1 + `" onclick="updateLangue('` + revision.means[1] + `')">`;
     langue = document.querySelector('input[name="test-mode"]:checked').value;
 }
 
@@ -771,6 +771,7 @@ function showGroupSummary() {
 // Fonction pour afficher le modal du groupe avec une overlay
 function showModalGroup(content) {
     console.log("showModalGroup(content)");
+    closeModalVal = false;
 
     // Création de l'overlay
     const overlay = document.createElement('div');
@@ -785,13 +786,14 @@ function showModalGroup(content) {
             <h2>Résumé du Groupe</h2>
             ${content}
             <div class="row jc-center mt-20 g-50">
-                <button class="rouge-btn fs-16" onclick="closeModal()">Fermer</button>
+                <button id="modal-btn-close" class="rouge-btn fs-16" onclick="closeModal()" disabled>Fermer</button>
             </div>
         </div>`;
     document.body.appendChild(modalGroup);
 
     setTimeout(() => {
         closeModalVal = true;
+        document.getElementById('modal-btn-close').disabled = false;
     }, 1000);
 }
 
